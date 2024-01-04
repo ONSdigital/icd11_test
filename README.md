@@ -14,8 +14,8 @@ Files can be:
 > Access can have problems when importing regular expressions. If you see such an issue try copying and pasting the content of the problematic table over itself.
 
 ## Disclaimers
-- This ICD-11 English dictionary is owned by the [Office for National Statistics](https://www.ons.gov.uk/). It is developed by ONS based on the causes of deaths that have occurred in England and Wales. Neither the [Iris Institute](https://www.bfarm.de/EN/Code-systems/Collaboration-and-projects/Iris-Institute/_node.html) nor the [World Health Organization](https://icd.who.int/en) are involved in its design, creation and development.
-- The International Classification of Diseases, Eleventh Revision (ICD-11) is produced and owned by the World Health Organization. (International Classification of Diseases Eleventh Revision (ICD-11). Geneva: World Health Organization; 2022. License: CC BY-ND 3.0 IGO.)
+- This ICD-11 English dictionary is owned by the [Office for National Statistics](https://www.ons.gov.uk/). It is developed by ONS based on the causes of deaths that have occurred in England and Wales. Neither the [Iris Institute](https://www.bfarm.de/EN/Code-systems/Collaboration-and-projects/Iris-Institute/_node.html) nor the [World Health Organization](https://who.int/) are involved in its design, creation and development.
+- [The International Classification of Diseases, Eleventh Revision (ICD-11)](https://icd.who.int/en/) is produced and owned by the World Health Organization. (International Classification of Diseases Eleventh Revision (ICD-11). Geneva: World Health Organization; 2022. License: CC BY-ND 3.0 IGO.)
 - The Iris Institute owns the deployment, maintenance and development of the Iris software, an electronic system for automated coding of causes of death.
 - The product is shared free of charge by ONS to aid Iris software testing in other countries.
 - This ICD-11 English dictionary is provided on an "as is" and "as available" basis. It is ongoing work by ONS, and will be updated as and when deemed necessary. ONS does not commit to updating the product at regular intervals.
