@@ -1,0 +1,201 @@
+MainKey	Rank	FilterIn	FilterOut	ActionVar	Likelihood	Prompt	YearStart	YearEnd	DateIn	UserIn	DateOut	UserOut	Comments	NoApplyForDT	AddResultInDT
+020OrderingIssue	0010	arr[hy]*?the?mi?as?\b	ARRHYTHMIA				2023	9999	25/07/2023	PH			Common misspelling (needs to come first to avoid an incorrect fix for '-emai-		
+020OrderingIssue	0020	\bleft-	LEFT 				2023	9999	25/07/2023	PH			Replace dash with space		
+020OrderingIssue	0030	\bright-	RIGHT 				2023	9999	25/07/2023	PH			Replace dash with space		
+030FirstFix	0040	&	AND				2023	9999	30/11/2023	PH			&'s just increase confusion (experimental)		
+030FirstFix	0050	\(?type[-\s]?(one|i|l)\)?	TYPE 1				2023	9999	25/07/2023	PH			"All ""type 1""-related terms go to the number 1, including if in brackets. May cause side-effects"		
+030FirstFix	0060	\(?type[-\s]?(2|two|ii|ll|11|1i|1l)\)?	TYPE 2				2023	9999	25/07/2023	PH			"All ""type 2""-related terms go to the number 2, including if in brackets. May cause side-effects"		
+030FirstFix	0070	\bt2\b	TYPE 2				2023	9999	06/10/2023	PH			Common abbreviation		
+030FirstFix	0080	\ba(cc)?quired\b	ACQUIRED				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0090	\ba?ei?tr?[eio]+logy\b	AETIOLOGY				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0100	\baneur[isy]+m\b	ANEURYSM				2023	9999	21/11/2023	PH			Common misspelling		
+030FirstFix	0110	"\bap[aeno]{2,4}\b"	APNOEA				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0120	\bathero?sc?[il][eo]ro[st]i[cs]\b	ATHEROSCLEROSIS				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0130	\bat?r[ai]*l\b	ATRIAL				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0140	\bbilary\b	BILARY				2023	9999	18/10/2023	PH			Common misspelling		
+030FirstFix	0150	\bbrian\b	BRAIN				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0160	\bbronchi[ae]c?t[aeo]sis\b	BRONCHIECTASIS				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0170	\bcardio.pulmonary\b	CARDIOPULMONARY				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0180	\bcardio.renal\b	CARDIORENAL				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0190	\bcardio.respiratory\b	CARDIORESPIRATORY				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0200	\bcardio.vascular\b	CARDIOVASCULAR				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0210	\bcere?bro[-\s]+vascular\b	CEREBROVASCULAR				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0220	\bch(ro|or)i?[mn]ic?\b	CHRONIC				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0230	\bdemetia\b	DEMENTIA				2023	9999	30/11/2023	PH			Common misspelling		
+030FirstFix	0240	\bdependance\b	DEPENDENCE				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0250	\bdependant\b	DEPENDENT				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0260	\bdiabet[ie]*s\b	DIABETES				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0270	"\bd[aeius]{4,6}e\b"	DISEASE				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0280	\be(s?cher[isch]*?ia)?.?-? ?coli\b	E COLI				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0290	\bend-stage\b	END STAGE				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0300	\bfascitis\b	FASCIITIS				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0310	\bfibr[iu]ll?[ai]+tion\b	FIBRILLATION				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0320	\bgastro[ -]intestinal\b	GASTROINTESTINAL				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0330	\bhemo	HAEMO				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0340	\bhypertention\b	HYPERTENSION				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0350	\bideopathic\b	IDIOPATHIC				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0360	\binfr?a[cr]*t(ion)?\b	INFARCTION				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0370	\binterstit?al\b	INTERSTITIAL				2023	9999	28/07/2023	PH			Common misspelling		
+030FirstFix	0380	\bintra.cerebral\b	INTRACEREBRAL				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0390	"\bisc?h?[ae]{0,2}mic\b"	ISCHAEMIC				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0400	\blymph[eo]dema\b	LYMPHOEDEMA				2023	9999	06/10/2023	PH			Common misspelling		
+030FirstFix	0410	"\bme[eil]{1,4}t[aiu]{0,1}[as]\b"	MELLITUS				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0420	\bmy[ae]*sth[ae]*nia\b	MYAESTHENIA				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0430	\bnecrotizing\b	NECROTISING				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0440	\bneurone\b	NEURON				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0450	\b[oe]dema\b	OEDEMA				2023	9999	19/10/2023	PH			Common misspelling		
+030FirstFix	0460	\besophagus\b	OESOPHAGUS				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0470	\bpe?n[eiu]+monia\b	PNEUMONIA				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0480	\bpolyangitis\b	POLYANGIITIS				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0490	\bsever\b	SEVERE				2023	9999	26/07/2023	PH			Common misspelling		
+030FirstFix	0500	\bstoke?\b	STROKE				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0510	\bsyn?dro?me?\b	SYNDROME				2023	9999	25/07/2023	PH			Common misspelling		
+030FirstFix	0520	\btumor\b	TUMOUR				2023	9999	11/10/2023	PH			Common misspelling		
+030FirstFix	0530	\bunknow\b	UNKNOWN				2023	9999	06/09/2023	PH			Common misspelling		
+030FirstFix	0540	cytopaenia\b	CYTOPENIA				2023	9999	25/07/2023	PH			Common misspelling (can appear at the end of a longer word)		
+030FirstFix	0550	\bintercerebral\b	INTRACEREBRAL				2023	9999	04/10/2023	PH			Common misspelling (intercerebral doesn't make sense)		
+030FirstFix	0560	\bintercranial\b	INTRACRANIAL				2023	9999	18/10/2023	PH			Common misspelling (intercranial doesn't make sense)		
+030FirstFix	0570	\bfri?a?i?li?t?y\b	FRAILTY				2023	9999	25/07/2023	PH			Common misspelling. Monitor for side-effects		
+030FirstFix	0580	"\b\(?chronic,? Obstruc?ti(on|ve),? pulmonary?,? disease?\)?"	COPD				2023	9999	25/07/2023	PH			Consolidate on a single term		
+030FirstFix	0590	\bleft\ssided?\b	LEFT				2023	9999	25/07/2023	PH			Discard unnecessary 'sided'. Assumption needs validating		
+030FirstFix	0600	\bright\ssided?\b	RIGHT				2023	9999	25/07/2023	PH			Discard unnecessary 'sided'. Assumption needs validating		
+030FirstFix	0610	\(?non\s?-?\s?industrial\)?					2023	9999	28/07/2023	PH			Doesn't provide more information than the base term it qualifies		
+030FirstFix	0620	\(?joint( causes?( of death)?)?\)?					2023	9999	16/11/2023	PH			Doesn't provide more information than the base terms it qualifies		
+030FirstFix	0630	\(?non.?occupational\)?					2023	9999	04/09/2023	PH			Doesn't provide more information than the base terms it qualifies		
+030FirstFix	0640	\bestablished\b					2023	9999	25/10/2023	PH			Established has no meaning for us		
+030FirstFix	0650	\bischaemic and ([a-z]+) heart disease\b	"ISCHAEMIC HEART DISEASE, $1 HEART DISEASE"				2023	9999	18/10/2023	PH			Expanding common phrase		
+030FirstFix	0660	"^ischaemic, hypertensive and valvular heart disease\b"	"ISCHAEMIC HEART DISEASE, HYPERTENSIVE HEART DISEASE, VALVULAR HEART DISEASE"				2023	9999	30/08/2023	PH			Expanding common phrase		
+030FirstFix	0670	"^ischaemic, valvular and hypertensive heart disease\b"	"ISCHAEMIC HEART DISEASE, VALVULAR HEART DISEASE, HYPERTENSIVE HEART DISEASE"				2023	9999	13/09/2023	PH			Expanding common phrase		
+030FirstFix	0680	^valvular and coronary heart disease\b	"VALVULAR HEART DISEASE, CORONARY HEART DISEASE"				2023	9999	20/11/2023	PH			Expanding common phrase		
+030FirstFix	0690	^valvular and hypertensive heart disease\b	"VALVULAR HEART DISEASE, HYPERTENSIVE HEART DISEASE"				2023	9999	20/11/2023	PH			Expanding common phrase		
+030FirstFix	0700	"^valvular, hypertensive and ischaemic heart disease\b"	"VALVULAR HEART DISEASE, HYPERTENSIVE HEART DISEASE, ISCHAEMIC HEART DISEASE"				2023	9999	20/11/2023	PH			Expanding common phrase		
+030FirstFix	0710	^valvular and ischaemic heart disease\b	"VALVULAR HEART DISEASE, ISCHAEMIC HEART DISEASE"				2023	9999	20/11/2023	PH			Expanding common phrase		
+030FirstFix	0720	"\bheart, disease\b"	HEART DISEASE				2023	9999	21/11/2023	PH			Experimental change for bad punctuation. May have side-effects		
+030FirstFix	0730	\bpost -	POST				2023	9999	28/07/2023	PH			"Fixing odd punctuation for things like ""Post - Covid…"""		
+030FirstFix	0740	mixed vascular and ([a-z]+) dementia	"VASCULAR DEMENTIA, $1 DEMENTIA"				2023	9999	31/07/2023	PH			"Mixed vascular and {something] dementia is a common pattern. It's unclear whether these should be separated, or combined into 6D802 or 6D803. INVESTIGATE!"		
+030FirstFix	0750	"[- \(]{1,3}(unknown organism|organism unknown)\)?"					2023	9999	17/10/2023	PH			"Qualifier makes no difference to coding, and can be discarded"		
+030FirstFix	0760	[ \(]{2}no organism identified\)					2023	9999	17/10/2023	PH			"Qualifier makes no difference to coding, and can be discarded"		
+030FirstFix	0770	^\(severe\)	SEVERE				2023	9999	11/10/2023	PH			"Removes brackets around ""(Severe)"" at the start of text"		
+030FirstFix	0780	\b(.*)([^a])emia\b	$1$2AEMIA				2023	9999	25/07/2023	PH			Replace any -emia to -aemia (skipping those that are already -aemia)		
+030FirstFix	0790	\b(.*)([^at])emic\b	$1$2AEMIC				2023	9999	25/07/2023	PH			"Replace any -emic to -aemic (skipping those that are already -aemic, and avoiding systemic)"		
+030FirstFix	0800	\b\(?chronic pulmonary? obstructive disease?\)?	COPD				2023	9999	25/07/2023	PH			Same term in a different order		
+030FirstFix	0810	\bal?ze?h?[ei]*mer'?s'?\b	ALZHEIMER				2023	9999	25/07/2023	PH			"Simplify plural to singular, and some optional characters and spellings"		
+030FirstFix	0820	\bmulti(ple)? ?-? ?organ\b	MULTI ORGAN				2023	9999	25/07/2023	PH			Simplify various punctuation options down to the ICD-11 target		
+030FirstFix	0830	\bmulti(ple)? ?-? ?system\b	MULTIPLE SYSTEM				2023	9999	25/07/2023	PH			Simplify various punctuation options down to the ICD-11 target		
+030FirstFix	0840	"\bacute[\s-](on|and)?[\s-]?chronic ([^,\n]*)"	"ACUTE $2, CHRONIC $2"				2023	9999	07/08/2023	PH			"Splits acute on chronic conditions to ""acute condition, chronic condition"". Uses a comma or new line to identify the end of 'condition', which is imperfect but good enough"		
+030FirstFix	0850	\bB cell\b	B-CELL				2023	9999	08/11/2023	PH			Standardise on hyphenated form		
+030FirstFix	0860	\bintraabdominal\b	INTRA-ABDOMINAL				2023	9999	23/08/2023	PH			Standardise on hyphenated form		
+030FirstFix	0870	\bnon ?traumatic\b	NON-TRAUMATIC				2023	9999	13/10/2023	PH			Standardise on hyphenated form		
+030FirstFix	0880	\bnon-small\b	NON SMALL				2023	9999	08/11/2023	PH			Standardise on non hyphenated form		
+030FirstFix	0890	\boid\b	OLD				2023	9999	25/07/2023	PH			Standardise on non-possessive name		
+030FirstFix	0900	"\brett['\?s]{1,2}\b"	RETT				2023	9999	25/07/2023	PH			Standardise on non-possessive name		
+030FirstFix	0910	\bbrain.stem\b	BRAINSTEM				2023	9999	21/11/2023	PH			Standardise on one word		
+030FirstFix	0920	\bintra.cranial\b	INTRACRANIAL				2023	9999	21/11/2023	PH			Standardise on one word		
+030FirstFix	0930	\badvance\b	ADVANCED				2023	9999	25/07/2023	PH			"The word 'advance' is not used in ICD-11, always 'advanced'"		
+030FirstFix	0940	\blong lie\b					2023	9999	31/08/2023	PH			We don't code anything for this		
+040SpecificFix	0950	\bfrailty ?[-/&+] ?old age\b	FRAILTY OF OLD AGE				2023	9999	25/07/2023	PH			Common confusing combination of terms		
+040SpecificFix	0960	\bIHD \(?ischaemic heart disease\)?	ISCHAEMIC HEART DISEASE				2023	9999	10/08/2023	PH			Common duplication		
+040SpecificFix	0970	"\bischaemic, heart disease\b"	ISCHAEMIC HEART DISEASE				2023	9999	10/08/2023	PH			Common duplication		
+040SpecificFix	0980	\buti \(?urinary tract infection\)?	URINARY TRACT INFECTION				2023	9999	10/08/2023	PH			Common duplication		
+040SpecificFix	0990	\banti[-\s]synthetase\b	ANTISYNTHETASE				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1000	"\bbron?ch?o?[-\s]?pn[eu]{1,2}monia\b"	BRONCHOPNEUMONIA				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1010	\bcor\s?-?pulmonale\b	COR PULMONALE				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1020	\bcovid\s?-?\s?19\b	COVID-19				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1030	\bfri?edre?ich'?s?\b	FRIEDREICH				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1040	\bfronto.temporal\b	FRONTOTEMPORAL				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1050	\bgall bladder\b	GALLBLADDER				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1060	\bgood\s?pastures?'?s?\b	GOODPASTURE				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1070	\bgui?llain.barre\b	GUILLAIN BARRE				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1080	\bha?emm?orr?h?age\b	HAEMORRHAGE				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1090	\bhepato.renal\b	HEPATORENAL				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1100	\bhunting[td]on'?s?\b	HUNTINGTON				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1110	"\bpulmonary fibrosis , ?idiopathic\b"	IDIOPATHIC PULMONARY FIBROSIS				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1120	\bmening[ei]?o[\s-]?enceph[ae]litis\b	MENINGOENCEPHALITIS				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1130	"\bsj[gor]{1,4}en['\?s]{1,2}\b"	SJOGREN				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1140	\bsub.arachnoid\b	SUBARACHNOID				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1150	\bsupra.nuclear\b	SUPRANUCLEAR				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1160	"\bwaldenst[or]*m['\?s]{1,2}\b"	WALDENSTROM				2023	9999	25/07/2023	PH			Common misspelling		
+040SpecificFix	1170	\bhypercho?l[eio]st[aeior]*[aehilnor]+mi?a\b	HYPERCHOLESTEROLAEMIA				2023	9999	25/07/2023	PH			Common misspelling (may be too broad)		
+040SpecificFix	1180	\(?on dialysis\)?	", DIALYSIS"				2023	9999	14/08/2023	PH			Dialysis is often recorded as an adjunct		
+040SpecificFix	1190	"\batrial fibrillation ,?\(?anti\s?-?coagulated\)?"	ATRIAL FIBRILLATION				2023	9999	20/11/2023	PH	21/12/2023	PH	Removed because of a higher level standardisation of 'space comma'		
+040SpecificFix	1200	"\batrial fibrillation,? ,?\(?(on )?anticoagulation\)?"	ATRIAL FIBRILLATION				2023	9999	20/11/2023	PH	21/12/2023	PH	Removed because of a higher level standardisation of 'space comma'		
+040SpecificFix	1210	"\batrial fibrillation, ?\(?anti\s?-?coagulated\)?"	ATRIAL FIBRILLATION				2023	9999	21/12/2023	PH			Updated form to allow for higher level 'space comma' fix		
+040SpecificFix	1220	"\batrial fibrillation,? \(?(on )?anticoagulation\)?"	ATRIAL FIBRILLATION				2023	9999	21/12/2023	PH			Updated form to allow for higher level 'space comma' fix		
+040SpecificFix	1230	"\bcongestive cardiac, failure\b"	CONGESTIVE CARDIAC FAILURE				2023	9999	21/11/2023	PH			Final chance to fix punctuation issues		
+040SpecificFix	1240	\(?C\.?O\.?P\.?D\.?\)?	COPD				2023	9999	25/07/2023	PH			Final chance to fix punctuation issues		
+040SpecificFix	1250	"\b(broncho)?pneumonia , ?community (acquired|associated)\b"	COMMUNITY ACQUIRED $1PNEUMONIA				2023	9999	07/08/2023	PH	21/12/2023	PH	Removed because of a higher level standardisation of 'space comma'		
+040SpecificFix	1260	"\b(broncho)?pneumonia, ?community (acquired|associated)\b"	COMMUNITY ACQUIRED $1PNEUMONIA				2023	9999	21/12/2023	PH			Fixing odd punctuation		
+040SpecificFix	1270	"\bCovid(-19)? (infection|pneumonitis)? ?, ?community.acquired\b"	COMMUNITY ACQUIRED COVID-19 $2				2023	9999	07/08/2023	PH			Fixing odd punctuation		
+040SpecificFix	1280	\(?on haemodialysis\)?	", HAEMODIALYSIS"				2023	9999	14/08/2023	PH			Haemodialysis is often recorded as an adjunct		
+040SpecificFix	1290	"\bsepsis ,chest\b"	CHEST SEPSIS				2023	9999	21/12/2023	PH			Inappropriate comma placement		
+040SpecificFix	1300	"\bchronic kidney, disease\b"	CHRONIC KIDNEY DISEASE				2023	9999	20/12/2023	PH			Removing extraneous comma		
+040SpecificFix	1310	"\bdiabetes, mellitus\b"	DIABETES MELLITUS				2023	9999	14/08/2023	PH			Removing extraneous comma		
+040SpecificFix	1320	"\bmellitus[ ,]+type\b"	MELLITUS TYPE				2023	9999	30/11/2023	PH			Removing extraneous comma		
+040SpecificFix	1330	"\bperipheral, vascular\b"	PERIPHERAL VASCULAR				2023	9999	01/09/2023	PH			Removing extraneous comma		
+040SpecificFix	1340	"\bsudden, unexpected\b"	SUDDEN UNEXPECTED				2023	9999	14/08/2023	PH			Removing extraneous comma		
+040SpecificFix	1350	"^alcohol (abuse|excess) ,chronic$"	CHRONIC ALCOHOL $1				2023	9999	19/12/2023	PH	21/12/2023	PH	Removed because of a higher level standardisation of 'space comma'		
+040SpecificFix	1360	"^alcohol (abuse|excess), chronic$"	CHRONIC ALCOHOL $1				2023	9999	21/12/2023	PH			Reorder confusing chronic condition when it's the only term on the line		
+040SpecificFix	1370	\bdementia \(vascular\)	VASCULAR DEMENTIA				2023	9999	25/07/2023	PH			Reordering to a standard form		
+040SpecificFix	1380	"\b(decompensated )?alcohol( |ic|-)?(related )? ?liver disease ,chronic\b"	CHRONIC $1 ALCOHOL-RELATED LIVER DISEASE				2023	9999	21/12/2023	PH			"Simplifying "", chronic"" conditions. May be too complicated"		
+040SpecificFix	1390	"\bchronic kidney disease, stage (\d)\b"	CKD $1				2023	9999	14/12/2023	PH			Standardise CKD numbering		
+040SpecificFix	1400	\bstage (3|4|5) chronic kidney disease\b	CKD $1				2023	9999	26/07/2023	PH			Standardise CKD numbering		
+040SpecificFix	1410	\bchronic kidney disease\s?-?\s?\(?(stage|grade)?\s?(\d)(a|b)?\)?\b	CKD $2$3				2023	9999	25/07/2023	PH			Standardise CKD numbering		
+040SpecificFix	1420	\bckd\s?-?\s?(stage)?\s?(\d)(a|b)?\b	CKD $2$3				2023	9999	25/07/2023	PH			Standardise CKD numbering		
+040SpecificFix	1430	"\bchronic kidney disease ,stage 3\b"	CKD 3				2023	9999	19/12/2023	PH			Standardise CKD numbering		
+040SpecificFix	1440	\bchronic kidney disease\s(stage)?\s?(iii|three|lll)\b	CKD 3				2023	9999	25/07/2023	PH			Standardise CKD numbering		
+040SpecificFix	1450	\bchronic kidney disease\s(stage)?\s?(iv|four)\b	CKD 4				2023	9999	25/07/2023	PH			Standardise CKD numbering		
+040SpecificFix	1460	\bchronic kidney disease\s(stage)?\s?(v|five)\b	CKD 5				2023	9999	25/07/2023	PH			Standardise CKD numbering		
+040SpecificFix	1470	"\b(af\s)?\(?atrial,?\s? fibrillation\)?"	ATRIAL FIBRILLATION				2023	9999	04/08/2023	PH			Standardise on full name		
+040SpecificFix	1480	\bleft-ventricular\b	LEFT VENTRICULAR				2023	9999	13/11/2023	PH			Standardise on non-hyphenated form		
+040SpecificFix	1490	\baddison'?s?\b	ADDISON				2023	9999	25/07/2023	PH			Standardise on non-possessive name		
+040SpecificFix	1500	"\bbarr?ett['\?s]{1,2}\b"	BARRETT				2023	9999	25/07/2023	PH			Standardise on non-possessive name		
+040SpecificFix	1510	"\bbuerger['\?s]{1,2}\b"	BUERGER				2023	9999	25/07/2023	PH			Standardise on non-possessive name		
+040SpecificFix	1520	\bdown['s]+\b	DOWN				2023	9999	25/07/2023	PH			Standardise on non-possessive name		
+040SpecificFix	1530	\bfournier'?s?\b	FOURNIER				2023	9999	25/07/2023	PH			Standardise on non-possessive name		
+040SpecificFix	1540	\bkorsakoff'?s?\b	KORSAKOFF				2023	9999	25/07/2023	PH			Standardise on non-possessive name		
+040SpecificFix	1550	\bmarfan'?s?\b	MARFAN				2023	9999	25/07/2023	PH			Standardise on non-possessive name		
+040SpecificFix	1560	"\bwernicke['\?s]{1,2}\b"	WERNICKE				2023	9999	25/07/2023	PH			Standardise on non-possessive name (fixes Rett's and Barrett's)		
+040SpecificFix	1570	"\bc[roh]{3}n['\?s]{1,2}\b"	CROHN				2023	9999	25/07/2023	PH			Standardise on non-possessive name (sometimes get a question mark in these)		
+040SpecificFix	1580	"\bhodgkin['\?s]{1,2}\b"	HODGKIN				2023	9999	25/07/2023	PH			Standardise on non-possessive name (sometimes get a question mark in these)		
+040SpecificFix	1590	"\bpar?kin?son['\?s]{1,2}\b"	PARKINSON				2023	9999	25/07/2023	PH			Standardise on non-possessive name (sometimes get a question mark in these)		
+040SpecificFix	1600	"\bdiabetes ,type 2\b"	DIABETES TYPE 2				2023	9999	19/12/2023	PH	21/12/2023	PH	Removed because of a higher level standardisation of 'space comma'		
+040SpecificFix	1610	\bairways\b	AIRWAY				2023	9999	07/08/2023	PH			Standardise variant forms		
+040SpecificFix	1620	\balcohol\s-?\s?related\b	ALCOHOL-RELATED				2023	9999	25/07/2023	PH			Standardise variant forms		
+040SpecificFix	1630	\balpha[\s1-]*(one|1)?[\s1-]*antitrypsin\b	ALPHA-1-ANTITRYPSIN				2023	9999	25/07/2023	PH			Standardise variant forms		
+040SpecificFix	1640	\bcoronavirus ?-? ?19\b	COVID-19				2023	9999	25/07/2023	PH			Standardise variant forms		
+040SpecificFix	1650	"\bcreutzfeldt[ -]{1,3}jakob\b"	CREUTZFELDT-JAKOB				2023	9999	17/10/2023	PH			Standardise variant forms		
+040SpecificFix	1660	\bgall(bladder)?\s?stones?\b	GALLSTONE				2023	9999	04/09/2023	PH			Standardise variant forms		
+040SpecificFix	1670	\bdementia[\s\-\(]+mixed type\)?	MIXED DEMENTIA				2023	9999	04/08/2023	PH			Standardise variant forms		
+040SpecificFix	1680	\bnon.insulin\b	NON INSULIN				2023	9999	25/07/2023	PH			Standardise variant forms		
+040SpecificFix	1690	\bnon[-|\s]st[-|\s]elevation\b	NON ST ELEVATION				2023	9999	25/07/2023	PH			Standardise variant forms		
+040SpecificFix	1700	\bnon\s?alcoholic\b	NON-ALCOHOLIC				2023	9999	16/08/2023	PH			Standardise variant forms		
+040SpecificFix	1710	\bpre.diabetes\b	PREDIABETES				2023	9999	04/09/2023	PH			Standardise variant forms		
+040SpecificFix	1720	\bpseudo\s?obstruction\b	PSEUDO-OBSTRUCTION				2023	9999	24/10/2023	PH			Standardise variant forms		
+040SpecificFix	1730	\bsars[ -]+cov[ -]?2\b	SARS-COV-2				2023	9999	12/12/2023	PH			Standardise variant forms		
+040SpecificFix	1740	\bsteato\s?hepatitis\b	STEATOHEPATITIS				2023	9999	16/08/2023	PH			Standardise variant forms		
+040SpecificFix	1750	\b\bdiabetes mellitus (. ?Type)? ?(\d)\)?	TYPE $2 DIABETES MELLITUS				2023	9999	29/11/2023	PH			Standardise variant forms		
+040SpecificFix	1760	\(?COPD\)?\s?-?\s?\(?COPD\)?	COPD				2023	9999	25/07/2023	PH			Unfortunate duplication based on simplification of various terms		
+040SpecificFix	1770	\be coli \(?e coli\)?	E COLI				2023	9999	07/08/2023	PH			Unfortunate duplication based on simplification of various terms		
+050Reorder	1780	",\schronic, \b([^,\n]*)"	", CHRONIC $1"				2023	9999	08/08/2023	PH			"Amend ""condition, chronic, condition"" to ""condition, chronic condition"""		
+050Reorder	1790	"\b([^,\n]*)\s?\(chronic\)"	CHRONIC $1				2023	9999	08/08/2023	PH			"Reorders ""condition (chronic)"" to ""chronic condition"""		
+050Reorder	1800	"\b([^,\-\n]*)\s?\(severe\s?\)"	SEVERE $1				2023	9999	11/10/2023	PH			"Reorders ""condition (severe)"" to ""severe condition"""		
+050Reorder	1810	"\b([^,\n]*),\schronic$"	CHRONIC $1				2023	9999	08/08/2023	PH			"Reorders a term ending ""condition, chronic"" to ""chronic condition"""		
+050Reorder	1820	"\b(([a-z]*\s){1,5})\s?\(idiopathic\)"	IDIOPATHIC $1				2023	9999	25/07/2023	PH			Reorders 'some words (idiopathic)' into 'idiopathic some words'		
+050Reorder	1830	\b(hospital|community) ?-? ?(acquired|associated)\b	$1 ACQUIRED				2023	9999	25/07/2023	PH			Standardise on acquired		
+100SplitCombined	1840	\b(mitral|aortic) and (mitral|aortic) stenosis\b	"$1 STENOSIS, $2 STENOSIS"				2023	9999	11/09/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1850	\baortic and mitral valve disease\b	"AORTIC VALVE DISEASE, MITRAL VALVE DISEASE"				2023	9999	11/09/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1860	\batrial fibrillation chronic kidney disease\b	"ATRIAL FIBRILLATION, CHRONIC KIDNEY DISEASE"				2023	9999	01/12/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1870	\batrial fibrillation hypertension\b	"ATRIAL FIBRILLATION, HYPERTENSION"				2023	9999	01/09/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1880	\batrial fibrillation ischaemic heart disease\b	"ATRIAL FIBRILLATION, ISCHAEMIC HEART DISEASE"				2023	9999	25/07/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1890	\bcongestive cardiac failure ischaemic heart disease\b	"CONGESTIVE CARDIAC FAILURE, ISCHAEMIC HEART DISEASE"				2023	9999	25/07/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1900	\bdementia frailty\b	"DEMENTIA, FRAILTY"				2023	9999	25/07/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1910	\bfrailty of old age atrial fibrillation\b	"FRAILTY, ATRIAL FIBRILLATION"				2023	9999	14/08/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1920	\bhypertension atrial fibrillation\b	"HYPERTENSION, ATRIAL FIBRILLATION"				2023	9999	25/07/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1930	\bhypertension chronic kidney disease\b	"HYPERTENSION, CHRONIC KIDNEY DISEASE"				2023	9999	01/12/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1940	\bhypertension ischaemic heart disease\b	"HYPERTENSION, ISCHAEMIC HEART DISEASE"				2023	9999	25/07/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1950	\bischaemic heart disease atrial fibrillation\b	"ISCHAEMIC HEART DISEASE, ATRIAL FIBRILLATION"				2023	9999	25/07/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1960	\bischaemic heart disease and mitral valve disease\b	"ISCHAEMIC HEART DISEASE, MITRAL VALVE DISEASE"				2023	9999	11/09/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1970	\bischaemic heart disease type 2 diabetes mellitus\b	"ISCHAEMIC HEART DISEASE, TYPE 2 DIABETES MELLITUS"				2023	9999	25/07/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1980	\bmitral and aortic valve disease\b	"MITRAL VALVE DISEASE, AORTIC VALVE DISEASE"				2023	9999	25/07/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	1990	\btype 2 diabetes mellitus copd\b	"TYPE 2 DIABETES MELLITUS, COPD"				2023	9999	24/10/2023	PH			Splitting a possibly common combination of terms		
+100SplitCombined	2000	\btype 2 diabetes mellitus ischaemic heart disease\b	"TYPE 2 DIABETES MELLITUS, ISCHAEMIC HEART DISEASE"				2023	9999	19/12/2023	PH			Splitting a possibly common combination of terms		

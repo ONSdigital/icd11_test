@@ -1,0 +1,8 @@
+MainKey	Rank	FilterIn	FilterOut	ActionVar	Likelihood	Prompt	YearStart	YearEnd	DateIn	UserIn	DateOut	UserOut	Comments	NoApplyForDT	AddResultInDT
+999Finally	0010	(aortic valve replacement|a fall|graft|immunosuppression|operated|perforated|repair|stented|transplant)	 MANUAL REVIEW 				2023	9999	31/08/2023	PH			Useful to ignore phrases that we know need to be rejected. Remove before production.		
+999Finally	0020	\bII\b					2023	9999	25/07/2023	PH			Separating out the Part II when everyone else has had a go (unclear what level this should go at)		
+999Finally	0030	\bmultiple\b					2023	9999	06/09/2023	PH			Multiple is rarely meaningful to us		
+999Finally	0040	\brecent\b					2023	9999	24/10/2023	PH			Recent isn't meaningful to us. This might be suitable in S0		
+999Finally	0050	\bspontaneous\b					2023	9999	25/07/2023	PH			Discarding Spontaneous when everyone else has had a go (unclear what level this should go at). Think about nTR flag.		
+999Finally	0060	\btreated\b					2023	9999	01/08/2023	PH			Treated isn't meaningful to us. This might be suitable in S0		
+999Finally	0070	\b\(?unspecified\)?\b					2023	9999	01/08/2023	PH			Unspecified isn't meaningful to us. This might be suitable in S0		

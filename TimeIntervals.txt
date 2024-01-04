@@ -1,0 +1,85 @@
+MainKey	Rank	FilterIn	FilterOut	ActionVar	Likelihood	Prompt	YearStart	YearEnd	DateIn	UserIn	DateOut	UserOut	Comments	NoApplyForDT	AddResultInDT
+005Duration	0010	(more than)? five years	5Years				2005	9999	04/05/2011 00:00	LJ					
+005Duration	0015	(more than)? two years	2Years				2005	9999	04/05/2011 00:00	LJ					
+010Duration	00100	(since)?\s(\d\d?)\s?year(s)?(\sago)?	§$2Years§				2005	9999	04/05/2011 00:00	LJ					
+010Duration	0020	\b[(]?\s?(\d\d?)\s?month(s)?[)]?\b	§$1Months§				2005	9999	20/08/2010 00:00	GP					
+010Duration	0030	\b[(]?\s?(\d\d?)\s?week(s)?[)]?\b	§$1Weeks§				2005	9999	20/08/2010 00:00	GP					
+010Duration	00300	(since)?\s(\d\d?)\s?day(s)?\b	§$2Days§				2005	9999	25/03/2009 00:00	SW					
+010Duration	0040	\b[(]?\s?(\d\d?)\s?day(s)?[)]?\b	§$1Days§				2005	9999	20/08/2010 00:00	GP					
+010Duration	00400	(since)?\s(\d\d?)\s?hour(s)?\b	§$2Hours§				2005	9999	25/03/2009 00:00	SW					
+010Duration	0050	\b[(]?\s?(\d\d?)\s?hour(s)?[)]?\b	§$1Hours§				2005	9999	20/08/2010 00:00	GP					
+010Duration	0060	\b[(]?\s?(\d\d?)\s?minute(s)?[)]?\b	§$1Minutes§				2005	9999	20/08/2010 00:00	GP					
+010Duration	01100	(since)?\s(\d\d?)\s?y\b	§$2Years§				2005	9999	25/03/2009 00:00	SW					
+010Duration	01200	(since)?\s(\d\d?)\s?month(s)?\b	§$2Months§				2005	9999	25/03/2009 00:00	SW					
+010Duration	01300	(since)?\s(\d\d?)\s?d\b	§$2Days§				2005	9999	25/03/2009 00:00	SW					
+010Duration	01400	(since)?\s(\d\d?)\s?h\b	§$2Hours§				2005	9999	25/03/2009 00:00	SW					
+010Duration	01500	(since)?\s(\d\d?)\s?minute(s)?\b	§$2Minutes§				2005	9999	25/03/2009 00:00	SW					
+010Duration	01510	(since)?\s(\d\d?)\s?week(s)?\b	§$2Weeks§				2005	9999	25/03/2009 00:00	SW					
+100Month	0010	\bjanuary\b	01/				2005	9999	19/08/2010 00:00	BW					
+100Month	0020	\bfebruay\b	02/				2005	9999	19/08/2010 00:00	BW					
+100Month	0030	\bmarch\b	03/				2005	9999	19/08/2010 00:00	BW					
+100Month	0040	\bapril\b	04/				2005	9999	19/08/2010 00:00	BW					
+100Month	0050	\bmay\b	05/				2005	9999	19/08/2010 00:00	BW					
+100Month	0060	\bjune\b	06/				2005	9999	19/08/2010 00:00	BW					
+100Month	0070	\bjuly\b	07/				2005	9999	19/08/2010 00:00	BW					
+100Month	0080	\baugust\b	08/				2005	9999	19/08/2010 00:00	BW					
+100Month	0090	\bseptember\b	09/				2005	9999	19/08/2010 00:00	BW					
+100Month	0100	\boctober\b	10/				2005	9999	19/08/2010 00:00	BW					
+100Month	0110	\bnovember\b	11/				2005	9999	19/08/2010 00:00	BW					
+100Month	0120	\bdecember\b	12/				2005	9999	19/08/2010 00:00	BW					
+190Monat	00010	january[\s.]*	01/				2005	9999	25/03/2009 00:00	SW					
+190Monat	00020	february[\s.]*	02/				2005	9999	25/03/2009 00:00	SW					
+190Monat	00030	march[\s.]*	03/				2005	9999	25/03/2009 00:00	SW					
+190Monat	00040	april[\s.]*	04/				2005	9999	25/03/2009 00:00	SW					
+190Monat	00050	may[\s.]*	05/				2005	9999	25/03/2009 00:00	SW					
+190Monat	00060	june[\s.]*	06/				2005	9999	25/03/2009 00:00	SW					
+190Monat	00070	july[\s.]*	07/				2005	9999	25/03/2009 00:00	SW					
+190Monat	00080	august[\s.]*	08/				2005	9999	25/03/2009 00:00	SW					
+190Monat	00090	september[\s.]*	09/				2005	9999	25/03/2009 00:00	SW					
+190Monat	00100	october[\s.]*	10/				2005	9999	25/03/2009 00:00	SW					
+190Monat	00110	november[\s.]*	11/				2005	9999	25/03/2009 00:00	SW					
+190Monat	00120	december[\s.]*	12/				2005	9999	25/03/2009 00:00	SW					
+195Format	00010	since\s(\d\d?)[./](\d{4})\b		MMYYYY			2005	9999	25/03/2009 00:00	SW					
+200Date	0010	\b(\d\d?)[./-](\d\d?)[./-](\d{4})\b		DDMMYYYY			2005	9999	19/08/2010 00:00	BW					
+200Date	0020	\b(\d\d?)[./-](\d\d?)[./-](\d\d)\b		DDMMYY			2005	9999	19/08/2010 00:00	BW					
+200Date	0030	\b(\d\d?)[/](\d{4})\b		MMYYYY			2005	9999	19/08/2010 00:00	BW					
+200Date	0040	\b(\d\d?)[/](\d\d)\b		MMYY			2005	9999	19/08/2010 00:00	BW					
+200Date	0050	\b19\d\d\b		YYYY			2005	9999	19/08/2010 00:00	BW					
+200Date	0060	\b20\d\d\b		YYYY			2005	9999	19/08/2010 00:00	BW					
+200Datum	00180	(\d\d?)[./-](\d\d?)[./-](\d{4})		MMDDYYYY			2005	9999	25/03/2009 00:00	SW					
+200Datum	00280	(\d\d?)[./-](\d\d?)[./-](\d\d)		MMDDYY			2005	9999	25/03/2009 00:00	SW					
+210Datum	00380	(\d\d?)(\.|-|/)\w+(\.|-|/)(\d{4})		MMDDYYYY			2005	9999	25/03/2009 00:00	SW					
+210Datum	00480	(\d\d?)(\.|-|/)(\w+)(\.|-|/)(\d\d)		MMDDYY			2005	9999	25/03/2009 00:00	SW					
+220Datum	00500	\b(\d\d?)[/](\d{4})\b		MMYYYY			2005	9999	25/03/2009 00:00	SW					
+220Datum	00510	\b(\d\d?)[/](\d\d)\b		MMYY			2005	9999	25/03/2009 00:00	SW					
+250Datum	00010	\b19\d\d\b		YYYY			2005	9999	25/03/2009 00:00	SW					
+250Datum	00020	\b20\d\d\b		YYYY			2005	9999	25/03/2009 00:00	SW					
+250Datum	00030	20\d\d(.|-)?\d\d(.|-)?\d\d		YYYYMMDD			2005	9999	04/05/2011 00:00	LJ					
+300Status	0010	[(|§]?chronic[)|§]?	§Chronic§				2005	2022	02/04/2011 00:00	LJ	01/11/2023	PH	Temporarily suspended while we work out the need for these flags		
+300Status	0015	\bchron\b	§Chronic§				2005	2022	02/04/2011 00:00	LJ	01/11/2023	PH	Temporarily suspended while we work out the need for these flags		
+300Status	0020	[(|§]?acute[)|§]?	§Acute§				2005	2022	13/04/2011 00:00	LJ	01/11/2023	PH	Temporarily suspended while we work out the need for these flags		
+300Status	0030	[(|§]?congenital[)|§]?	§Congenital§				2005	2022	19/08/2010 00:00	BW	01/11/2023	PH	Temporarily suspended while we work out the need for these flags		
+300Status	0040	[(|§]?sequel(ae)?[)|§]?	§Sequel§				2005	2022	19/08/2010 00:00	BW	01/11/2023	PH	Temporarily suspended while we work out the need for these flags		
+300Status	0050	[(|§]?immediately[)|§]?	§Acute§				2005	2022	13/04/2011 00:00	LJ	01/11/2023	PH	Temporarily suspended while we work out the need for these flags		
+650Duration	00030	\b(\d\d?)sec\.	§$1Minutes§				2005	9999	25/03/2009 00:00	SW					
+650Duration	00040	\b(\d\d?)min\.	§$1Minutes§				2005	9999	25/03/2009 00:00	SW					
+660Duration	00009	(\b(for|since))?\smany\syear(s)?\b	§20Years§				2005	9999	04/05/2011 00:00	LJ					
+660Duration	00010	\byear(s)?\b	§2Years§				2005	9999	25/03/2009 00:00	SW					
+660Duration	00020	\bmonth(s)?\b	§2Month§				2005	9999	25/03/2009 00:00	SW					
+660Duration	00030	\bweek(s)?\b	§2Weeks§				2005	9999	25/03/2009 00:00	SW					
+660Duration	00039	\b(for)?\s?a?\s?few\sday(s)?\b	§2Days§				2005	9999	03/02/2011 00:00	LJ					
+660Duration	00040	\bday(s)?\b	§2Days§				2005	9999	25/03/2009 00:00	SW					
+660Duration	00050	\bhour(s)?\b	§2Hours§				2005	9999	25/03/2009 00:00	SW					
+660Duration	00060	\bminute(s)?\b	§2Minutes§				2005	9999	25/03/2009 00:00	SW					
+670DurationAdd	0010	\bsince\s§(\d\d?)Years§	§$1Years§				2005	9999	03/05/2011 00:00	LJ					
+RTPDuration	010	CLINICAL HISTORY OF					2005	9999	25/03/2009 00:00	SW					
+RTPDuration	020	LONG HISTORY OF	§Chronic§				2005	2022	25/03/2009 00:00	SW	01/11/2023	PH	Temporarily suspended while we work out the need for these flags		
+RTPDuration	030	PAST HISTORY OF	§Sequel§				2005	2022	25/03/2009 00:00	SW	01/11/2023	PH	Temporarily suspended while we work out the need for these flags		
+RTPDuration	040	POST HISTORY OF	§Sequel§				2005	2022	25/03/2009 00:00	SW	01/11/2023	PH	Temporarily suspended while we work out the need for these flags		
+RTPDuration	050	CLINICAL HX OF					2005	9999	25/03/2009 00:00	SW					
+RTPDuration	060	LATE SEQUELAE	§Sequel§				2005	2022	25/03/2009 00:00	SW	01/11/2023	PH	Temporarily suspended while we work out the need for these flags		
+RTPDuration	070	LATE EFFECTS	§Sequel§				2005	2022	25/03/2009 00:00	SW	01/11/2023	PH	Temporarily suspended while we work out the need for these flags		
+RTPDuration	080	PAST HISTORY	§Sequel§				2005	2022	25/03/2009 00:00	SW	01/11/2023	PH	Temporarily suspended while we work out the need for these flags		
+RTPDuration	090	SEQUELAE OF	§Sequel§				2005	2022	25/03/2009 00:00	SW	01/11/2023	PH	Temporarily suspended while we work out the need for these flags		
+RTPDuration	100	PRIOR HX					2005	9999	25/03/2009 00:00	SW					
+RTPDuration	110	PRIOR HISTORY					2005	9999	25/03/2009 00:00	SW					

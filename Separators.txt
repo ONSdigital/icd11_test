@@ -1,0 +1,69 @@
+MainKey	Rank	FilterIn	FilterOut	ActionVar	Likelihood	Prompt	YearStart	YearEnd	DateIn	UserIn	DateOut	UserOut	Comments	NoApplyForDT	AddResultInDT
+100Text	0010	(.*)causing(.*)	$2 | $1				2005	9999	12/04/2016	MN			Replace text with due to symbol (may be too broad)		
+100Text	0020	(.*)leading to(.*)	$2 | $1				2005	9999	12/04/2016	MN			Replace text with due to symbol (may be too broad)		
+100Text	0030	(.*)resulting in(.*)	$2 | $1				2005	9999	12/04/2016	MN			Replace text with due to symbol (may be too broad)		
+100Text	0040	\b\s?and\s?\b	","				2005	9999	25/03/2009	SW			Split conditions		
+100Text	0050	\bas a result of\b	|				2005	9999	17/05/2012	DzT			Replace text with due to symbol		
+100Text	0060	\bassociated\b	","				2005	9999	23/04/2012	DzT			Split conditions		
+100Text	0070	\bby\b	|				2005	9999	08/05/2012	DzT			Replace text with due to symbol		
+100Text	0080	\bcaused by\b	|				2005	9999	24/02/2012	ET			Replace text with due to symbol		
+100Text	0090	\bcomplicated by\b	|				2005	9999	28/03/2012	DzT			Replace text with due to symbol		
+100Text	0100	\bdue to\b	|				2005	9999	25/03/2009	SW			Replace text with due to symbol		
+100Text	0110	\bfollowing\b	|				2005	9999	12/06/2012	DzT			Replace text with due to symbol		
+100Text	0120	\bfor\b	|				2005	9999	23/04/2012	DzT			Replace text with due to symbol		
+100Text	0130	\bfrom\b	|				2005	9999	24/02/2012	DzT			Replace text with due to symbol		
+100Text	0140	\bincluding\b	","				2005	9999	22/05/2012	DzT			Split conditions		
+100Text	0150	\brequiring\b	","				2005	9999	08/05/2012	DzT			Split conditions		
+100Text	0160	\bresulting from\b	|				2005	9999	11/05/2012	DzT			Replace text with due to symbol		
+100Text	0170	\bsecondary to\b	|				2005	9999	11/04/2012	DzT			Replace text with due to symbol		
+100Text	0180	\bsecondary\b	|				2005	9999	08/05/2012	DzT			Replace text with due to symbol		
+100Text	0190	\btransformed to\b	","				2005	9999	18/09/2012	DzT			Split conditions		
+100Text	0200	\btreated by\b	|				2005	9999	24/02/2012	DzT			Replace text with due to symbol		
+100Text	0210	\bwith\b	","				2005	9999	05/09/2012	DzT			Split conditions		
+100Text	0220	^N/A$					2005	9999	20/07/2023	PH			Not applicable is not helpful		
+200EmptyLines	0230	\bnone\b					2023	9999	31/07/2023	PH			For some reason the line that clears punctuation doesn't handle underscores. This does.		
+200EmptyLines	0240	^[^\w]+$					2023	9999	12/07/2023	PH			Clears lines that are only punctuation		
+200EmptyLines	0250	^\(b\) -$					2010	9999	15/01/2013	DzT			Clean empty part indicator		
+200EmptyLines	0260	^\(b\)$					2005	9999	23/07/2012	DzT			Clean empty part indicator		
+200EmptyLines	0270	^\(c\) -$					2010	9999	15/01/2013	DzT			Clean empty part indicator		
+200EmptyLines	0280	^\(c\) -\(d\) -$					2005	9999	15/01/2013	DzT			Clean empty part indicator		
+200EmptyLines	0290	^_+$					2023	9999	12/07/2023	PH			For some reason the line that clears punctuation doesn't handle underscores. This does.		
+200EmptyLines	0300	^nil$					2023	9999	25/07/2023	PH			Clean empty part indicator		
+300Separator	0310	"\b ,\b"	", "				2023	9999	21/12/2023	PH			Replaces the distressingly common 'space comma' with 'comma space'		
+300Separator	0320	\.$					2023	9999	20/07/2023	PH			"Removes trailing full stops from a line, including where that's the only character"		
+300Separator	0330	\.+	","				2023	9999	01/08/2023	PH			Replace full stop(s) with a comma		
+300Separator	0340	\b([a-z]*)' ([a-z]*)\b	$1 $2				2005	9999	04/09/2012	DzT			"Clears an apostrophe and a space from text, probably to deal with possessive terms lacking an s such as Parkinson' Disease (was originally duplicated)"		
+300Separator	0350	\b([a-z]*) plus ([a-z]*)\b	"$1, $2"				2005	9999	18/12/2012	DzT					
+300Separator	0360	\b([a-z]*):$	$1				2005	9999	16/01/2013	DzT					
+300Separator	0370	"\b([a-z]*);,\s?([a-z]*)\b"	"$1, $2 "				2005	9999	26/04/2013	DzT					
+300Separator	0380	\b([a-z]*)?\.\b	"$1,"				2005	9999	08/05/2012	DzT					
+300Separator	0390	\b([a-z]*)\s?-$	$1				2005	9999	26/07/2012	DzT			Trims dangling dash		
+300Separator	0400	\b([a-z]*)\s?&$	$1				2005	9999	22/08/2012	DzT			Trims dangling ampersand		
+300Separator	0410	\b([a-z]*)\s?:\s?([a-z]*)\b	"$1, $2"				2005	9999	22/05/2012	DzT			Split conditions		
+300Separator	0420	\b([a-z]*)\s?;\s?([a-z]*)\b	"$1, $2"				2005	9999	26/07/2012	DzT					
+300Separator	0430	\b([a-z]*)\s?\(([a-z]*)\)$	"$1, $2"				2005	9999	24/07/2012	DzT			"Turns 'word1 (word2)' into 'word1, word2'"		
+300Separator	0440	\b([a-z]*)\s?\(\)\s?([a-z]*)\b	"$1, $2"				2005	9999	04/09/2012	DzT					
+300Separator	0450	\b([a-z]*)\s?\(\s?([a-z]*)\s?\)$	"$1, $2"				2005	9999	22/08/2012	DzT					
+300Separator	0460	"\b([a-z]*)\s?\(operated,\)$"	"$1, OPERATED"				2005	9999	19/12/2012	DzT					
+300Separator	0470	\b([a-z]*)\s\(\s\)$	$1				2005	9999	26/07/2012	DzT					
+300Separator	0480	\b([a-z]*)\s\(operated on\)$	"$1, OPERATED ON"				2005	9999	19/12/2012	DzT					
+300Separator	0490	"\b(a|b|c|d),\s?([a-z]*)\b"	$2				2005	9999	26/07/2012	DzT					
+300Separator	0500	"\b;,?\b"	","				2005	9999	21/01/2013	DzT					
+300Separator	0510	\b\(?-\)?\b					2005	9999	23/04/2012	DzT					
+300Separator	0520	\b\+\b	", "				2005	9999	10/12/2010	LJ					
+300Separator	0530	\b\s?&\s?\b	","				2005	9999	10/07/2012	DzT					
+300Separator	0540	\b\s?/\s?\b	","				2005	9999	23/05/2012	DzT					
+300Separator	0550	\b\s?;\s?$	", "				2005	9999	26/07/2012	DzT					
+300Separator	0560	\b\s?\\\s?\b	","				2005	9999	21/05/2012	DzT					
+300Separator	0570	\b\s?\+\s?\b	", "				2005	9999	16/07/2012	DzT					
+300Separator	0580	\b\s?on\s?\b	","				2005	9999	05/09/2012	DzT					
+300Separator	0590	^&(\s)?([a-z]*)\b	$2				2005	9999	10/08/2012	DzT					
+300Separator	0600	^([a-z]*)\s?\(([a-z]*)\)$	"$1, $2"				2005	9999	23/07/2012	DzT					
+300Separator	0610	^/(\s)?([a-z]*)\b	$2				2005	9999	24/08/2012	DzT					
+300Separator	0620	^\(([a-z]*)\)\s?([a-z]*)\b	"$1, $2"				2005	9999	08/08/2012	DzT					
+300Separator	0630	^\(\)$					2005	9999	23/07/2012	DzT					
+300Separator	0640	^\(1\)\s?([a-z]*)\b	$1				2005	9999	24/07/2012	DzT					
+300Separator	0650	^\(2\)\s?([a-z]*)\b	$1				2005	9999	24/07/2012	DzT					
+300Separator	0660	^\(d\) -$					2010	9999	15/01/2013	DzT			Clean empty part indicator		
+300Separator	0670	^-\s?([a-z]*)\b	$1				2005	9999	25/07/2012	DzT			Remove leading dash from the start of a line (was originally duplicated)		
+300Separator	0680	^-+?([a-z]*)$	$1				2005	9999	23/07/2012	DzT			One or more dashes followed by a single word. Not sure what this is fixing		

@@ -1,0 +1,2358 @@
+ID	Icd1	Icd2	DiagnosisText	Comments	YearStart	YearEnd	DateIn	UserIn	DateOut	UserOut
+1	1A04		Clostridium difficile		2023	9999	13/10/2023	PH		
+2	1A04		Clostridium difficile colitis		2023	9999	13/10/2023	PH		
+3	1A04		Clostridium difficile diarrhoea		2023	9999	13/10/2023	PH		
+4	1A04		Clostridium difficile gastroenteritis		2023	9999	13/10/2023	PH		
+5	1A04		Clostridium difficile infection		2023	9999	13/10/2023	PH		
+6	1A06		Campylobacter enteritis		2023	9999	13/10/2023	PH		
+7	1A06		Campylobacter gastroenteritis		2023	9999	13/10/2023	PH		
+8	1A2Z		Viral gastroenteritis		2023	9999	13/10/2023	PH		
+9	1A400		Colitis		2023	9999	13/10/2023	PH	19/12/2023	PH
+10	1A400		Gastroenteritis		2023	9999	13/10/2023	PH		
+11	1A400&XA03U9		Colitis		2023	9999	19/12/2023	PH		
+12	1A400&XA03U9&XT5R		Acute colitis		2023	9999	19/12/2023	PH		
+13	1A40Z		Acute gastroenteritis		2023	9999	13/10/2023	PH		
+14	1A40Z		Enterocolitis		2023	9999	13/10/2023	PH		
+15	1A40Z		Infective Colitis		2023	9999	13/10/2023	PH		
+16	1B10Z		Pulmonary tuberculosis		2023	9999	13/10/2023	PH		
+17	1B13Z		Miliary tuberculosis		2023	9999	06/12/2023	MN		
+18	1B1Z		TB		2023	9999	13/10/2023	PH		
+19	1B1Z		Tuberculosis		2023	9999	13/10/2023	PH		
+20	1B53		Pneumococcal meningitis		2023	9999	13/10/2023	PH		
+21	1B70Z		Abdominal wall cellulitis		2023	9999	13/10/2023	PH		
+22	1B70Z		Cellulitis		2023	9999	13/10/2023	PH		
+23	1B70Z&XA45A6		Cellulitis leg		2023	9999	13/10/2023	PH		
+24	1B70Z&XA45A6		Cellulitis of leg		2023	9999	13/10/2023	PH	13/12/2023	PH
+25	1B70Z&XA45A6		Cellulitis of legs		2023	9999	05/12/2023	PH	13/12/2023	PH
+26	1B70Z&XA45A6		Leg cellulitis		2023	9999	13/10/2023	PH		
+27	1B70Z&XA45A6		Lower limb cellulitis		2023	9999	13/10/2023	PH		
+28	1B70Z&XK8G&XA45A6		Cellulitis left leg		2023	9999	13/12/2023	PH		
+29	1B70Z&XK8G&XA45A6		Cellulitis of left leg		2023	9999	13/10/2023	PH	13/12/2023	PH
+30	1B70Z&XK8G&XA45A6		Cellulitis of the left leg		2023	9999	13/10/2023	PH	13/12/2023	PH
+31	1B70Z&XK8G&XA45A6		Left leg cellulitis		2023	9999	13/10/2023	PH		
+32	1B70Z&XK9J&XA45A6		Bilateral leg cellulitis		2023	9999	13/10/2023	PH		
+33	1B70Z&XK9J&XA45A6		Cellulitis legs		2023	9999	13/12/2023	PH		
+34	1B70Z&XK9J&XA45A6		Cellulitis of the legs		2023	9999	13/10/2023	PH	14/12/2023	PH
+35	1B70Z&XK9K&XA45A6		Cellulitis of right leg		2023	9999	13/10/2023	PH	14/12/2023	PH
+36	1B70Z&XK9K&XA45A6		Cellulitis right leg		2023	9999	13/12/2023	PH		
+37	1B70Z&XK9K&XA45A6		Right leg cellulitis		2023	9999	13/10/2023	PH		
+38	1B70Z&XS25		Severe cellulitis		2023	9999	13/10/2023	PH		
+39	1B711		Fournier gangrene		2023	9999	13/10/2023	PH		
+40	1B71Z		Necrotising fasciitis		2023	9999	13/10/2023	PH		
+41	1C191		Legionella pneumonia		2023	9999	13/10/2023	PH		
+42	1C41&XN3NM		Streptococcal sepsis		2023	9999	05/12/2023	MN		
+43	1C41&XN5PZ		Gram negative sepsis		2023	9999	13/10/2023	PH		
+44	1C41&XN6BM	1G40	Staphylococcus aureus sepsis		2023	9999	05/12/2023	MN		
+45	1C41&XN6LP	1G40	Group A streptococcal sepsis		2023	9999	20/12/2023	PH		
+46	1C41&XN6LP		Group A streptococcal sepsis		2023	9999	13/10/2023	PH	20/12/2023	PH
+47	1C41&XN6P4	1G40	E coli sepsis		2023	9999	20/12/2023	PH		
+48	1C41&XN6P4		E coli sepsis		2023	9999	13/10/2023	PH	20/12/2023	PH
+49	1C41&XN9ZG	1G40	Staphylococcal sepsis		2023	9999	20/12/2023	PH		
+50	1C41&XN9ZG		Staphylococcal sepsis		2023	9999	05/12/2023	MN	20/12/2023	PH
+51	1C623		Acquired immune deficiency syndrome		2023	9999	13/10/2023	PH		
+52	1C623		Acquired immunodeficiency syndrome		2023	9999	06/12/2023	MN		
+53	1C623		AIDS		2023	9999	13/10/2023	PH		
+54	1C62Z		HIV		2023	9999	13/10/2023	PH		
+55	1C62Z		HIV infection		2023	9999	13/10/2023	PH		
+56	1C62Z		Human immunodeficiency virus		2023	9999	13/10/2023	PH		
+57	1C62Z		Human immunodeficiency virus infection		2023	9999	13/10/2023	PH		
+58	1C62Z		Human immunodeficiency virus positive		2023	9999	13/10/2023	PH		
+59	1C80		Viral encephalitis		2023	9999	13/10/2023	PH		
+60	1D00Z		Encephalitis		2023	9999	13/10/2023	PH		
+61	1D010Z		Bacterial meningitis		2023	9999	13/10/2023	PH		
+62	1D01Y		Meningoencephalitis		2023	9999	13/10/2023	PH		
+63	1D01Z		Meningitis		2023	9999	13/10/2023	PH		
+64	1D033Z		Cerebral abscess		2023	9999	15/10/2023	PH		
+65	1D9Y&XN6CR		Parainfluenza infection		2023	9999	13/10/2023	PH		
+66	1D9Y&XN6CR		Parainfluenza virus infection		2023	9999	13/10/2023	PH		
+67	1E30&XN8SG		Influenza B		2023	9999	13/10/2023	PH		
+68	1E30&XN8SG		Influenza B infection		2023	9999	13/10/2023	PH		
+69	1E30&XN8WJ		Influenza A		2023	9999	13/10/2023	PH		
+70	1E30&XN8WJ		Influenza A infection		2023	9999	13/10/2023	PH		
+71	1E30&XN8WJ		Influenza A infections		2023	9999	13/10/2023	PH		
+72	1E30&XN8WJ		Influenza type A		2023	9999	13/10/2023	PH		
+73	1E32		Influenza		2023	9999	13/10/2023	PH		
+74	1E510Z		Chronic hepatitis B		2023	9999	13/10/2023	PH		
+75	1E510Z		Chronic hepatitis B infection		2023	9999	13/11/2023	PH		
+76	1E510Z		Hepatitis B		2023	9999	13/10/2023	PH		
+77	1E510Z		Hepatitis B infection		2023	9999	13/11/2023	PH		
+78	1E511		Chronic hepatitis C		2023	9999	13/11/2023	PH		
+79	1E511		Chronic hepatitis C infection		2023	9999	13/11/2023	PH		
+80	1E511		Hepatitis C		2023	9999	13/10/2023	PH		
+81	1E511		Hepatitis C infection		2023	9999	13/10/2023	PH		
+82	1E91Z		Herpes zoster		2023	9999	13/10/2023	PH		
+83	1E91Z		Shingles		2023	9999	13/10/2023	PH		
+84	1F0021		Herpes simplex encephalitis		2023	9999	13/10/2023	PH		
+85	1F200Z		Invasive aspergillosis		2023	9999	21/11/2023	PH		
+86	1F2012		Chronic pulmonary aspergillosis		2023	9999	13/10/2023	PH		
+87	1F20Z		Aspergilloma		2023	9999	13/10/2023	PH		
+88	1F20Z		Aspergillosis		2023	9999	13/10/2023	PH		
+89	1G40		Generalised sepsis		2023	9999	13/10/2023	PH		
+90	1G40		Intra abdominal sepsis		2023	9999	13/10/2023	MF		
+91	1G40		Intra-abdominal sepsis		2023	9999	13/10/2023	MF		
+92	1G40		Sepsis		2023	9999	13/10/2023	PH		
+93	1G40		Sepsis (unknown source)		2023	9999	09/11/2023	PH		
+94	1G40		Sepsis of uncertain aetiology		2023	9999	13/10/2023	PH	14/12/2023	PH
+95	1G40		Sepsis of uncertain origin		2023	9999	13/10/2023	PH	14/12/2023	PH
+96	1G40		Sepsis of unclear aetiology		2023	9999	13/10/2023	PH	14/12/2023	PH
+97	1G40		Sepsis of unclear origin		2023	9999	24/10/2023	PH	14/12/2023	PH
+98	1G40		Sepsis of unknown aetiology		2023	9999	09/11/2023	PH	14/12/2023	PH
+99	1G40		Sepsis of unknown cause		2023	9999	13/10/2023	ET	14/12/2023	PH
+100	1G40		Sepsis of unknown origin		2023	9999	13/10/2023	PH	14/12/2023	PH
+101	1G40		Sepsis of unknown source		2023	9999	13/10/2023	PH	14/12/2023	PH
+102	1G40		Sepsis uncertain aetiology		2023	9999	14/12/2023	PH		
+103	1G40		Sepsis uncertain origin		2023	9999	14/12/2023	PH		
+104	1G40		Sepsis unclear aetiology		2023	9999	14/12/2023	PH		
+105	1G40		Sepsis unclear origin		2023	9999	14/12/2023	PH		
+106	1G40		Sepsis unknown aetiology		2023	9999	13/10/2023	MF		
+107	1G40		Sepsis unknown cause		2023	9999	14/12/2023	PH		
+108	1G40		Sepsis unknown origin		2023	9999	13/10/2023	PH		
+109	1G40		Sepsis unknown source		2023	9999	13/10/2023	PH		
+110	1G40		Systemic sepsis		2023	9999	13/10/2023	ET		
+111	1G41		Septic shock		2023	9999	13/10/2023	PH		
+112	1G83		Polio		2023	9999	13/10/2023	PH		
+113	1H0Z		Abdominal sepsis		2023	9999	13/10/2023	PH		
+114	1H0Z		Infection		2023	9999	21/11/2023	PH		
+115	1H0Z		Infection of unknown source		2023	9999	01/12/2023	PH	14/12/2023	PH
+116	1H0Z		Infection unknown source		2023	9999	14/12/2023	PH		
+117	1H0Z		Severe sepsis		2023	9999	13/10/2023	PH		
+118	2A0000		Glioblastoma		2023	9999	13/10/2023	PH		
+119	2A0000		Glioblastoma multiforme		2023	9999	13/10/2023	PH		
+120	2A0000		Glioblastoma multiforme brain		2023	9999	13/10/2023	PH		
+121	2A0000		Glioblastoma multiforme of brain		2023	9999	05/12/2023	MN	14/12/2023	PH
+122	2A000Y		Astrocytoma		2023	9999	19/10/2023	ET		
+123	2A000Y		Astrocytoma brain		2023	9999	14/12/2023	PH		
+124	2A000Y		Astrocytoma of brain		2023	9999	14/11/2023	PH	14/12/2023	PH
+125	2A000Y		Astrocytoma of the brain		2023	9999	14/11/2023	PH	14/12/2023	PH
+126	2A000Z		Glioma		2023	9999	13/10/2023	PH		
+127	2A000Z		Malignant glioma brain		2023	9999	14/12/2023	PH		
+128	2A000Z		Malignant glioma of brain		2023	9999	28/11/2023	MN	14/12/2023	PH
+129	2A000Z&XA1M33		Cerebral glioma		2023	9999	13/10/2023	PH		
+130	2A000Z&XS7Z		High grade glioma		2023	9999	27/11/2023	MN		
+131	2A005		Brain tumour		2023	9999	28/11/2023	MN		
+132	2A005		Malignant brain tumour		2023	9999	28/11/2023	MN		
+133	2A005		Malignant neoplasm brain		2023	9999	14/12/2023	MN		
+134	2A005		Malignant neoplasm of brain		2023	9999	05/12/2023	MN	14/12/2023	PH
+135	2A010Z		Meningioma		2023	9999	13/10/2023	PH		
+136	2A023		Vestibular schwannoma		2023	9999	13/10/2023	PH		
+137	2A202		Myelofibrosis		2023	9999	13/10/2023	PH		
+138	2A202		Primary myelofibrosis		2023	9999	13/10/2023	PH		
+139	2A204		Polycythaemia rubra vera		2023	9999	13/10/2023	PH		
+140	2A204		Polycythaemia vera		2023	9999	13/10/2023	PH		
+141	2A22		Myeloproliferative disease		2023	9999	13/10/2023	PH		
+142	2A22		Myeloproliferative disorder		2023	9999	13/10/2023	PH		
+143	2A3Z		Myelodysplasia		2023	9999	13/10/2023	PH		
+144	2A3Z		Myelodysplastic syndrome		2023	9999	13/10/2023	PH		
+145	2A40		Chronic myelomonocytic leukaemia		2023	9999	08/11/2023	MN		
+146	2A603Z		Acute myeloid leukaemia		2023	9999	13/10/2023	ET		
+147	2A80Z		Follicular lymphoma		2023	9999	08/11/2023	MN		
+148	2A81Z		Diffuse large B-cell lymphoma		2023	9999	02/11/2023	MN		
+149	2A820Z		Chronic lymphocytic leukaemia		2023	9999	07/11/2023	MN		
+150	2A830		MGUS		2023	9999	13/10/2023	PH		
+151	2A830		Monoclonal gammopathy of undetermined significance		2023	9999	21/11/2023	PH	14/12/2023	PH
+152	2A830		Monoclonal gammopathy undetermined significance		2023	9999	14/12/2023	PH		
+153	2A830		Monoclonal gammopathy unknown significance		2023	9999	13/10/2023	PH		
+154	2A830		Paraproteinaemia		2023	9999	13/10/2023	PH		
+155	2A831		Multiple myeloma		2023	9999	02/11/2023	PH		
+156	2A831		Myeloma		2023	9999	02/11/2023	MN		
+157	2A834		Plasma cell leukaemia		2023	9999	05/12/2023	MN		
+158	2A854		Waldenstrom macroglobulinaemia		2023	9999	13/10/2023	PH		
+159	2A855		Mantle cell lymphoma		2023	9999	07/11/2023	MN		
+160	2A856		Burkitt lymphoma		2023	9999	13/10/2023	PH		
+161	2A860		B cell lymphoma		2023	9999	13/10/2023	PH		
+162	2A860		B-cell lymphoma		2023	9999	13/10/2023	PH		
+163	2A860&XS7Z		High grade B-cell lymphoma		2023	9999	28/11/2023	MN		
+164	2B30Z		Hodgkin disease		2023	9999	13/10/2023	PH		
+165	2B30Z		Hodgkin lymphoma		2023	9999	08/11/2023	MN		
+166	2B32Z		Post transplant lymphoproliferative disorder		2023	9999	13/10/2023	PH		
+167	2B331		Myeloid leukaemia		2023	9999	06/12/2023	MN		
+168	2B332		Chronic myeloid leukaemia		2023	9999	07/11/2023	MN		
+169	2B333		Acute lymphoblastic leukaemia		2023	9999	05/12/2023	MN		
+170	2B334		Leukaemia		2023	9999	29/11/2023	MN		
+171	2B335		Advanced lymphoma		2023	9999	13/10/2023	PH		
+172	2B335		Lymphoma		2023	9999	13/10/2023	PH		
+173	2B335		Non Hodgkin lymphoma		2023	9999	13/10/2023	PH		
+174	2B335		Non-Hodgkin lymphoma		2023	9999	13/10/2023	PH		
+175	2B335&XA1M33		Cerebral lymphoma		2023	9999	13/10/2023	PH		
+176	2B335&XS7Z		High grade lymphoma		2023	9999	29/11/2023	MN		
+177	2B56Z		Angiosarcoma		2023	9999	13/10/2023	PH		
+178	2B5BZ		Gastrointestinal stromal tumour		2023	9999	29/11/2023	MN		
+179	2B620		Squamous cell carcinoma of the tongue		2023	9999	28/11/2023	MN	14/12/2023	PH
+180	2B620		Squamous cell carcinoma of tongue		2023	9999	28/11/2023	MN	14/12/2023	PH
+181	2B620		Squamous cell carcinoma tongue		2023	9999	14/12/2023	PH		
+182	2B700Z		Adenocarcinoma oesophagus		2023	9999	14/12/2023	PH		
+183	2B700Z		Adenocarcinoma of oesophagus		2023	9999	08/11/2023	MN	14/12/2023	PH
+184	2B700Z		Adenocarcinoma of the oesophagus		2023	9999	07/11/2023	MN	14/12/2023	PH
+185	2B700Z		Oesophageal adenocarcinoma		2023	9999	08/11/2023	MN		
+186	2B701		Squamous cell carcinoma oesophagus		2023	9999	14/12/2023	PH		
+187	2B701		Squamous cell carcinoma of oesophagus		2023	9999	08/11/2023	MN	14/12/2023	PH
+188	2B701		Squamous cell carcinoma of the oesophagus		2023	9999	05/12/2023	MN	14/12/2023	PH
+189	2B70Z		Cancer oesophagus		2023	9999	14/12/2023	PH		
+190	2B70Z		Cancer of oesophagus		2023	9999	07/11/2023	MN	14/12/2023	PH
+191	2B70Z		Carcinoma oesophagus		2023	9999	14/12/2023	PH		
+192	2B70Z		Carcinoma of oesophagus		2023	9999	07/11/2023	PH	14/12/2023	PH
+193	2B70Z		Carcinoma of the oesophagus		2023	9999	07/11/2023	MN	14/12/2023	PH
+194	2B70Z		Malignant neoplasm oesophagus		2023	9999	14/12/2023	PH		
+195	2B70Z		Malignant neoplasm of oesophagus		2023	9999	05/12/2023	MN	14/12/2023	PH
+196	2B70Z		Malignant tumour oesophagus		2023	9999	14/12/2023	PH		
+197	2B70Z		Malignant tumour of oesophagus		2023	9999	28/11/2023	MN	14/12/2023	PH
+198	2B70Z		Oesophageal cancer		2023	9999	02/11/2023	MN		
+199	2B70Z		Oesophageal carcinoma		2023	9999	07/11/2023	MN		
+200	2B70Z&XS9R		Metastatic oesophageal cancer		2023	9999	19/12/2023	MN		
+201	2B720		Adenocarcinoma of stomach		2023	9999	29/11/2023	MN	14/12/2023	PH
+202	2B720		Adenocarcinoma stomach		2023	9999	14/12/2023	PH		
+203	2B720		Gastric adenocarcinoma		2023	9999	07/11/2023	MN		
+204	2B72Z		Gastric cancer		2023	9999	02/11/2023	MN		
+205	2B72Z		Gastric carcinoma		2023	9999	05/12/2023	MN		
+206	2B900Z&XA6J68		Caecal cancer		2023	9999	28/11/2023	MN		
+207	2B9030		Adenocarcinoma of sigmoid colon		2023	9999	05/12/2023	MN	14/12/2023	PH
+208	2B9030		Adenocarcinoma sigmoid colon		2023	9999	14/12/2023	PH		
+209	2B903Z		Malignant tumour of sigmoid colon		2023	9999	29/11/2023	MN	14/12/2023	PH
+210	2B903Z		Malignant tumour sigmoid colon		2023	9999	14/12/2023	PH		
+211	2B903Z		Sigmoid cancer		2023	9999	05/12/2023	MN		
+212	2B90Y		Lynch syndrome		2023	9999	30/11/2023	PH		
+213	2B90Y&XH74S1		Adenocarcinoma colon		2023	9999	14/12/2023	PH		
+214	2B90Y&XH74S1		Adenocarcinoma of colon		2023	9999	08/11/2023	MN	14/12/2023	PH
+215	2B90Y&XH74S1		Adenocarcinoma of the colon		2023	9999	08/11/2023	MN	14/12/2023	PH
+216	2B90Z		Carcinoma colon		2023	9999	14/12/2023	PH		
+217	2B90Z		Carcinoma of colon		2023	9999	02/11/2023	MN	14/12/2023	PH
+218	2B90Z		Carcinoma of the colon		2023	9999	29/11/2023	MN	14/12/2023	PH
+219	2B90Z		Colon cancer		2023	9999	02/11/2023	MN		
+220	2B90Z		Colonic cancer		2023	9999	05/12/2023	MN		
+221	2B90Z		Malignant tumour colon		2023	9999	14/12/2023	PH		
+222	2B90Z		Malignant tumour of colon		2023	9999	07/11/2023	MN	14/12/2023	PH
+223	2B91Z		Colorectal cancer		2023	9999	02/11/2023	MN		
+224	2B91Z		Colorectal carcinoma		2023	9999	13/10/2023	ET		
+225	2B91Z		Metastatic colorectal cancer		2023	9999	19/12/2023	MN		
+226	2B920		Adenocarcinoma of rectum		2023	9999	28/11/2023	MN	14/12/2023	PH
+227	2B920		Adenocarcinoma of the rectum		2023	9999	05/12/2023	MN	14/12/2023	PH
+228	2B920		Adenocarcinoma rectum		2023	9999	14/12/2023	PH		
+229	2B920		Rectal adenocarcinoma		2023	9999	28/11/2023	MN		
+230	2B92Z		Malignant tumour of rectum		2023	9999	05/12/2023	MN	14/12/2023	PH
+231	2B92Z		Malignant tumour rectum		2023	9999	14/12/2023	PH		
+232	2B92Z		Rectal carcinoma		2023	9999	07/11/2023	MN		
+233	2B93Z		Bowel cancer		2023	9999	02/11/2023	MN		
+234	2B93Z&XS9R		Metastatic bowel cancer		2023	9999	19/12/2023	MN		
+235	2C100		Adenocarcinoma of pancreas		2023	9999	08/11/2023	MN	14/12/2023	PH
+236	2C100		Adenocarcinoma of the pancreas		2023	9999	05/12/2023	MN	14/12/2023	PH
+237	2C100		Adenocarcinoma pancreas		2023	9999	14/12/2023	PH		
+238	2C100		Pancreatic adenocarcinoma		2023	9999	08/11/2023	MN		
+239	2C10Z		Cancer of the pancreas		2023	9999	07/11/2023	PH	14/12/2023	PH
+240	2C10Z		Cancer pancreas		2023	9999	14/12/2023	PH		
+241	2C10Z		Carcinoma of pancreas		2023	9999	07/11/2023	MN	14/12/2023	PH
+242	2C10Z		Carcinoma of the pancreas		2023	9999	28/11/2023	MN	14/12/2023	PH
+243	2C10Z		Carcinoma pancreas		2023	9999	14/12/2023	PH		
+244	2C10Z		Malignant tumour of pancreas		2023	9999	07/11/2023	MN	14/12/2023	PH
+245	2C10Z		Malignant tumour pancreas		2023	9999	14/12/2023	PH		
+246	2C10Z		Pancreatic cancer		2023	9999	02/11/2023	MN		
+247	2C10Z		Pancreatic carcinoma		2023	9999	07/11/2023	MN		
+248	2C10Z&XS9R		Metastatic pancreatic cancer		2023	9999	19/12/2023	PH		
+249	2C1202		Hepatocellular carcinoma		2023	9999	07/11/2023	PH		
+250	2C1210		Cholangio carcinoma		2023	9999	13/10/2023	PH		
+251	2C1210		Cholangiocarcinoma		2023	9999	13/10/2023	ET		
+252	2C1210		Intrahepatic cholangiocarcinoma		2023	9999	13/10/2023	PH		
+253	2C1210&XS9R		Metastatic cholangiocarcinoma		2023	9999	19/12/2023	MN		
+254	2C180		Hilar cholangiocarcinoma		2023	9999	13/10/2023	PH		
+255	2C250&XA57M6		Adenocarcinoma lung		2023	9999	14/12/2023	PH		
+256	2C250&XA57M6		Adenocarcinoma of lung		2023	9999	07/11/2023	MN	14/12/2023	PH
+257	2C250&XA57M6		Adenocarcinoma of the lung		2023	9999	07/11/2023	MN	14/12/2023	PH
+258	2C250&XA57M6		Carcinoma lung		2023	9999	14/12/2023	PH		
+259	2C250&XA57M6		Carcinoma of the lung		2023	9999	05/12/2023	MN	14/12/2023	PH
+260	2C250&XA57M6		Lung adenocarcinoma		2023	9999	08/11/2023	MN		
+261	2C250&XS9R&XA57M6		Metastatic adenocarcinoma lung		2023	9999	03/01/2024	MN		
+262	2C251&XA57M6		Small cell carcinoma lung		2023	9999	14/12/2023	PH		
+263	2C251&XA57M6		Small cell carcinoma of lung		2023	9999	05/12/2023	MN	14/12/2023	PH
+264	2C251&XA57M6		Small cell carcinoma of the lung		2023	9999	05/12/2023	MN	14/12/2023	PH
+265	2C251&XA57M6		Small cell lung cancer		2023	9999	07/11/2023	MN		
+266	2C252&XA57M6		Squamous cell carcinoma lung		2023	9999	14/12/2023	PH		
+267	2C252&XA57M6		Squamous cell carcinoma of lung		2023	9999	08/11/2023	MN	14/12/2023	PH
+268	2C252&XA57M6		Squamous cell carcinoma of the lung		2023	9999	08/11/2023	MN	14/12/2023	PH
+269	2C252&XA57M6		Squamous cell lung cancer		2023	9999	08/11/2023	MN		
+270	2C25Y&XA57M6		Non small cell lung cancer		2023	9999	08/11/2023	MN		
+271	2C25Z&XA57M6		Cancer lung		2023	9999	14/12/2023	PH		
+272	2C25Z&XA57M6		Cancer of the lung		2023	9999	05/12/2023	PH	14/12/2023	PH
+273	2C25Z&XA57M6		Carcinoma of lung		2023	9999	05/12/2023	MN	14/12/2023	PH
+274	2C25Z&XA57M6		Lung cancer		2023	9999	08/11/2023	PH		
+275	2C25Z&XA57M6		Lung carcinoma		2023	9999	05/12/2023	MN		
+276	2C25Z&XA57M6		Malignant lung cancer		2023	9999	05/12/2023	MN		
+277	2C25Z&XA57M6		Malignant neoplasm lung		2023	9999	14/12/2023	PH		
+278	2C25Z&XA57M6		Malignant neoplasm of lung		2023	9999	08/11/2023	MN	14/12/2023	PH
+279	2C25Z&XA57M6		Malignant tumour lung		2023	9999	14/12/2023	PH		
+280	2C25Z&XA57M6		Malignant tumour of lung		2023	9999	08/11/2023	MN	14/12/2023	PH
+281	2C25Z&XA57M6		Malignant tumour of the lung		2023	9999	29/11/2023	MN	14/12/2023	PH
+282	2C25Z&XA57M6		Primary malignant neoplasm lung		2023	9999	14/12/2023	PH		
+283	2C25Z&XA57M6		Primary malignant neoplasm of lung		2023	9999	28/11/2023	MN	14/12/2023	PH
+284	2C25Z&XA61M6		Bronchogenic carcinoma		2023	9999	29/11/2023	MN		
+285	2C25Z&XS9R&XA57M6		Metastatic lung cancer		2023	9999	03/01/2024	MN		
+286	2C30Z		Malignant melanoma		2023	9999	13/10/2023	PH		
+287	2C30Z		Melanoma		2023	9999	13/10/2023	PH		
+288	2C6Z		Breast cancer		2023	9999	02/11/2023	MN		
+289	2C6Z		Breast carcinoma		2023	9999	05/12/2023	MN		
+290	2C6Z		Carcinoma breast		2023	9999	07/11/2023	PH		
+291	2C6Z		Carcinoma of breast		2023	9999	28/11/2023	MN	14/12/2023	PH
+292	2C6Z		Carcinoma of the breast		2023	9999	07/11/2023	PH	14/12/2023	PH
+293	2C6Z		Malignant neoplasm breast		2023	9999	14/12/2023	PH		
+294	2C6Z		Malignant neoplasm of breast		2023	9999	28/11/2023	MN	14/12/2023	PH
+295	2C6Z&XS9R		Metastatic breast cancer		2023	9999	19/12/2023	MN		
+296	2C70Z		Vulval cancer		2023	9999	05/12/2023	MN		
+297	2C73Z		Ovarian cancer		2023	9999	02/11/2023	MN		
+298	2C73Z&XS9R		Metastatic ovarian cancer		2023	9999	19/12/2023	MN		
+299	2C76Z		Endometrial cancer		2023	9999	02/11/2023	MN		
+300	2C76Z		Endometrial carcinoma		2023	9999	27/11/2023	MN		
+301	2C820		Adenocarcinoma of prostate		2023	9999	05/12/2023	MN	14/12/2023	PH
+302	2C820		Adenocarcinoma prostate		2023	9999	14/12/2023	PH		
+303	2C82Z		Cancer of prostate		2023	9999	13/10/2023	PH	14/12/2023	PH
+304	2C82Z		Cancer prostate		2023	9999	14/12/2023	PH		
+305	2C82Z		Carcinoma of prostate		2023	9999	13/10/2023	ET	14/12/2023	PH
+306	2C82Z		Carcinoma of the prostate		2023	9999	13/10/2023	ET	14/12/2023	PH
+307	2C82Z		Carcinoma prostate		2023	9999	28/11/2023	MN		
+308	2C82Z		Malignant neoplasm of prostate		2023	9999	13/10/2023	ET	14/12/2023	PH
+309	2C82Z		Malignant neoplasm prostate		2023	9999	14/12/2023	PH		
+310	2C82Z		Malignant tumour of prostate		2023	9999	08/11/2023	MN	14/12/2023	PH
+311	2C82Z		Malignant tumour prostate		2023	9999	14/12/2023	PH		
+312	2C82Z		Prostate cancer		2023	9999	13/10/2023	ET		
+313	2C82Z		Prostate carcinoma		2023	9999	13/10/2023	PH		
+314	2C82Z&XS9R		Metastatic prostate cancer		2023	9999	19/12/2023	MN		
+315	2C900		Renal cell carcinoma		2023	9999	02/11/2023	MN		
+316	2C90Z		Renal cancer		2023	9999	28/11/2023	MN		
+317	2C90Z		Renal carcinoma		2023	9999	07/11/2023	MN		
+318	2C92Z		Rectal cancer		2023	9999	02/11/2023	MN		
+319	2C942&XH8EH1		Transitional cell carcinoma bladder		2023	9999	14/12/2023	PH		
+320	2C942&XH8EH1		Transitional cell carcinoma of bladder		2023	9999	28/11/2023	MN	14/12/2023	PH
+321	2C942&XH8EH1		Transitional cell carcinoma of the bladder		2023	9999	29/11/2023	MN	14/12/2023	PH
+322	2C94Z		Bladder cancer		2023	9999	02/11/2023	MN		
+323	2C94Z		Bladder carcinoma		2023	9999	07/11/2023	MN		
+324	2C94Z		Carcinoma bladder		2023	9999	14/12/2023	PH		
+325	2C94Z		Carcinoma of bladder		2023	9999	07/11/2023	MN	14/12/2023	PH
+326	2C94Z		Carcinoma of the bladder		2023	9999	07/11/2023	MN	14/12/2023	PH
+327	2C94Z		Malignant neoplasm of urinary bladder		2023	9999	05/12/2023	MN	14/12/2023	PH
+328	2C94Z		Malignant neoplasm urinary bladder		2023	9999	14/12/2023	PH		
+329	2C94Z		Malignant tumour of urinary bladder		2023	9999	07/11/2023	MN	14/12/2023	PH
+330	2C94Z		Malignant tumour urinary bladder		2023	9999	14/12/2023	PH		
+331	2C94Z&XS9R		Metastatic bladder cancer		2023	9999	19/12/2023	MN		
+332	2D41		Carcinoma of unknown primary		2023	9999	29/11/2023	MN	14/12/2023	PH
+333	2D41		Carcinoma unknown primary		2023	9999	14/12/2023	PH		
+334	2D4Y&XH0945		Squamous cell carcinoma		2023	9999	02/11/2023	MN		
+335	2D4Z		Cancer of unknown primary		2023	9999	02/11/2023	MN	14/12/2023	PH
+336	2D4Z		Cancer unknown primary		2023	9999	14/12/2023	PH		
+337	2D4Z		Malignancy of unknown origin		2023	9999	28/11/2023	MN	14/12/2023	PH
+338	2D4Z		Malignancy of unknown primary		2023	9999	29/11/2023	MN	14/12/2023	PH
+339	2D4Z		Malignancy unknown origin		2023	9999	14/12/2023	PH		
+340	2D4Z		Malignancy unknown primary		2023	9999	14/12/2023	PH		
+341	2D4Z		Malignant disease of unknown primary		2023	9999	28/11/2023	MN	14/12/2023	PH
+342	2D4Z		Malignant disease unknown primary		2023	9999	14/12/2023	PH		
+343	2D70&XS9R&XA57M6		Metastatic adenocarcinoma of lung		2023	9999	03/01/2024	MN		
+344	2D72		Malignant pleural effusion		2023	9999	13/10/2023	PH		
+345	2D800		Liver metastases		2023	9999	06/12/2023	MN		
+346	2D91		Pseudomyxoma peritonei		2023	9999	13/10/2023	PH		
+347	2E2Z		Carcinomatosis		2023	9999	02/11/2023	MN		
+348	3A00Y		Microcytic anaemia		2023	9999	13/10/2023	PH		
+349	3A00Z		Iron deficiency anaemia		2023	9999	13/10/2023	PH		
+350	3A00Z		Iron deficient anaemia		2023	9999	13/10/2023	PH		
+351	3A0130		Pernicious anaemia		2023	9999	13/10/2023	PH		
+352	3A03Y		Chronic anaemia		2023	9999	13/10/2023	PH		
+353	3A200		Autoimmune haemolytic anaemia		2023	9999	13/10/2023	PH		
+354	3A4Z		Haemolytic anaemia		2023	9999	13/10/2023	PH		
+355	3A510		Sickle cell trait		2023	9999	13/10/2023	PH		
+356	3A511		SCD		2023	9999	13/10/2023	PH		
+357	3A511		Sickle cell anaemia		2023	9999	13/10/2023	PH		
+358	3A511		Sickle cell disease		2023	9999	13/10/2023	PH		
+359	3A700		Fanconi's anaemia		2023	9999	13/10/2023	PH		
+360	3A70Z		Aplastic anaemia		2023	9999	13/10/2023	PH		
+361	3A70Z		Bone marrow failure		2023	9999	13/10/2023	PH		
+362	3A70Z		Pancytopenia		2023	9999	13/10/2023	PH		
+363	3A70Z&XS25		Severe aplastic anaemia		2023	9999	13/10/2023	PH		
+364	3A71Z		Anaemia chronic disease		2023	9999	14/12/2023	PH		
+365	3A71Z		Anaemia of chronic disease		2023	9999	13/10/2023	PH	14/12/2023	PH
+366	3A8Z		Polycythaemia		2023	9999	13/10/2023	PH		
+367	3A9Z		Anaemia		2023	9999	13/10/2023	PH		
+368	3A9Z&XS25		Severe anaemia		2023	9999	13/10/2023	PH		
+369	3B100		Haemophilia		2023	9999	13/10/2023	PH		
+370	3B100		Haemophilia A		2023	9999	13/10/2023	PH		
+371	3B20		Disseminated intravascular coagulation		2023	9999	13/10/2023	PH		
+372	3B20		Disseminated intravascular coagulopathy		2023	9999	13/10/2023	PH		
+373	3B22		Acquired haemophilia		2023	9999	13/10/2023	PH		
+374	3B2Y		Heyde's syndrome		2023	9999	13/10/2023	PH		
+375	3B4Z		Coagulopathy		2023	9999	13/10/2023	PH		
+376	3B631Z		Essential thrombocythaemia		2023	9999	13/10/2023	PH		
+377	3B631Z		Essential thrombocytosis		2023	9999	13/10/2023	PH		
+378	3B631Z		Thrombocythaemia		2023	9999	13/10/2023	PH		
+379	3B6410&XB5F		Idiopathic Thrombocytopenia		2023	9999	13/10/2023	PH		
+380	3B6410&XB5F		Idiopathic Thrombocytopenic Purpura		2023	9999	13/10/2023	PH		
+381	3B64Z		Immune thrombocytopenia		2023	9999	13/10/2023	PH		
+382	3B64Z		Thrombocytopenia		2023	9999	13/10/2023	PH		
+383	3B65		Thrombotic microangiopathy		2023	9999	13/10/2023	PH		
+384	3B816		Splenic infarction		2023	9999	13/10/2023	PH		
+385	3B8171		Splenic abscess		2023	9999	21/11/2023	PH		
+386	4A0123		Haemophagocytic lymphohistiocytosis		2023	9999	13/10/2023	PH		
+387	4A400Y		Lupus nephritis		2023	9999	13/10/2023	PH		
+388	4A400Z		Lupus		2023	9999	13/10/2023	PH		
+389	4A400Z		Systemic lupus erythematosus		2023	9999	13/10/2023	PH		
+390	4A410Z		Dermatomyositis		2023	9999	13/10/2023	PH		
+391	4A411Z		Polymyositis		2023	9999	13/10/2023	PH		
+392	4A4120		Inclusion body myositis		2023	9999	13/10/2023	PH		
+393	4A42Z		Scleroderma		2023	9999	13/10/2023	PH		
+394	4A42Z		Systemic sclerosis		2023	9999	13/10/2023	PH		
+395	4A432Z		Sjogren syndrome		2023	9999	13/10/2023	PH		
+396	4A433		Mixed connective tissue disease		2023	9999	21/11/2023	PH		
+397	4A43Y		Antisynthetase syndrome		2023	9999	13/10/2023	PH		
+398	4A442		Giant cell arteritis		2023	9999	13/10/2023	PH		
+399	4A444		Polyangiitis		2023	9999	13/10/2023	PH		
+400	4A448		Buerger disease		2023	9999	13/10/2023	PH		
+401	4A44A0		Microscopic polyangiitis		2023	9999	13/10/2023	PH		
+402	4A44A1		Granulomatosis polyangiitis		2023	9999	13/10/2023	PH		
+403	4A44A1		Wegener's granulomatosis		2023	9999	13/10/2023	PH		
+404	4A44AZ		Anca positive vasculitis		2023	9999	13/10/2023	PH		
+405	4A44AZ		Anca vasculitis		2023	9999	13/10/2023	PH		
+406	4A44Y		Large vessel vasculitis		2023	9999	13/10/2023	PH		
+407	4A44Z		Vasculitis		2023	9999	13/10/2023	PH		
+408	4A45Z		Anti phospholipid syndrome		2023	9999	13/10/2023	PH		
+409	4A45Z		Antiphospholipid syndrome		2023	9999	13/10/2023	PH		
+410	4A45Z		Anti-phospholipid syndrome		2023	9999	13/10/2023	PH		
+411	4B000Z	1G40	Neutropaenic sepsis		2023	9999	13/10/2023	PH		
+412	4B000Z	1G40	Neutropenic sepsis		2023	9999	13/10/2023	MF		
+413	4B000Z		Neutropenia		2023	9999	13/10/2023	PH		
+414	4B200		Pulmonary sarcoidosis		2023	9999	13/10/2023	PH		
+415	4B20Z		Sarcoidosis		2023	9999	13/10/2023	PH		
+416	4B24Y		Gut graft versus host disease		2023	9999	13/10/2023	PH		
+417	4B24Z		Graft versus host disease		2023	9999	13/10/2023	PH		
+418	4B24Z		Graft vs host disease		2023	9999	13/10/2023	PH		
+419	5A002Z		Acquired hypothyroidism		2023	9999	13/10/2023	PH		
+420	5A00Z		Hypothyroid		2023	9999	13/10/2023	PH		
+421	5A00Z		Hypothyroidism		2023	9999	13/10/2023	PH		
+422	5A020		Graves disease		2023	9999	13/10/2023	PH		
+423	5A02Z		Hyperthyroidism		2023	9999	13/10/2023	PH		
+424	5A02Z		Thyrotoxicosis		2023	9999	13/10/2023	PH		
+425	5A10		Diabetes mellitus type 1		2023	9999	13/10/2023	PH		
+426	5A10		Insulin dependent diabetes		2023	9999	13/10/2023	PH		
+427	5A10		Insulin dependent diabetes mellitus		2023	9999	13/10/2023	PH		
+428	5A10		Insulin-dependent diabetes mellitus		2023	9999	13/10/2023	PH		
+429	5A10		Type 1 diabetes		2023	9999	13/10/2023	PH		
+430	5A10		Type 1 diabetes mellitus		2023	9999	13/10/2023	PH		
+431	5A11		Diabetes (type 2)		2023	9999	13/10/2023	PH		
+432	5A11		Diabetes mellitus type 2		2023	9999	13/10/2023	PH		
+433	5A11		Diabetes type 2		2023	9999	13/10/2023	PH		
+434	5A11		DM2		2023	9999	13/10/2023	PH		
+435	5A11		Non insulin dependent diabetes		2023	9999	13/10/2023	PH		
+436	5A11		Non insulin dependent diabetes mellitus		2023	9999	13/10/2023	PH		
+437	5A11		T2DM		2023	9999	13/10/2023	PH		
+438	5A11		Type 2 diabetes		2023	9999	13/10/2023	PH		
+439	5A11		Type 2 diabetes mellitus		2023	9999	13/10/2023	PH		
+440	5A11		Type 2 DM		2023	9999	13/10/2023	PH		
+441	5A14		Diabetes		2023	9999	13/10/2023	PH		
+442	5A14		Diabetes mellitus		2023	9999	13/10/2023	PH		
+443	5A200		Hyperglycaemic hyperosmolar state		2023	9999	13/10/2023	PH		
+444	5A200		Hyperosmolar hyperglycaemic		2023	9999	13/10/2023	PH		
+445	5A200		Hyperosmolar hyperglycaemic state		2023	9999	13/10/2023	PH		
+446	5A220		Diabetes ketoacidosis		2023	9999	13/10/2023	PH		
+447	5A220		Diabetic keto acidosis		2023	9999	13/10/2023	PH		
+448	5A220		Diabetic ketoacidosis		2023	9999	13/10/2023	PH		
+449	5A220&XS25		Severe diabetic ketoacidosis		2023	9999	13/10/2023	PH		
+450	5A24		Poorly controlled diabetes		2023	9999	13/10/2023	PH		
+451	5A24		Poorly controlled diabetes mellitus		2023	9999	13/10/2023	PH		
+452	5A40Z		Prediabetes		2023	9999	13/10/2023	PH		
+453	5A41	8E4Y	Hypoglycaemic brain injury		2023	9999	13/10/2023	PH		
+454	5A41		Hypoglycaemia		2023	9999	13/10/2023	PH		
+455	5A44		Metabolic syndrome		2023	9999	13/10/2023	PH		
+456	5A510		Primary hyperparathyroidism		2023	9999	13/10/2023	PH		
+457	5A51Z		Hyperparathyroidism		2023	9999	13/10/2023	PH		
+458	5A602Z		Syndrome inappropriate antidiuretic hormone secretion		2023	9999	14/12/2023	PH		
+459	5A602Z		Syndrome of inappropriate antidiuretic hormone secretion		2023	9999	13/10/2023	PH	14/12/2023	PH
+460	5A610		Hypopituitarism		2023	9999	13/10/2023	PH		
+461	5A610		Panhypopituitarism		2023	9999	13/10/2023	PH		
+462	5A740		Addison disease		2023	9999	13/10/2023	PH		
+463	5A741		Addisonian crisis		2023	9999	13/10/2023	PH		
+464	5A74Z		Adrenal insufficiency		2023	9999	13/10/2023	PH		
+465	5A75		Phaeochromocytoma		2023	9999	13/10/2023	PH		
+466	5B54		Low body mass index		2023	9999	30/11/2023	PH		
+467	5B5A10		Wernicke encephalopathy		2023	9999	13/10/2023	PH		
+468	5B5A11		Korsakoff dementia		2023	9999	13/10/2023	PH		
+469	5B5A11		Korsakoff psychosis		2023	9999	13/10/2023	PH		
+470	5B5A11		Korsakoff syndrome		2023	9999	13/10/2023	PH		
+471	5B5A1Z		Wernicke-Korsakoff syndrome		2023	9999	13/10/2023	PH		
+472	5B5K0		Iron deficiency		2023	9999	09/11/2023	PH		
+473	5B7Z		Malnutrition		2023	9999	13/10/2023	PH		
+474	5B7Z		Nutritional deficiency		2023	9999	13/10/2023	PH		
+475	5B8101&XS2B		Morbid Obesity		2023	9999	13/10/2023	PH		
+476	5B81Y		Endogenous obesity		2023	9999	13/10/2023	PH		
+477	5B81Y		Extreme obesity		2023	9999	13/10/2023	PH		
+478	5B81Z	BC43Z	Obesity cardiomyopathy		2023	9999	13/10/2023	MF		
+479	5B81Z		High body mass index		2023	9999	13/10/2023	ET		
+480	5B81Z		Increased body mass index		2023	9999	25/10/2023	ET		
+481	5B81Z		Obesity		2023	9999	13/10/2023	PH		
+482	5B81Z		Raised body mass index		2023	9999	28/11/2023	ET		
+483	5B910		Hypercalcaemia		2023	9999	13/10/2023	PH		
+484	5C5A		Alpha-1-antitrypsin deficiency		2023	9999	13/10/2023	PH		
+485	5C6410		Hereditary haemochromatosis		2023	9999	13/10/2023	PH		
+486	5C641Y		Haemochromatosis		2023	9999	13/10/2023	PH		
+487	5C700		Dehydration		2023	9999	13/10/2023	PH		
+488	5C701		Hypovolaemia		2023	9999	13/10/2023	PH		
+489	5C71		Hypernatraemia		2023	9999	13/10/2023	PH		
+490	5C72		Hyponatraemia		2023	9999	13/10/2023	PH		
+491	5C72&XS25		Severe hyponatraemia		2023	9999	13/10/2023	PH		
+492	5C72&XT8W		Chronic hyponatraemia		2023	9999	13/10/2023	PH		
+493	5C73Z		Ketoacidosis		2023	9999	13/10/2023	PH		
+494	5C73Z		Metabolic acidosis		2023	9999	13/10/2023	PH		
+495	5C73Z&XS25		Severe lactic acidosis		2023	9999	13/10/2023	PH		
+496	5C73Z&XS25		Severe metabolic acidosis		2023	9999	13/10/2023	PH		
+497	5C76		Hyperkalaemia		2023	9999	13/10/2023	PH		
+498	5C77		Hypokalaemia		2023	9999	13/10/2023	PH		
+499	5C78		Fluid overload		2023	9999	21/11/2023	PH		
+500	5C7Z		Electrolyte disturbance		2023	9999	13/10/2023	PH		
+501	5C7Z		Electrolyte imbalance		2023	9999	13/10/2023	PH		
+502	5C8000		Familial hypercholesterolaemia		2023	9999	13/10/2023	PH		
+503	5C800Z		High cholesterol		2023	9999	13/10/2023	PH		
+504	5C800Z		Hypercholesterolaemia		2023	9999	13/10/2023	PH		
+505	5C80Z		Hyperlipidaemia		2023	9999	13/10/2023	PH		
+506	5C811		Hypobetalipoproteinaemia		2023	9999	13/10/2023	PH		
+507	5C8Z		Dyslipidaemia		2023	9999	13/10/2023	PH		
+508	5D000		Cardiac amyloid		2023	9999	13/10/2023	PH		
+509	5D000		Cardiac amyloidosis		2023	9999	13/10/2023	PH		
+510	5D000&XA6H07		Amyloid cardiomyopathy		2023	9999	13/10/2023	PH		
+511	5D00Z		Amyloidosis		2023	9999	13/10/2023	PH		
+512	5D00Z&XA6H07		Senile cardiac amyloidosis		2023	9999	13/10/2023	PH		
+513	5D0Y		Hypoalbuminaemia		2023	9999	13/10/2023	PH		
+514	5D2Z		Metabolic dysfunction		2023	9999	13/10/2023	PH		
+515	6A00Z		Global developmental delay		2023	9999	09/11/2023	PH		
+516	6A020		Asperger's		2023	9999	13/10/2023	PH		
+517	6A02Z		Autism		2023	9999	13/10/2023	PH		
+518	6A03Z		Learning difficulties		2023	9999	13/10/2023	PH		
+519	6A03Z		Learning disabilities		2023	9999	13/10/2023	PH		
+520	6A03Z		Learning disability		2023	9999	13/10/2023	PH		
+521	6A03Z&XS25		Severe learning disability		2023	9999	13/10/2023	PH		
+522	6A20Z		Paranoid schizophrenia		2023	9999	13/10/2023	PH		
+523	6A20Z		Schizophrenia		2023	9999	13/10/2023	PH		
+524	6A21Z		Schizoaffective Disorder		2023	9999	13/10/2023	PH		
+525	6A60Z		Bipolar disorder		2023	9999	13/10/2023	PH		
+526	6A6Z		Bipolar affective disorder		2023	9999	13/10/2023	PH		
+527	6A7Z		Depression		2023	9999	13/10/2023	PH		
+528	6B00		Generalised anxiety disorder		2023	9999	13/10/2023	PH		
+529	6B02		Agoraphobia		2023	9999	13/10/2023	PH		
+530	6B606		Hemiparesis		2023	9999	13/10/2023	PH		
+531	6B606		Paraparesis		2023	9999	13/10/2023	PH		
+532	6B80Z		Anorexia nervosa		2023	9999	13/10/2023	PH		
+533	6C401Z		Alcohol		2023	9999	20/11/2023	PH		
+534	6C401Z		Alcohol abuse		2023	9999	13/10/2023	PH		
+535	6C401Z		Alcohol excess		2023	9999	13/11/2023	MN		
+536	6C401Z		Alcohol misuse		2023	9999	13/10/2023	PH		
+537	6C401Z		Chronic alcohol abuse		2023	9999	13/10/2023	PH		
+538	6C401Z		Chronic alcohol excess		2023	9999	13/10/2023	PH		
+539	6C401Z		Chronic alcohol misuse		2023	9999	13/10/2023	PH		
+540	6C401Z		Chronic alcohol use		2023	9999	25/10/2023	PH		
+541	6C401Z		Chronic excess alcohol consumption		2023	9999	13/10/2023	PH		
+542	6C402	5C50DY	Alcoholic ketoacidosis		2023	9999	13/10/2023	MF		
+543	6C402Z		Alcohol dependence		2023	9999	13/10/2023	PH		
+544	6C402Z		Alcohol dependence syndrome		2023	9999	13/10/2023	PH		
+545	6C402Z		Alcohol dependency		2023	9999	13/10/2023	PH		
+546	6C402Z		Alcohol dependency syndrome		2023	9999	13/10/2023	PH		
+547	6C402Z		Alcoholism		2023	9999	13/10/2023	PH		
+548	6C402Z		Chronic alcohol dependence		2023	9999	13/10/2023	PH		
+549	6C402Z		Chronic alcohol dependency		2023	9999	13/10/2023	PH		
+550	6C402Z		Chronic alcoholism		2023	9999	13/10/2023	PH		
+551	6C403		Alcohol intoxication		2023	9999	13/10/2023	PH		
+552	6C4042		Alcohol withdrawal seizure		2023	9999	13/11/2023	PH		
+553	6C404Z		Alcohol withdrawal		2023	9999	13/10/2023	PH		
+554	6C4A2Z		Tobacco dependence		2023	9999	13/10/2023	PH		
+555	6C4GZ		Drug misuse		2023	9999	13/10/2023	PH		
+556	6D70Y		Hypoactive delirium		2023	9999	13/10/2023	MF		
+557	6D70Z		Delerium		2023	9999	13/10/2023	PH		
+558	6D70Z		Delirium		2023	9999	13/10/2023	PH		
+559	6D71		Mild cognitive impairment		2023	9999	13/10/2023	PH		
+560	6D802		Mixed Alzheimer and vascular dementia		2023	9999	13/10/2023	PH		
+561	6D802		Mixed vascular and Alzheimer dementia		2023	9999	13/10/2023	PH		
+562	6D802		Mixed vascular dementia		2023	9999	13/10/2023	PH		
+563	6D80Z	8A20	Alzheimer dementia		2023	9999	13/10/2023	PH		
+564	6D80Z	8A20	Alzheimer disease dementia		2023	9999	13/10/2023	PH		
+565	6D80Z	8A20	Alzheimer type dementia		2023	9999	13/10/2023	PH		
+566	6D80Z	8A20	Dementia Alzheimer disease		2023	9999	13/10/2023	PH		
+567	6D80Z	8A20	Dementia in Alzheimer		2023	9999	13/10/2023	PH		
+568	6D80Z	8A20	Dementia in Alzheimer disease		2023	9999	13/10/2023	PH		
+569	6D80Z	8A20	Dementia of Alzheimer disease		2023	9999	13/10/2023	PH	14/12/2023	PH
+570	6D80Z		Mixed Alzheimer		2023	9999	13/10/2023	PH		
+571	6D80Z&XS25	8A20	Advanced Alzheimer dementia		2023	9999	13/10/2023	PH		
+572	6D80Z&XS25	8A20	Advanced dementia in Alzheimer disease		2023	9999	13/10/2023	PH		
+573	6D80Z&XS25	8A20	End stage Alzheimer dementia		2023	9999	13/10/2023	PH		
+574	6D81		Multi infarct dementia		2023	9999	14/12/2023	PH		
+575	6D81		Multi infarction dementia		2023	9999	13/10/2023	PH	14/12/2023	PH
+576	6D81		Multiinfarction dementia		2023	9999	13/10/2023	PH		
+577	6D81		Subcortical vascular dementia		2023	9999	13/10/2023	PH		
+578	6D81		Vascular dementia		2023	9999	13/10/2023	PH		
+579	6D81&XS25		Advanced vascular dementia		2023	9999	13/10/2023	PH		
+580	6D81&XS25		End stage vascular dementia		2023	9999	13/10/2023	PH		
+581	6D82	8A22	Lewy body dementia		2023	9999	13/10/2023	PH		
+582	6D82	8A22	Lewy-body dementia		2023	9999	20/12/2023	PH		
+583	6D82&XS25	8A22	Advanced lewy body dementia		2023	9999	13/10/2023	PH		
+584	6D82&XS25	8A22	End stage lewy body dementia		2023	9999	13/10/2023	PH		
+585	6D83		Frontal lobe dementia		2023	9999	13/10/2023	PH		
+586	6D83		Frontotemporal dementia		2023	9999	13/10/2023	PH		
+587	6D83		Primary progressive aphasia		2023	9999	13/10/2023	PH		
+588	6D83		Semantic dementia		2023	9999	13/10/2023	PH		
+589	6D840		Alcohol dementia		2023	9999	13/10/2023	PH		
+590	6D840		Alcoholic dementia		2023	9999	13/10/2023	PH		
+591	6D840		Alcoholic related dementia		2023	9999	13/10/2023	PH		
+592	6D840		Alcohol-related dementia		2023	9999	24/10/2023	PH		
+593	6D850	8A000Z	Dementia in Parkinson disease		2023	9999	13/10/2023	PH		
+594	6D850	8A000Z	Dementia of Parkinson disease		2023	9999	17/10/2023	PH	14/12/2023	PH
+595	6D850	8A000Z	Dementia Parkinson		2023	9999	13/10/2023	PH		
+596	6D850	8A000Z	Dementia Parkinson disease		2023	9999	13/10/2023	PH		
+597	6D850	8A000Z	Parkinson disease dementia		2023	9999	13/10/2023	PH		
+598	6D8Y		Progression dementia		2023	9999	19/12/2023	PH		
+599	6D8Y		Progressive dementia		2023	9999	13/10/2023	PH		
+600	6D8Z		Dementia		2023	9999	13/10/2023	PH		
+601	6D8Z		Dementia (mixed)		2023	9999	01/11/2023	PH		
+602	6D8Z		Dementia mixed type		2023	9999	14/12/2023	PH		
+603	6D8Z		Dementia of mixed type		2023	9999	13/10/2023	PH	14/12/2023	PH
+604	6D8Z		Mixed dementia		2023	9999	13/10/2023	PH		
+605	6D8Z		Mixed type dementia		2023	9999	13/10/2023	PH		
+606	6D8Z		Senile dementia		2023	9999	13/10/2023	PH		
+607	6D8Z		Unspecified dementia		2023	9999	13/10/2023	PH		
+608	6D8Z&XS25		Advanced dementia		2023	9999	13/10/2023	PH		
+609	6D8Z&XS25		Advanced mixed dementia		2023	9999	13/10/2023	PH		
+610	6D8Z&XS25		Advanced senile dementia		2023	9999	13/10/2023	PH		
+611	6D8Z&XS25		End stage dementia		2023	9999	13/10/2023	PH		
+612	6D8Z&XS25		Severe dementia		2023	9999	13/10/2023	PH		
+613	7A41		Obstructive sleep apnoea		2023	9999	13/10/2023	PH		
+614	7A41		Sleep apnoea		2023	9999	13/10/2023	PH		
+615	7A41&XS25		Severe obstructive sleep apnoea		2023	9999	13/10/2023	PH		
+616	7A420		Obesity hypoventilation syndrome		2023	9999	13/10/2023	PH		
+617	8A000Z	6D850	Parkinson dementia		2023	9999	13/10/2023	PH		
+618	8A000Z		Parkinson		2023	9999	13/10/2023	PH		
+619	8A000Z		Parkinson disease		2023	9999	13/10/2023	PH		
+620	8A000Z&XB5F		Idiopathic parkinson disease		2023	9999	13/10/2023	PH		
+621	8A000Z&XS25		Advanced parkinson		2023	9999	13/10/2023	PH		
+622	8A000Z&XS25		Advanced parkinson disease		2023	9999	13/10/2023	PH		
+623	8A000Z&XS25		End stage parkinson disease		2023	9999	13/10/2023	PH		
+624	8A000Z&XS25		Severe parkinson disease		2023	9999	13/10/2023	PH		
+625	8A0010		Progressive supranuclear palsy		2023	9999	13/10/2023	PH		
+626	8A001Y		Corticobasal degeneration		2023	9999	13/10/2023	PH		
+627	8A001Y		Perry Syndrome		2023	9999	13/10/2023	PH		
+628	8A0023		Vascular parkinson		2023	9999	13/10/2023	PH		
+629	8A0023		Vascular parkinson disease		2023	9999	13/10/2023	PH		
+630	8A0023		Vascular parkinsonism		2023	9999	13/10/2023	PH		
+631	8A0024		Drug induced parkinsonism		2023	9999	13/10/2023	PH		
+632	8A00Z		Parkinsonism		2023	9999	13/10/2023	PH		
+633	8A0110		Huntington chorea		2023	9999	13/10/2023	PH		
+634	8A0110		Huntington disease		2023	9999	13/10/2023	PH		
+635	8A0310		Friedreich ataxia		2023	9999	13/10/2023	PH		
+636	8A0316		Cerebellar ataxia		2023	9999	13/10/2023	PH		
+637	8A0316		Spinocerebellar ataxia		2023	9999	13/10/2023	PH		
+638	8A20		Advanced Alzheimer		2023	9999	13/10/2023	PH		
+639	8A20		Advanced Alzheimer disease		2023	9999	13/10/2023	PH		
+640	8A20		Alzheimer		2023	9999	13/10/2023	PH		
+641	8A20		Alzheimer disease		2023	9999	13/10/2023	PH		
+642	8A20		End stage Alzheimer		2023	9999	13/10/2023	PH		
+643	8A20		End stage Alzheimer disease		2023	9999	13/10/2023	PH		
+644	8A22		Lewy bodies		2023	9999	13/10/2023	ET		
+645	8A22		Lewy body		2023	9999	13/10/2023	PH		
+646	8A22		Lewy body disease		2023	9999	13/10/2023	PH		
+647	8A401		Primary progressive multiple sclerosis		2023	9999	13/10/2023	PH		
+648	8A402		Secondary progressive multiple sclerosis		2023	9999	13/10/2023	PH		
+649	8A40Z		MS		2023	9999	13/10/2023	PH		
+650	8A40Z		Multiple sclerosis		2023	9999	13/10/2023	PH		
+651	8A40Z&XS25		Advanced multiple sclerosis		2023	9999	13/10/2023	PH		
+652	8A410		Transverse myelitis		2023	9999	17/10/2023	PH		
+653	8A4502		Progressive multifocal leukoencephalopathy		2023	9999	21/11/2023	PH		
+654	8A621		Lennox-Gastaut syndrome		2023	9999	13/10/2023	PH		
+655	8A66Z		Status epilepticus		2023	9999	13/10/2023	PH		
+656	8A68Z		Seizure		2023	9999	13/10/2023	PH		
+657	8A68Z		Seizures		2023	9999	13/10/2023	PH		
+658	8A6Z		Epilepsy		2023	9999	13/10/2023	PH		
+659	8A6Z		Epileptic fit		2023	9999	06/12/2023	MN		
+660	8A6Z		Epileptic seizure		2023	9999	13/10/2023	ET		
+661	8A80Z		Migraine		2023	9999	05/12/2023	MN		
+662	8B002		Brainstem haemorrhage		2023	9999	13/10/2023	PH		
+663	8B002		Brainstem Stroke		2023	9999	13/10/2023	MF		
+664	8B002		Pontine haemorrhage		2023	9999	13/10/2023	PH		
+665	8B003		Cerebellar haemorrhage		2023	9999	13/10/2023	PH		
+666	8B004		Intraventricular haemorrhage		2023	9999	13/10/2023	PH		
+667	8B005		Intraparenchymal haemorrhage		2023	9999	13/10/2023	PH		
+668	8B00Z		Brain haemorrhage		2023	9999	13/10/2023	PH		
+669	8B00Z		Cerebral haemorrhage		2023	9999	13/10/2023	PH		
+670	8B00Z		Cerebrovascular haemorrhage		2023	9999	13/10/2023	PH		
+671	8B00Z		Haemorrhagic cerebral infarction		2023	9999	13/10/2023	PH		
+672	8B00Z		Haemorrhagic stroke		2023	9999	13/10/2023	PH		
+673	8B00Z		Intracerebellar haemorrhage		2023	9999	13/10/2023	PH		
+674	8B00Z		Intracerebral bleed		2023	9999	13/10/2023	PH		
+675	8B00Z		Intracerebral bleeding		2023	9999	13/10/2023	PH		
+676	8B00Z		Intracerebral haemorrhage		2023	9999	13/10/2023	PH		
+677	8B00Z		Large intracerebral haemorrhage		2023	9999	23/10/2023	PH		
+678	8B00Z		Primary intracerebral haemorrhage		2023	9999	13/10/2023	MF		
+679	8B00Z&XK8G		Left intracerebral haemorrhage		2023	9999	05/12/2023	PH		
+680	8B00Z&XK9K		Right intracerebral haemorrhage		2023	9999	13/10/2023	PH		
+681	8B00Z&XT5R		Acute intracerebral haemorrhage		2023	9999	06/12/2023	PH		
+682	8B010		Aneurysmal subarachnoid haemorrhage		2023	9999	13/10/2023	PH		
+683	8B010		Anterior communicating artery aneurysm		2023	9999	13/10/2023	PH		
+684	8B010		Ruptured berry aneurysm		2023	9999	13/10/2023	ET		
+685	8B010&XA13S2		Ruptured cerebral artery aneurysm		2023	9999	05/12/2023	PH		
+686	8B010&XA2JH8		Middle cerebral artery aneurysm		2023	9999	28/11/2023	PH		
+687	8B012		Subarachnoid haemorrhage		2023	9999	13/10/2023	PH		
+688	8B012&XT5R		Acute subarachnoid haemorrhage		2023	9999	13/10/2023	PH		
+689	8B0Z		Intracranial bleed		2023	9999	13/10/2023	PH		
+690	8B0Z		Intracranial bleeding		2023	9999	13/10/2023	PH		
+691	8B0Z		Intracranial haemorrhage		2023	9999	13/10/2023	PH		
+692	8B0Z&XK8G		Left intracranial haemorrhage		2023	9999	13/10/2023	PH		
+693	8B10Z		TIA		2023	9999	13/10/2023	PH		
+694	8B10Z		Transient cerebral ischaemia		2023	9999	13/10/2023	PH		
+695	8B10Z		Transient ischaemic attack		2023	9999	13/10/2023	PH		
+696	8B10Z		Transient ischaemic attacks		2023	9999	13/10/2023	PH		
+697	8B112Z		Embolic stroke		2023	9999	13/10/2023	PH		
+698	8B113		Lacunar infarction		2023	9999	13/10/2023	PH		
+699	8B113		Lacunar stroke		2023	9999	13/10/2023	PH		
+700	8B113&XK8G		Left lacunar stroke		2023	9999	13/10/2023	PH		
+701	8B113&XK9K		Right lacunar stroke		2023	9999	01/12/2023	PH		
+702	8B1151		Middle cerebral artery infarction		2023	9999	13/10/2023	PH		
+703	8B115Z	8B00Z	Ischaemic stroke with haemorrhagic transformation		2023	9999	13/10/2023	MN		
+704	8B115Z		Cerebral infarct		2023	9999	13/10/2023	PH		
+705	8B115Z		Cerebral infarction		2023	9999	13/10/2023	PH		
+706	8B115Z		Cerebral infarcts		2023	9999	01/12/2023	PH		
+707	8B115Z		Cerebrovascular infarction		2023	9999	13/10/2023	ET		
+708	8B115Z		Cerebrovascular stroke		2023	9999	13/10/2023	PH		
+709	8B115Z		Ischaemic stroke		2023	9999	13/10/2023	PH		
+710	8B115Z		Ischaemic strokes		2023	9999	04/12/2023	PH		
+711	8B115Z		Left hemispheric ischaemic stroke		2023	9999	13/10/2023	MF		
+712	8B115Z		Stroke (ischaemic)		2023	9999	13/10/2023	PH		
+713	8B115Z&XA13S2		Cerebral artery infarction		2023	9999	13/10/2023	PH		
+714	8B115Z&XA13S2		Cerebral artery ischaemic stroke		2023	9999	13/10/2023	PH		
+715	8B115Z&XA1VB0		Anterior circulation stroke		2023	9999	13/10/2023	PH		
+716	8B115Z&XA7C50		Posterior circulation ischaemic stroke		2023	9999	05/12/2023	PH		
+717	8B115Z&XK8G		Left cerebral infarction		2023	9999	13/10/2023	PH		
+718	8B115Z&XK8G		Left ischaemic stroke		2023	9999	13/10/2023	ET		
+719	8B115Z&XK8G		Left middle cerebral artery infarction		2023	9999	13/10/2023	MF		
+720	8B115Z&XK8G&XA2JH8		Left middle cerebral artery ischaemic stroke		2023	9999	13/10/2023	PH		
+721	8B115Z&XK9J		Bilateral ischaemic stroke		2023	9999	13/10/2023	PH		
+722	8B115Z&XK9K		Right ischaemic stroke		2023	9999	13/10/2023	PH		
+723	8B115Z&XK9K		Right middle cerebral artery infarction		2023	9999	13/10/2023	MF		
+724	8B115Z&XK9K&XA2JH8		Right middle cerebral artery ischaemic stroke		2023	9999	13/10/2023	MF		
+725	8B115Z&XT5R		Acute cerebral infarction		2023	9999	13/10/2023	PH		
+726	8B115Z&XT5R		Acute ischaemic stroke		2023	9999	13/10/2023	PH		
+727	8B1Z		Cerebral ischaemia		2023	9999	05/12/2023	PH		
+728	8B20		Acute cerebrovascular accident		2023	9999	13/10/2023	PH		
+729	8B20		Acute stroke		2023	9999	13/10/2023	PH		
+730	8B20		Cerebellar Stroke		2023	9999	13/10/2023	MF		
+731	8B20		Cerebral artery stroke		2023	9999	13/10/2023	PH		
+732	8B20		Cerebral vascular accident		2023	9999	13/10/2023	PH		
+733	8B20		Cerebrovascular accident		2023	9999	13/10/2023	PH		
+734	8B20		Cerebrovascular event		2023	9999	13/10/2023	PH		
+735	8B20		CVA		2023	9999	13/10/2023	PH		
+736	8B20		Posterior circulation stroke		2023	9999	13/10/2023	MF		
+737	8B20		Stroke		2023	9999	13/10/2023	PH		
+738	8B20		Stroke disease		2023	9999	13/10/2023	PH		
+739	8B20		Strokes		2023	9999	13/10/2023	ET		
+740	8B20&XA1VB0		Total anterior circulation stroke		2023	9999	13/10/2023	MN		
+741	8B20&XK8G&XA1VB0		Left total anterior circulation stroke		2023	9999	13/10/2023	MN		
+742	8B20&XK8G&XA2JH8		Left middle cerebral artery stroke		2023	9999	13/10/2023	MN		
+743	8B20&XK9K		Right stroke		2023	9999	27/11/2023	PH		
+744	8B20&XK9K&XA2JH8		Right middle cerebral artery stroke		2023	9999	13/10/2023	MN		
+745	8B21Z		Small vessel cerebrovascular disease		2023	9999	13/10/2023	MF		
+746	8B223		Amyloid angiopathy		2023	9999	13/10/2023	PH		
+747	8B223		Cerebral amyloid angiopathy		2023	9999	13/10/2023	PH		
+748	8B2240		Cerebral arteriovenous malformation		2023	9999	13/10/2023	PH		
+749	8B2242		Dural arteriovenous fistula		2023	9999	13/10/2023	PH		
+750	8B2242		Dural arterio-venous fistula		2023	9999	13/10/2023	PH		
+751	8B225		Berry aneurysm		2023	9999	13/10/2023	PH		
+752	8B225		Brain aneurysm		2023	9999	13/10/2023	PH		
+753	8B225		Cerebral aneurysm		2023	9999	13/10/2023	PH		
+754	8B225&XA13S2		Cerebral artery aneurysm		2023	9999	15/10/2023	PH		
+755	8B240		Anoxic brain injury		2023	9999	13/10/2023	PH		
+756	8B24Z		Cerebral hypoxia		2023	9999	13/10/2023	PH		
+757	8B24Z		Hypoxic brain damage		2023	9999	13/10/2023	PH		
+758	8B24Z		Hypoxic brain injury		2023	9999	13/10/2023	PH		
+759	8B24Z		Hypoxic encephalopathy		2023	9999	13/10/2023	PH		
+760	8B24Z		Hypoxic ischaemic brain injury		2023	9999	24/10/2023	PH		
+761	8B24Z		Hypoxic ischaemic encephalopathy		2023	9999	13/10/2023	PH		
+762	8B24Z		Hypoxic-ischaemic encephalopathy		2023	9999	13/10/2023	PH		
+763	8B24Z&XS25		Severe hypoxic brain injury		2023	9999	13/10/2023	PH		
+764	8B250		Old cerebral infarction		2023	9999	13/10/2023	PH		
+765	8B254		Old stroke		2023	9999	13/10/2023	PH		
+766	8B254		Previous cerebrovascular accident		2023	9999	13/10/2023	PH		
+767	8B254		Previous ischaemic stroke		2023	9999	13/10/2023	PH		
+768	8B254		Previous stroke		2023	9999	13/10/2023	PH		
+769	8B254		Previous strokes		2023	9999	13/10/2023	PH		
+770	8B261		Cerebellar infarction		2023	9999	13/10/2023	PH		
+771	8B2Z		Cerebral vascular disease		2023	9999	13/10/2023	PH		
+772	8B2Z		Cerebrovascular disease		2023	9999	13/10/2023	PH		
+773	8B2Z		Cerebro-vascular disease		2023	9999	13/10/2023	PH		
+774	8B2Z		CVD		2023	9999	13/10/2023	PH		
+775	8B40		Cauda equina syndrome		2023	9999	09/11/2023	PH		
+776	8B42		Cervical myelopathy		2023	9999	13/10/2023	PH		
+777	8B42		Spinal cord compression		2023	9999	13/10/2023	PH		
+778	8B440Z		Spastic paraparesis		2023	9999	13/10/2023	PH		
+779	8B600		Amyotrophic lateral sclerosis		2023	9999	13/10/2023	PH		
+780	8B601		Progressive bulbar palsy		2023	9999	13/10/2023	PH		
+781	8B602		Pseudobulbar palsy		2023	9999	06/12/2023	MN		
+782	8B60Y		Bulbar palsy		2023	9999	13/10/2023	PH		
+783	8B60Z		Bulbar motor neuron disease		2023	9999	07/12/2023	PH		
+784	8B60Z		Bulbar motor neurone disease		2023	9999	13/10/2023	PH		
+785	8B60Z		Motor neuron disease		2023	9999	13/10/2023	PH		
+786	8B60Z		Motor neurone disease		2023	9999	13/10/2023	PH		
+787	8B60Z&XS25		Advanced motor neuron disease		2023	9999	13/10/2023	PH		
+788	8B61Z		Spinal muscular atrophy		2023	9999	13/10/2023	PH		
+789	8C010		Guillain barre syndrome		2023	9999	13/10/2023	PH		
+790	8C013		Chronic inflammatory demyelinating polyneuropathy		2023	9999	13/10/2023	PH		
+791	8C030		Diabetic neuropathy		2023	9999	13/10/2023	PH		
+792	8C0Z		Neuropathy		2023	9999	13/10/2023	PH		
+793	8C0Z		Peripheral neuropathy		2023	9999	13/10/2023	PH		
+794	8C21Z		Charcot-Marie-Tooth disease		2023	9999	01/12/2023	PH		
+795	8C60Z		Myaesthenia gravis		2023	9999	13/10/2023	PH		
+796	8C701		Duchenne muscular dystrophy		2023	9999	13/10/2023	PH		
+797	8C701		Duchenne's muscular dystrophy		2023	9999	13/10/2023	PH		
+798	8C70Z		Muscular dystrophy		2023	9999	13/10/2023	PH		
+799	8C710		Myotonic dystrophy		2023	9999	13/10/2023	PH		
+800	8C73Y		MELAS syndrome		2023	9999	13/10/2023	PH		
+801	8C73Z		Mitochondrial myopathy		2023	9999	13/10/2023	PH		
+802	8D2Z		Cerebral palsy		2023	9999	13/10/2023	PH		
+803	8D2Z		Congenital cerebral palsy		2023	9999	13/10/2023	PH		
+804	8D601		Cerebral oedema		2023	9999	13/10/2023	PH		
+805	8D60Z		Raised intracranial pressure		2023	9999	13/10/2023	PH		
+806	8D6404		Normal pressure hydrocephalus		2023	9999	13/10/2023	PH		
+807	8D64Z		Hydrocephalous		2023	9999	13/10/2023	PH		
+808	8D64Z		Hydrocephalus		2023	9999	13/10/2023	PH		
+809	8D870Z		Multi system atrophy		2023	9999	13/10/2023	PH		
+810	8D870Z		Multiple system atrophy		2023	9999	13/10/2023	PH		
+811	8E00		Sporadic Creutzfeldt-Jakob disease		2023	9999	13/10/2023	PH		
+812	8E02Z		Creutzfeldt-Jakob disease		2023	9999	13/10/2023	PH		
+813	8E47		Encephalopathy		2023	9999	13/10/2023	PH		
+814	8E4A0		Autoimmune encephalitis		2023	9999	13/10/2023	PH		
+815	8E4Y		Cerebral atrophy		2023	9999	13/10/2023	PH		
+816	8E64		Multifocal Cerebral Infarction		2023	9999	13/10/2023	PH		
+817	9B750Z		Age related macular degeneration		2023	9999	13/10/2023	PH		
+818	9B783Z		Macular degeneration		2023	9999	13/10/2023	PH		
+819	9C61Z		Glaucoma		2023	9999	13/10/2023	PH		
+820	9C821		Oculopharyngeal muscular dystrophy		2023	9999	01/12/2023	PH		
+821	9D56		Charles Bonnet syndrome		2023	9999	13/10/2023	PH		
+822	AA02		Necrotising otitis externa		2023	9999	13/10/2023	PH		
+823	BA00Y		Orthostatic hypertension		2023	9999	27/11/2023	PH		
+824	BA00Z		Arterial hypertension		2023	9999	13/10/2023	PH		
+825	BA00Z		Artery hypertension		2023	9999	13/10/2023	PH		
+826	BA00Z		Cardiorenal syndrome		2023	9999	13/10/2023	PH		
+827	BA00Z		Essential hypertension		2023	9999	13/10/2023	PH		
+828	BA00Z		High blood pressure		2023	9999	13/10/2023	PH		
+829	BA00Z		HT		2023	9999	13/10/2023	PH		
+830	BA00Z		HTN		2023	9999	13/10/2023	PH		
+831	BA00Z		Hypertension		2023	9999	13/10/2023	PH		
+832	BA00Z		Hypertensive		2023	9999	13/10/2023	PH		
+833	BA00Z		Hypertensive disease		2023	9999	13/10/2023	PH		
+834	BA00Z		Systemic hypertension		2023	9999	13/10/2023	PH		
+835	BA00Z&XS25		Severe hypertension		2023	9999	13/10/2023	PH		
+836	BA01	BA6Z	Hypertensive and ischaemic heart disease		2023	9999	13/10/2023	PH		
+837	BA01	BC0Z	Hypertensive and valvular heart disease		2023	9999	13/10/2023	PH		
+838	BA01	BD1Z	Congestive cardiac failure hypertension		2023	9999	13/10/2023	PH		
+839	BA01		Hypertensive cardiac disease		2023	9999	21/11/2023	PH		
+840	BA01		Hypertensive cardiomyopathy		2023	9999	13/10/2023	PH		
+841	BA01		Hypertensive heart disease		2023	9999	13/10/2023	PH		
+842	BA02		Hypertensive nephropathy		2023	9999	13/10/2023	PH		
+843	BA02		Hypertensive nephrosclerosis		2023	9999	09/11/2023	PH		
+844	BA02		Renovascular disease		2023	9999	13/10/2023	PH		
+845	BA21		Orthostatic hypotension		2023	9999	13/10/2023	PH		
+846	BA21		Postural hypotension		2023	9999	13/10/2023	PH		
+847	BA2Z		Hypotension		2023	9999	13/10/2023	PH		
+848	BA400		Acute coronary insufficiency		2023	9999	13/10/2023	PH		
+849	BA400		Unstable angina		2023	9999	13/10/2023	PH		
+850	BA401		Stable angina		2023	9999	13/10/2023	PH		
+851	BA40Z		Angina		2023	9999	13/10/2023	PH		
+852	BA40Z		Angina pectoris		2023	9999	13/10/2023	PH		
+853	BA410		Acute ST elevation myocardial infarction		2023	9999	21/11/2023	PH		
+854	BA410		ST elevated myocardial infarction		2023	9999	13/10/2023	PH		
+855	BA410		ST elevation myocardial infarction		2023	9999	13/10/2023	PH		
+856	BA410		ST-elevation myocardial infarction		2023	9999	05/12/2023	PH		
+857	BA410		STEMI		2023	9999	13/10/2023	PH		
+858	BA410&XA3RM8		Inferior ST elevation myocardial infarction		2023	9999	05/12/2023	PH		
+859	BA411		Non ST elevated myocardial infarction		2023	9999	13/10/2023	PH		
+860	BA411		Non ST elevation myocardial infarction		2023	9999	13/10/2023	PH		
+861	BA411		Non-ST elevated myocardial infarction		2023	9999	18/12/2023	PH		
+862	BA411		NSTEMI		2023	9999	13/10/2023	PH		
+863	BA412		Recent myocardial infarction		2023	9999	13/10/2023	MF		
+864	BA41Z		Acute coronary artery thrombosis		2023	9999	26/10/2023	PH		
+865	BA41Z		Acute myocardial infarction		2023	9999	13/10/2023	PH		
+866	BA41Z		Coronary artery occlusion		2023	9999	13/10/2023	PH		
+867	BA41Z		Coronary artery thrombosis		2023	9999	13/10/2023	PH		
+868	BA41Z		Coronary artery thrombus		2023	9999	13/10/2023	PH		
+869	BA41Z		Coronary thrombosis		2023	9999	13/10/2023	PH		
+870	BA41Z		Heart attack		2023	9999	13/10/2023	PH		
+871	BA41Z		MI		2023	9999	13/10/2023	PH		
+872	BA41Z		Myocardial infarct		2023	9999	13/10/2023	PH		
+873	BA41Z		Myocardial infarction		2023	9999	13/10/2023	PH		
+874	BA41Z		Myocardial rupture		2023	9999	13/10/2023	PH		
+875	BA41Z		Ruptured acute myocardial infarction		2023	9999	13/10/2023	ET		
+876	BA41Z&XA3RM8		Acute inferior myocardial infarction		2023	9999	06/12/2023	MN		
+877	BA41Z&XA3RM8		Inferior myocardial infarction		2023	9999	05/12/2023	PH		
+878	BA41Z&XA7RE3		Anterior myocardial infarction		2023	9999	07/11/2023	PH		
+879	BA42		Type 2 myocardial infarction		2023	9999	13/10/2023	MF		
+880	BA43&XA7NQ7		Left anterior descending coronary artery thrombosis		2023	9999	05/12/2023	PH		
+881	BA43&XK9K		Right coronary artery thrombosis		2023	9999	13/10/2023	MF		
+882	BA43&XK9K		Thrombosis right coronary artery		2023	9999	12/12/2023	PH		
+883	BA4Z		ACS		2023	9999	13/10/2023	PH		
+884	BA4Z		Acute coronary syndrome		2023	9999	13/10/2023	PH		
+885	BA4Z		Acute ischaemic heart disease		2023	9999	13/10/2023	PH		
+886	BA4Z		Acute myocardial ischaemia		2023	9999	13/10/2023	PH		
+887	BA50		Myocardial scarring		2023	9999	13/10/2023	PH		
+888	BA50		Old myocardial infarction		2023	9999	13/10/2023	PH		
+889	BA50		Past myocardial infarction		2023	9999	13/10/2023	PH		
+890	BA50		Previous myocardial infarction		2023	9999	13/10/2023	PH		
+891	BA51Z	BA01	Ischaemic and hypertensive cardiomyopathy		2023	9999	19/12/2023	PH		
+892	BA51Z		Ischaemic cardiomyopathy		2023	9999	13/10/2023	PH		
+893	BA51Z&XS25		Severe ischaemic cardiomyopathy		2023	9999	13/10/2023	PH		
+894	BA52Z	BA41Z	Coronary artery atheroma and thrombosis		2023	9999	13/10/2023	PH		
+895	BA52Z	BA41Z	Coronary artery atheroma with thrombosis		2023	9999	20/11/2023	PH		
+896	BA52Z	BA41Z	Coronary artery atherosclerosis and thrombosis		2023	9999	13/10/2023	PH		
+897	BA52Z	BA41Z	Coronary atherosclerosis and thrombosis		2023	9999	13/10/2023	PH		
+898	BA52Z		Atherosclerosis coronary artery disease		2023	9999	13/10/2023	PH		
+899	BA52Z		Atherosclerotic coronary artery disease		2023	9999	13/10/2023	PH		
+900	BA52Z		Coronary arteries atherosclerosis		2023	9999	13/10/2023	PH		
+901	BA52Z		Coronary artery atheroma		2023	9999	13/10/2023	PH		
+902	BA52Z		Coronary artery atheromatous disease		2023	9999	13/10/2023	PH		
+903	BA52Z		Coronary artery atherosclerosis		2023	9999	13/10/2023	PH		
+904	BA52Z		Coronary artery narrowing by atherosclerosis		2023	9999	13/10/2023	PH		
+905	BA52Z		Coronary artery stenosis		2023	9999	13/10/2023	PH		
+906	BA52Z		Coronary atheroma		2023	9999	13/10/2023	PH		
+907	BA52Z		Coronary atheromatous disease		2023	9999	13/10/2023	PH		
+908	BA52Z		Coronary atherosclerosis		2023	9999	13/10/2023	PH		
+909	BA52Z		Coronary syndrome		2023	9999	13/10/2023	PH		
+910	BA52Z		High grade coronary artery atherosclerosis		2023	9999	13/10/2023	MF		
+911	BA52Z		Occlusive coronary artery atheroma		2023	9999	13/10/2023	PH		
+912	BA52Z		Stenotic coronary artery atheroma		2023	9999	13/10/2023	MF		
+913	BA52Z		Stenotic Coronary Artery atherosclerosis		2023	9999	13/10/2023	MF		
+914	BA52Z&XS25	BA41Z	Severe coronary artery atheroma with thrombosis		2023	9999	20/11/2023	PH		
+915	BA52Z&XS25		Severe coronary arteries stenosis		2023	9999	13/10/2023	MF		
+916	BA52Z&XS25		Severe coronary artery atheroma		2023	9999	18/12/2023	PH		
+917	BA52Z&XS25		Severe coronary artery atheromatous disease		2023	9999	05/12/2023	PH		
+918	BA52Z&XS25		Severe coronary artery atherosclerosis		2023	9999	13/10/2023	PH		
+919	BA52Z&XS25		Severe coronary artery stenosis		2023	9999	13/10/2023	MF		
+920	BA52Z&XS25		Severe coronary atheroma		2023	9999	13/10/2023	PH		
+921	BA52Z&XS25		Severe coronary atherosclerosis		2023	9999	13/10/2023	PH		
+922	BA52Z&XS2V		Uni-vascular atherosclerosis coronary artery disease		2023	9999	13/10/2023	PH		
+923	BA5Z		Chronic ischaemic heart disease		2023	9999	13/10/2023	PH		
+924	BA5Z		Coronary heart disease		2023	9999	13/10/2023	PH		
+925	BA60Y	BA41Z	Ruptured myocardial infarction		2023	9999	13/10/2023	PH		
+926	BA6Z	BA01	Ischaemic and hypertension heart disease		2023	9999	13/10/2023	PH		
+927	BA6Z	BA01	Ischaemic and hypertensive heart disease		2023	9999	13/10/2023	PH		
+928	BA6Z	BB7Z	Mitral and aortic valve disease		2023	9999	13/10/2023	PH		
+929	BA6Z	BC0Z	Ischaemic and valvular heart disease		2023	9999	13/10/2023	PH		
+930	BA6Z		Cardiac ischaemia		2023	9999	13/10/2023	PH		
+931	BA6Z		IHD		2023	9999	13/10/2023	PH		
+932	BA6Z		Ischaemic cardiac disease		2023	9999	21/11/2023	PH		
+933	BA6Z		Ischaemic coronary heart disease		2023	9999	13/10/2023	PH		
+934	BA6Z		Ischaemic heart disease		2023	9999	13/10/2023	PH		
+935	BA6Z		Myocardial ischaemia		2023	9999	13/10/2023	PH		
+936	BA6Z&XS25		Severe ischaemic heart disease		2023	9999	13/10/2023	PH		
+937	BA82		Spontaneous coronary artery dissection		2023	9999	13/10/2023	PH		
+938	BA84		Complete occlusion coronary artery		2023	9999	14/12/2023	PH		
+939	BA84		Complete occlusion of the coronary artery		2023	9999	13/10/2023	PH	14/12/2023	PH
+940	BA8Z		Coronary artery disease		2023	9999	13/10/2023	PH		
+941	BA8Z		Coronary artery insufficiency		2023	9999	13/10/2023	PH		
+942	BA8Z&XE8J3		Calcified coronary arterial disease		2023	9999	25/10/2023	PH		
+943	BA8Z&XS25		Severe coronary artery disease		2023	9999	13/10/2023	PH		
+944	BB000		Acute pulmonary embolism		2023	9999	13/10/2023	PH		
+945	BB000		Acute pulmonary embolus		2023	9999	01/12/2023	PH		
+946	BB000		Acute pulmonary thromboembolism		2023	9999	21/11/2023	PH		
+947	BB00Z		Bilateral pulmonary thromboembolism		2023	9999	13/10/2023	MF		
+948	BB00Z		Massive pulmonary embolism		2023	9999	01/11/2023	PH		
+949	BB00Z		PE		2023	9999	13/10/2023	PH		
+950	BB00Z		Previous pulmonary embolism		2023	9999	13/10/2023	PH		
+951	BB00Z		Pulmonary emboli		2023	9999	13/10/2023	PH		
+952	BB00Z		Pulmonary embolism		2023	9999	13/10/2023	PH		
+953	BB00Z		Pulmonary embolisms		2023	9999	13/10/2023	PH		
+954	BB00Z		Pulmonary embolus		2023	9999	13/10/2023	PH		
+955	BB00Z		Pulmonary infarction		2023	9999	13/10/2023	PH		
+956	BB00Z		Pulmonary thromboemboli		2023	9999	13/10/2023	PH		
+957	BB00Z		Pulmonary thromboembolism		2023	9999	13/10/2023	PH		
+958	BB00Z		Pulmonary thromboembolus		2023	9999	13/10/2023	PH		
+959	BB00Z		Pulmonary thrombosis		2023	9999	13/10/2023	PH		
+960	BB00Z&XA09J9		Pulmonary arterial thromboembolism		2023	9999	13/10/2023	PH		
+961	BB00Z&XA09J9		Pulmonary artery thromboembolism		2023	9999	13/10/2023	PH		
+962	BB00Z&XK9J		Bilateral pulmonary emboli		2023	9999	13/10/2023	MF		
+963	BB00Z&XK9J		Bilateral pulmonary embolism		2023	9999	13/10/2023	PH		
+964	BB00Z&XK9J		Bilateral pulmonary thromboemboli		2023	9999	05/12/2023	PH		
+965	BB010	LA8Z	Eisenmenger syndrome		2023	9999	13/10/2023	PH		
+966	BB010		Primary pulmonary hypertension		2023	9999	13/10/2023	PH		
+967	BB010		Pulmonary arterial hypertension		2023	9999	13/10/2023	PH		
+968	BB010		Pulmonary artery hypertension		2023	9999	13/10/2023	PH		
+969	BB013		Chronic thromboembolic pulmonary hypertension		2023	9999	13/10/2023	PH		
+970	BB015		Cor pulmonale		2023	9999	13/10/2023	PH		
+971	BB015		Cor-pulmonale		2023	9999	13/10/2023	PH		
+972	BB015&XT8W		Chronic cor pulmonale		2023	9999	13/10/2023	PH		
+973	BB01Z		Pulmonary hypertension		2023	9999	13/10/2023	PH		
+974	BB01Z&XS25		Severe pulmonary hypertension		2023	9999	13/10/2023	PH		
+975	BB02		Cardiopulmonary degeneration		2023	9999	13/10/2023	MF		
+976	BB202		Myopericarditis		2023	9999	21/11/2023	PH		
+977	BB20Y		Fibrinous pericarditis		2023	9999	13/10/2023	PH		
+978	BB20Z		Acute pericarditis		2023	9999	13/10/2023	PH		
+979	BB22		Constrictive pericarditis		2023	9999	13/10/2023	PH		
+980	BB23		Cardiac tamponade		2023	9999	13/10/2023	PH		
+981	BB23		Pericardial tamponade		2023	9999	13/10/2023	PH		
+982	BB24		Haemopericardium		2023	9999	13/10/2023	PH		
+983	BB24&XT5R		Acute haemopericardium		2023	9999	13/10/2023	PH		
+984	BB25		Pericardial effusion		2023	9999	13/10/2023	PH		
+985	BB2Z		Pericarditis		2023	9999	13/10/2023	PH		
+986	BB40		Bacterial endocarditis		2023	9999	13/10/2023	PH		
+987	BB40		Infected endocarditis		2023	9999	13/10/2023	PH		
+988	BB40		Infective endocarditis		2023	9999	13/10/2023	PH		
+989	BB60Z		Mitral stenosis		2023	9999	13/10/2023	PH		
+990	BB60Z		Mitral valve stenosis		2023	9999	13/10/2023	PH		
+991	BB60Z&XS25		Severe mitral stenosis		2023	9999	13/10/2023	PH		
+992	BB61Z	BB81Z	Mitral and tricuspid valve regurgitation		2023	9999	01/11/2023	PH		
+993	BB61Z		Mitral regurgitation		2023	9999	13/10/2023	PH		
+994	BB61Z		Mitral valve regurgitation		2023	9999	13/10/2023	PH		
+995	BB61Z&XS25		Severe mitral regurgitation		2023	9999	13/10/2023	PH		
+996	BB61Z&XS25		Severe mitral valve regurgitation		2023	9999	01/12/2023	PH		
+997	BB62Z		Mitral valve prolapse		2023	9999	13/10/2023	PH		
+998	BB6Z		Mitral valve disease		2023	9999	13/10/2023	PH		
+999	BB701		Calcific aortic stenosis		2023	9999	13/10/2023	PH		
+1000	BB701		Calcific aortic valve stenosis		2023	9999	13/10/2023	PH		
+1001	BB70Z		Aortic stenosis		2023	9999	13/10/2023	PH		
+1002	BB70Z		Aortic valve stenosis		2023	9999	13/10/2023	PH		
+1003	BB70Z		Aortic valvular stenosis		2023	9999	13/10/2023	PH		
+1004	BB70Z		Critical aortic stenosis		2023	9999	13/10/2023	MF		
+1005	BB70Z		Stenosis aortic valve		2023	9999	13/10/2023	PH		
+1006	BB70Z&XS0T		Moderate aortic stenosis		2023	9999	25/10/2023	ET		
+1007	BB70Z&XS25		Severe aortic stenosis		2023	9999	13/10/2023	PH		
+1008	BB70Z&XS25		Severe aortic valve stenosis		2023	9999	13/10/2023	PH		
+1009	BB71Z		Aortic regurgitation		2023	9999	13/10/2023	PH		
+1010	BB71Z&XS25		Severe aortic regurgitation		2023	9999	13/10/2023	PH		
+1011	BB72Z		Aortic valve regurgitation		2023	9999	13/10/2023	PH		
+1012	BB7Z	BB6Z	Aortic and mitral valve disease		2023	9999	13/10/2023	PH		
+1013	BB7Z		Aortic valve disease		2023	9999	13/10/2023	PH		
+1014	BB81Z		Severe tricuspid regurgitation		2023	9999	13/10/2023	PH		
+1015	BB81Z		Tricuspid incompetence		2023	9999	13/10/2023	PH		
+1016	BB81Z		Tricuspid regurgitation		2023	9999	13/10/2023	PH		
+1017	BB81Z		Tricuspid valve regurgitation		2023	9999	13/10/2023	PH		
+1018	BC0Z	BA01	Valvular and hypertensive heart disease		2023	9999	13/10/2023	PH		
+1019	BC0Z	BA6Z	Valvular and ischaemic heart disease		2023	9999	01/11/2023	PH		
+1020	BC0Z		Cardiac valve disease		2023	9999	13/10/2023	PH		
+1021	BC0Z		Cardiac valvular disease		2023	9999	13/10/2023	PH		
+1022	BC0Z		Heart valve disease		2023	9999	13/10/2023	PH		
+1023	BC0Z		Valvular disease		2023	9999	13/10/2023	PH		
+1024	BC0Z		Valvular heart disease		2023	9999	13/10/2023	PH		
+1025	BC0Z&XS25		Severe valvular heart disease		2023	9999	13/10/2023	PH		
+1026	BC201		Rheumatic heart disease		2023	9999	13/10/2023	PH		
+1027	BC421		Viral myocarditis		2023	9999	13/10/2023	PH		
+1028	BC42Z		Myocardial fibrosis		2023	9999	13/10/2023	PH		
+1029	BC42Z		Myocarditis		2023	9999	13/10/2023	PH		
+1030	BC4301		Alcoholic cardiomyopathy		2023	9999	13/10/2023	PH		
+1031	BC430Z		Congestive cardiomyopathy		2023	9999	13/10/2023	PH		
+1032	BC430Z		Dilated cardiomyopathy		2023	9999	13/10/2023	PH		
+1033	BC430Z		Primary dilated cardiomyopathy		2023	9999	09/11/2023	PH		
+1034	BC430Z&XB5F		Idiopathic dilated cardiomyopathy		2023	9999	13/10/2023	PH		
+1035	BC4312		Hypertrophic obstructive cardiomyopathy		2023	9999	13/10/2023	PH		
+1036	BC431Z		Hypertrophic cardiomyopathy		2023	9999	13/10/2023	PH		
+1037	BC435		Takotsubo cardiomyopathy		2023	9999	13/10/2023	PH		
+1038	BC436		Arrhythmogenic ventricular cardiomyopathy		2023	9999	13/10/2023	PH		
+1039	BC43Y		Non-ischaemic cardiomyopathy		2023	9999	23/10/2023	ET		
+1040	BC43Z		Cardiomyopathy		2023	9999	13/10/2023	PH		
+1041	BC43Z&XB5F		Idiopathic cardiomyopathy		2023	9999	05/12/2023	MN		
+1042	BC45		Cardiac dilation		2023	9999	13/10/2023	PH		
+1043	BC45		Cardiac enlargement		2023	9999	13/10/2023	PH		
+1044	BC45		Cardiac hypertrophy		2023	9999	13/10/2023	PH		
+1045	BC45		Cardiomegaly		2023	9999	13/10/2023	PH		
+1046	BC45		Enlarged heart		2023	9999	13/10/2023	PH		
+1047	BC45		Enlargement heart		2023	9999	14/12/2023	PH		
+1048	BC45		Enlargement of the heart		2023	9999	13/10/2023	PH	14/12/2023	PH
+1049	BC45		Hypertrophic heart disease		2023	9999	13/10/2023	PH		
+1050	BC45		Left ventricular hypertrophy		2023	9999	13/10/2023	PH		
+1051	BC45		Myocardial hypertrophy		2023	9999	13/10/2023	PH		
+1052	BC45		Ventricular hypertrophy		2023	9999	13/10/2023	PH		
+1053	BC45&XA9HH8		Right ventricular hypertrophy		2023	9999	13/10/2023	ET		
+1054	BC45&XB5F		Idiopathic left ventricular hypertrophy		2023	9999	13/10/2023	PH		
+1055	BC45&XB5F		Idiopathic ventricular hypertrophy		2023	9999	13/10/2023	PH		
+1056	BC45&XK9J		Biventricular cardiac hypertrophy		2023	9999	13/10/2023	ET		
+1057	BC45&XK9J		Biventricular hypertrophy		2023	9999	13/10/2023	ET		
+1058	BC45&XS25		Severe cardiac hypertrophy		2023	9999	13/10/2023	PH		
+1059	BC45&XS25		Severe cardiomegaly		2023	9999	13/10/2023	PH		
+1060	BC45&XS25		Severe left ventricular hypertrophy		2023	9999	30/11/2023	ET		
+1061	BC46		Ventricular thrombosis		2023	9999	13/10/2023	PH		
+1062	BC46&XA8FJ7		Left ventricular thrombus		2023	9999	13/10/2023	ET		
+1063	BC4Y&XS25		Severe ventricular dysfunction		2023	9999	13/10/2023	PH		
+1064	BC4Y&XS25		Severe ventricular systolic dysfunction		2023	9999	13/10/2023	PH		
+1065	BC4Z		Cardiac disease		2023	9999	13/10/2023	PH		
+1066	BC4Z		Cardiac event		2023	9999	13/10/2023	PH		
+1067	BC4Z		Heart disease		2023	9999	13/10/2023	PH		
+1068	BC4Z		Senile myocardial degeneration		2023	9999	13/10/2023	MF		
+1069	BC4Z&XA19J4		Aortic valvular heart disease		2023	9999	13/10/2023	MF		
+1070	BC632Z		Complete atrioventricular block		2023	9999	13/10/2023	PH		
+1071	BC632Z		Complete heart block		2023	9999	13/10/2023	PH		
+1072	BC634Z		Left bundle branch block		2023	9999	13/10/2023	PH		
+1073	BC635		Bundle branch block		2023	9999	13/10/2023	PH		
+1074	BC63Z		Heart block		2023	9999	13/10/2023	PH		
+1075	BC64		Sudden arrhythmic death syndrome		2023	9999	13/10/2023	PH		
+1076	BC650		Long QT syndrome		2023	9999	13/10/2023	PH		
+1077	BC710Z		Ventricular tachycardia		2023	9999	13/10/2023	PH		
+1078	BC711		Ventricular fibrillation		2023	9999	13/10/2023	PH		
+1079	BC711		VF		2023	9999	13/10/2023	PH		
+1080	BC8020		Sick sinus syndrome		2023	9999	13/10/2023	PH		
+1081	BC812Z		Atrial flutter		2023	9999	13/10/2023	PH		
+1082	BC8130		Paroxysmal AF		2023	9999	13/10/2023	PH		
+1083	BC8130		Paroxysmal atrial fibrillation		2023	9999	13/10/2023	PH		
+1084	BC8132		Chronic atrial fibrillation		2023	9999	13/10/2023	PH		
+1085	BC813Z		AF		2023	9999	13/10/2023	PH		
+1086	BC813Z		Atrial fibrillation		2023	9999	13/10/2023	PH		
+1087	BC813Z		Fast atrial fibrillation		2023	9999	13/10/2023	PH		
+1088	BC814		Wolff-Parkinson-White syndrome		2023	9999	13/10/2023	PH		
+1089	BC81Z		Supraventricular tachycardia		2023	9999	13/10/2023	PH		
+1090	BC9Z		Arrhythmia		2023	9999	13/10/2023	PH		
+1091	BC9Z		Cardiac arrhythmia		2023	9999	13/10/2023	PH		
+1092	BC9Z		Cardiac dysrhythmia		2023	9999	13/10/2023	PH		
+1093	BC9Z&XB5F		Idiopathic cardiac arrhythmia		2023	9999	13/10/2023	PH		
+1094	BD10	BA52Z	Atheromatous coronary vascular disease		2023	9999	20/12/2023	PH		
+1095	BD10		CCF		2023	9999	13/10/2023	PH		
+1096	BD10		Congested cardiac failure		2023	9999	13/10/2023	PH		
+1097	BD10		Congested heart failure		2023	9999	21/11/2023	PH		
+1098	BD10		Congestive cardiac disease		2023	9999	13/10/2023	PH		
+1099	BD10		Congestive cardiac failure		2023	9999	13/10/2023	PH		
+1100	BD10		Congestive cardial failure		2023	9999	13/10/2023	PH		
+1101	BD10		Congestive heart disease		2023	9999	13/10/2023	PH		
+1102	BD10		Congestive heart failure		2023	9999	13/10/2023	PH		
+1103	BD10		Decompensated congestive cardiac failure		2023	9999	13/10/2023	PH		
+1104	BD10		Decompensated congestive heart failure		2023	9999	13/10/2023	PH		
+1105	BD10&XS9F		End stage congestive cardiac failure		2023	9999	13/10/2023	PH		
+1106	BD10&XS9F		Severe congestive cardiac failure		2023	9999	13/10/2023	PH		
+1107	BD10&XT5R		Acute congestive cardiac failure		2023	9999	13/10/2023	PH		
+1108	BD10&XT5R		Acute congestive heart failure		2023	9999	09/11/2023	PH		
+1109	BD10&XT8W		Chronic congestive cardiac failure		2023	9999	13/10/2023	PH		
+1110	BD10&XT8W		Chronic congestive heart failure		2023	9999	13/10/2023	PH		
+1111	BD11Z		Impaired left ventricular function		2023	9999	13/10/2023	PH		
+1112	BD11Z		Left heart failure		2023	9999	13/11/2023	PH		
+1113	BD11Z		Left ventricular cardiac failure		2023	9999	13/10/2023	PH		
+1114	BD11Z		Left ventricular dysfunction		2023	9999	13/10/2023	MF		
+1115	BD11Z		Left ventricular failure		2023	9999	13/10/2023	PH		
+1116	BD11Z		Left ventricular heart failure		2023	9999	13/10/2023	PH		
+1117	BD11Z		Left ventricular impairment		2023	9999	13/10/2023	ET		
+1118	BD11Z		Left ventricular systolic dysfunction		2023	9999	13/10/2023	MF		
+1119	BD11Z		LVF		2023	9999	13/10/2023	PH		
+1120	BD11Z&XS25		Severe left ventricular dysfunction		2023	9999	13/10/2023	MF		
+1121	BD11Z&XS25		Severe left ventricular failure		2023	9999	13/10/2023	ET		
+1122	BD11Z&XS25		Severe left ventricular impairment		2023	9999	25/10/2023	ET		
+1123	BD11Z&XS25		Severe left ventricular systolic dysfunction		2023	9999	13/10/2023	MF		
+1124	BD11Z&XT5R		Acute left ventricular failure		2023	9999	13/10/2023	PH		
+1125	BD11Z&XT5R		Acute left ventricular heart failure		2023	9999	13/10/2023	PH		
+1126	BD12		Heart failure with preserved ejection fraction		2023	9999	13/10/2023	MF		
+1127	BD12		Heart failure with reduced ejection fraction		2023	9999	13/10/2023	MF		
+1128	BD13		Decompensated right heart failure		2023	9999	05/12/2023	PH		
+1129	BD13		Right heart failure		2023	9999	13/10/2023	PH		
+1130	BD13		Right ventricular failure		2023	9999	13/10/2023	MF		
+1131	BD13&XT5R		Acute right ventricular failure		2023	9999	09/11/2023	PH		
+1132	BD14		Biventricular cardiac failure		2023	9999	13/10/2023	PH		
+1133	BD14		Biventricular failure		2023	9999	13/10/2023	PH		
+1134	BD14		Biventricular heart failure		2023	9999	13/10/2023	PH		
+1135	BD14&XT5R		Acute biventricular heart failure		2023	9999	13/10/2023	PH		
+1136	BD1Y		Valvular heart failure		2023	9999	17/10/2023	PH		
+1137	BD1Z	BA6Z	Ischaemic heart failure		2023	9999	13/10/2023	PH		
+1138	BD1Z	GB6Z	Cardiac and renal failure		2023	9999	13/10/2023	PH		
+1139	BD1Z		Acute myocardial insufficiency		2023	9999	13/10/2023	PH		
+1140	BD1Z		Cardiac failure		2023	9999	13/10/2023	PH		
+1141	BD1Z		Decompensated cardiac failure		2023	9999	13/10/2023	PH		
+1142	BD1Z		Decompensated heart failure		2023	9999	13/10/2023	PH		
+1143	BD1Z		Diastolic heart failure		2023	9999	13/10/2023	PH		
+1144	BD1Z		Heart failure		2023	9999	13/10/2023	PH		
+1145	BD1Z		Myocardial insufficiency		2023	9999	06/12/2023	PH		
+1146	BD1Z		Ventricular failure		2023	9999	13/10/2023	PH		
+1147	BD1Z&XS9F		Advanced heart failure		2023	9999	13/10/2023	PH		
+1148	BD1Z&XS9F		End stage cardiac failure		2023	9999	13/10/2023	PH		
+1149	BD1Z&XS9F		End stage heart failure		2023	9999	13/10/2023	PH		
+1150	BD1Z&XS9T		Severe cardiac failure		2023	9999	13/10/2023	PH		
+1151	BD1Z&XS9T		Severe heart failure		2023	9999	13/10/2023	PH		
+1152	BD1Z&XT5R		Acute cardiac failure		2023	9999	13/10/2023	PH		
+1153	BD1Z&XT5R		Acute heart failure		2023	9999	13/10/2023	PH		
+1154	BD1Z&XT5R		Acute ventricular failure		2023	9999	13/10/2023	PH		
+1155	BD1Z&XT8W		Chronic cardiac failure		2023	9999	13/10/2023	PH		
+1156	BD1Z&XT8W		Chronic heart failure		2023	9999	13/10/2023	PH		
+1157	BD3010		Saddle pulmonary embolism		2023	9999	13/10/2023	PH		
+1158	BD400		Critical limb ischaemia		2023	9999	13/10/2023	PH		
+1159	BD400		Critical lower limb ischaemia		2023	9999	13/10/2023	PH		
+1160	BD401		Aortic atheroma		2023	9999	13/10/2023	PH		
+1161	BD401		Aortic atherosclerosis		2023	9999	13/10/2023	PH		
+1162	BD401		Calcified aortic stenosis		2023	9999	13/10/2023	PH		
+1163	BD40Z		Arteriosclerosis		2023	9999	13/10/2023	PH		
+1164	BD40Z		Atheroma		2023	9999	13/10/2023	PH		
+1165	BD40Z		Atherosclerosis		2023	9999	13/10/2023	PH		
+1166	BD40Z		Atherosclerosis disease		2023	9999	26/10/2023	ET		
+1167	BD40Z		Generalised atheroma		2023	9999	26/10/2023	PH		
+1168	BD40Z		Generalised atherosclerosis		2023	9999	13/10/2023	PH		
+1169	BD40Z&XS25		Severe atheroma		2023	9999	04/12/2023	MN		
+1170	BD40Z&XS25		Severe atherosclerosis		2023	9999	13/10/2023	PH		
+1171	BD40Z&XS25		Severe generalised atheroma		2023	9999	04/12/2023	MN		
+1172	BD40Z&XS25		Severe generalised atherosclerosis		2023	9999	13/10/2023	PH		
+1173	BD420		Raynaud's disease		2023	9999	13/10/2023	PH		
+1174	BD4Z		Ischaemia limb		2023	9999	26/10/2023	ET		
+1175	BD4Z		Ischaemic limb		2023	9999	26/10/2023	PH		
+1176	BD4Z		Limb ischaemia		2023	9999	26/10/2023	ET		
+1177	BD4Z		Peripheral arterial disease		2023	9999	13/10/2023	PH		
+1178	BD4Z		Peripheral artery disease		2023	9999	13/10/2023	PH		
+1179	BD4Z		Peripheral vascular disease		2023	9999	13/10/2023	PH		
+1180	BD4Z		PVD		2023	9999	13/10/2023	PH		
+1181	BD4Z&XA8DW5		Ischaemia leg		2023	9999	13/10/2023	PH		
+1182	BD4Z&XA8DW5		Ischaemia lower limb		2023	9999	26/10/2023	ET		
+1183	BD4Z&XA8DW5		Ischaemic foot		2023	9999	13/10/2023	PH		
+1184	BD4Z&XA8DW5		Ischaemic leg		2023	9999	13/10/2023	PH		
+1185	BD4Z&XA8DW5		Leg ischaemia		2023	9999	13/10/2023	PH		
+1186	BD4Z&XA8DW5		Lower limb ischaemia		2023	9999	13/10/2023	PH		
+1187	BD4Z&XA8DW5&XK8G		Ischaemic left foot		2023	9999	13/10/2023	PH		
+1188	BD4Z&XA8DW5&XK8G		Ischaemic left leg		2023	9999	13/11/2023	PH		
+1189	BD4Z&XA8DW5&XK8G		Left leg ischaemia		2023	9999	09/11/2023	PH		
+1190	BD4Z&XA8DW5&XK9K		Ischaemic right foot		2023	9999	05/12/2023	PH		
+1191	BD4Z&XA8DW5&XK9K		Ischaemic right leg		2023	9999	13/10/2023	PH		
+1192	BD4Z&XA8DW5&XT5R		Acute lower limb ischaemia		2023	9999	04/12/2023	PH		
+1193	BD4Z&XS25		Severe peripheral vascular disease		2023	9999	13/10/2023	PH		
+1194	BD4Z&XT5R		Acute limb ischaemia		2023	9999	13/10/2023	ET		
+1195	BD5012		Type A aortic dissection		2023	9999	13/10/2023	MF		
+1196	BD501Z		Dissection ascending aorta		2023	9999	14/12/2023	PH		
+1197	BD501Z		Dissection of ascending aorta		2023	9999	13/10/2023	PH	14/12/2023	PH
+1198	BD5031		Rupture of thoracic aortic aneurysm		2023	9999	21/11/2023	PH	14/12/2023	PH
+1199	BD5031		Rupture thoracic aortic aneurysm		2023	9999	14/12/2023	PH		
+1200	BD5031		Ruptured thoracic aortic aneurysm		2023	9999	13/10/2023	PH		
+1201	BD503Y&XA01A6		Ascending aortic aneurysm		2023	9999	18/10/2023	PH		
+1202	BD503Z		Dissecting thoracic aorta		2023	9999	13/10/2023	PH		
+1203	BD503Z		Dissection of the thoracic aorta		2023	9999	13/10/2023	PH	14/12/2023	PH
+1204	BD503Z		Dissection of thoracic aorta		2023	9999	13/10/2023	PH	14/12/2023	PH
+1205	BD503Z		Dissection thoracic aorta		2023	9999	14/12/2023	PH		
+1206	BD503Z		Thoracic aortic aneurysm		2023	9999	13/10/2023	PH		
+1207	BD503Z		Thoracic aortic dissection		2023	9999	13/10/2023	PH		
+1208	BD5041	BD40Z	Ruptured atheromatous abdominal aortic aneurysm		2023	9999	17/10/2023	PH		
+1209	BD5041	BD40Z	Ruptured atherosclerosis abdominal aortic aneurysm		2023	9999	13/10/2023	ET		
+1210	BD5041		Abdominal aortic aneurysm rupture		2023	9999	13/10/2023	PH		
+1211	BD5041		Rupture abdominal aortic aneurysm		2023	9999	21/11/2023	PH		
+1212	BD5041		Rupture of abdominal aortic aneurysm		2023	9999	13/10/2023	MF	14/12/2023	PH
+1213	BD5041		Ruptured abdominal aneurysm		2023	9999	13/10/2023	PH		
+1214	BD5041		Ruptured abdominal aorta aneurysm		2023	9999	21/11/2023	PH		
+1215	BD5041		Ruptured abdominal aortic aneurism		2023	9999	21/11/2023	PH	14/12/2023	PH
+1216	BD5041		Ruptured abdominal aortic aneurysm		2023	9999	13/10/2023	PH		
+1217	BD5041		Ruptured aortic abdominal aneurysm		2023	9999	21/11/2023	PH		
+1218	BD5041&XA2LN9		Ruptured infrarenal abdominal aortic aneurysm		2023	9999	13/10/2023	PH		
+1219	BD504Z		AAA		2023	9999	13/10/2023	PH		
+1220	BD504Z		Abdominal aortic aneurysm		2023	9999	13/10/2023	PH		
+1221	BD504Z		Aortic abdominal aneurysm		2023	9999	21/11/2023	PH		
+1222	BD504Z		Leaking abdominal aortic aneurysm		2023	9999	13/10/2023	PH		
+1223	BD50Z		Aortic aneurysm		2023	9999	13/10/2023	PH		
+1224	BD50Z		Aortic dissection		2023	9999	13/10/2023	PH		
+1225	BD50Z		Dissecting aortic aneurysm		2023	9999	13/10/2023	PH		
+1226	BD50Z		Dissection aorta		2023	9999	14/12/2023	PH		
+1227	BD50Z		Dissection of aorta		2023	9999	01/12/2023	PH	14/12/2023	PH
+1228	BD50Z		Ruptured aortic aneurysm		2023	9999	13/10/2023	MF		
+1229	BD50Z		Ruptured aortic dissection		2023	9999	13/10/2023	PH		
+1230	BD50Z		Ruptured dissecting aortic aneurysm		2023	9999	13/10/2023	PH		
+1231	BD523		Aorto-duodenal fistula		2023	9999	13/10/2023	PH		
+1232	BD523		Aortoenteric fistula		2023	9999	13/10/2023	PH		
+1233	BD523		Aorto-oesophageal fistula		2023	9999	13/10/2023	PH		
+1234	BD54		Diabetic foot		2023	9999	07/12/2023	PH		
+1235	BD54		Diabetic foot ulcer		2023	9999	13/10/2023	PH		
+1236	BD55		Carotid artery stenosis		2023	9999	13/10/2023	PH		
+1237	BD55		Cerebral arteriosclerosis		2023	9999	06/12/2023	MN		
+1238	BD55		Cerebral atherosclerosis		2023	9999	13/10/2023	PH		
+1239	BD56&XA13S2		Cerebral artery occlusion		2023	9999	12/12/2023	MN		
+1240	BD56&XA9AD7		Carotid artery thrombosis		2023	9999	06/12/2023	MN		
+1241	BD5Y&XA13S2		Cerebral artery thrombosis		2023	9999	05/12/2023	PH		
+1242	BD711&XA7UV5		Inferior vena cava thrombosis		2023	9999	13/10/2023	PH		
+1243	BD714		Deep leg vein thrombosis		2023	9999	17/10/2023	PH		
+1244	BD714		Deep vein phlebothrombosis		2023	9999	13/10/2023	MF		
+1245	BD714		Deep vein thrombosis leg		2023	9999	14/12/2023	PH		
+1246	BD714		Deep vein thrombosis of leg		2023	9999	13/10/2023	PH	14/12/2023	PH
+1247	BD714		Deep vein thrombosis of the leg		2023	9999	13/10/2023	PH	14/12/2023	PH
+1248	BD714		DVT		2023	9999	13/10/2023	PH	20/12/2023	PH
+1249	BD714&XK8G		Deep vein thrombosis left leg		2023	9999	13/10/2023	PH		
+1250	BD714&XK8G		Deep vein thrombosis of left leg		2023	9999	13/10/2023	PH	14/12/2023	PH
+1251	BD714&XK8G		Deep venous thrombosis left lower leg		2023	9999	14/12/2023	PH		
+1252	BD714&XK8G		Deep venous thrombosis of the left lower leg		2023	9999	13/10/2023	PH	14/12/2023	PH
+1253	BD714&XK9K		Deep vein thrombosis of right leg		2023	9999	13/10/2023	PH	14/12/2023	PH
+1254	BD714&XK9K		Deep vein thrombosis right calf veins		2023	9999	13/10/2023	PH		
+1255	BD714&XK9K		Deep vein thrombosis right leg		2023	9999	13/10/2023	PH		
+1256	BD714&XK9K		Right leg deep vein thrombosis		2023	9999	19/12/2023	PH		
+1257	BD71Z		Deep vein thromboses		2023	9999	01/12/2023	PH		
+1258	BD71Z		Deep vein thrombosis		2023	9999	13/10/2023	PH		
+1259	BD71Z		Deep vein thrombus		2023	9999	19/12/2023	PH		
+1260	BD71Z		Deep venous thrombosis		2023	9999	13/10/2023	PH		
+1261	BD71Z		DVT		2023	9999	20/12/2023	PH		
+1262	BD71Z&XK8G		Left deep venous thrombosis		2023	9999	05/12/2023	PH		
+1263	BD71Z&XK9K		Right deep venous thrombosis		2023	9999	20/12/2023	PH		
+1264	BD72		Venous thromboembolism		2023	9999	13/10/2023	PH		
+1265	BD72		Venous thrombosis		2023	9999	05/12/2023	MF		
+1266	BD741Z		Variceal haemorrhage		2023	9999	13/10/2023	PH		
+1267	BD743Z	1H0Z	Infected leg ulcer		2023	9999	13/10/2023	ET		
+1268	BD743Z		Infected leg ulcers		2023	9999	13/10/2023	MF		
+1269	BD743Z		Leg ulcer		2023	9999	13/10/2023	PH		
+1270	BD743Z		Leg ulcers		2023	9999	13/10/2023	PH		
+1271	BD743Z&XT8W		Chronic leg ulcer		2023	9999	13/10/2023	PH		
+1272	BD743Z&XT8W		Chronic leg ulcers		2023	9999	13/10/2023	PH		
+1273	BD74Z		Venous insufficiency		2023	9999	13/10/2023	PH		
+1274	BD93Z		Lymphoedema		2023	9999	13/10/2023	PH		
+1275	BD93Z&XT8W		Chronic lymphoedema		2023	9999	01/12/2023	PH		
+1276	BE2Y		Cardiac dysfunction		2023	9999	05/12/2023	MN		
+1277	BE2Y		Cardiovascular accident		2023	9999	13/10/2023	PH		
+1278	BE2Z		Cardiovascular disease		2023	9999	13/10/2023	PH		
+1279	BE2Z		Vascular disease		2023	9999	13/10/2023	PH		
+1280	BE2Z		Vascular heart disease		2023	9999	13/10/2023	MF		
+1281	CA03Z		Tonsillitis		2023	9999	13/10/2023	PH		
+1282	CA070		Upper respiratory tract infection		2023	9999	13/10/2023	PH		
+1283	CA0H0		Vocal cord palsy		2023	9999	13/10/2023	PH		
+1284	CA0Y		Tracheomalacia		2023	9999	13/10/2023	PH		
+1285	CA2011		Purulent bronchitis		2023	9999	13/10/2023	PH		
+1286	CA201Z		Chronic bronchitis		2023	9999	13/10/2023	PH		
+1287	CA20Z		Bronchitis		2023	9999	13/10/2023	PH		
+1288	CA21Y		Bullous emphysema		2023	9999	13/10/2023	PH		
+1289	CA21Y		Chronic emphysema		2023	9999	13/10/2023	PH		
+1290	CA21Y		Severe bullous emphysema		2023	9999	13/10/2023	PH		
+1291	CA21Z		Emphysema		2023	9999	13/10/2023	PH		
+1292	CA21Z		Emphysema lung		2023	9999	13/10/2023	PH		
+1293	CA21Z		Lung emphysema		2023	9999	13/10/2023	PH		
+1294	CA21Z		Pulmonary emphysema		2023	9999	13/10/2023	PH		
+1295	CA21Z&XS25		Severe emphysema		2023	9999	13/10/2023	PH		
+1296	CA21Z&XS25		Severe pulmonary emphysema		2023	9999	13/10/2023	PH		
+1297	CA220		Acute exacerbation COPD		2023	9999	14/12/2023	PH		
+1298	CA220		Acute exacerbation of COPD		2023	9999	13/10/2023	PH	14/12/2023	PH
+1299	CA220		Exacerbation COPD		2023	9999	13/10/2023	PH		
+1300	CA220		Exacerbation of COPD		2023	9999	13/10/2023	PH	14/12/2023	PH
+1301	CA221		Infective exacerbation COPD		2023	9999	13/10/2023	PH		
+1302	CA221		Infective exacerbation of COPD		2023	9999	13/10/2023	PH	14/12/2023	PH
+1303	CA22Z		Chronic obstructive airway disease		2023	9999	13/10/2023	PH		
+1304	CA22Z		Chronic obstructive lung disease		2023	9999	13/10/2023	PH		
+1305	CA22Z		Chronic obstructive pulmonary disorder		2023	9999	13/10/2023	PH		
+1306	CA22Z		COPD		2023	9999	13/10/2023	PH		
+1307	CA22Z		COPD (non industrial)		2023	9999	26/10/2023	PH		
+1308	CA22Z		COPD (non occupational)		2023	9999	13/10/2023	PH		
+1309	CA22Z&XS50		Advanced COPD		2023	9999	13/10/2023	PH		
+1310	CA22Z&XS50		End stage chronic obstructive airway disease		2023	9999	13/10/2023	PH		
+1311	CA22Z&XS50		End stage COPD		2023	9999	13/10/2023	PH		
+1312	CA22Z&XS50		Very severe COPD		2023	9999	18/10/2023	PH		
+1313	CA22Z&XS8K	CB02Y	Severe eosinophilic COPD		2023	9999	13/10/2023	PH		
+1314	CA22Z&XS8K		Severe chronic obstructive airway disease		2023	9999	13/10/2023	PH		
+1315	CA22Z&XS8K		Severe COPD		2023	9999	13/10/2023	PH		
+1316	CA2330		Exacerbation asthma		2023	9999	13/10/2023	PH		
+1317	CA2330		Exacerbation of asthma		2023	9999	13/10/2023	PH	14/12/2023	PH
+1318	CA2331		Status asthmaticus		2023	9999	06/12/2023	MN		
+1319	CA2332		Bronchial asthma		2023	9999	13/10/2023	PH		
+1320	CA233Z		Asthma		2023	9999	13/10/2023	PH		
+1321	CA233Z&XS25		Severe asthma		2023	9999	13/10/2023	PH		
+1322	CA233Z&XT5R		Acute asthma		2023	9999	19/10/2023	PH		
+1323	CA24		Bronchiectasis		2023	9999	13/10/2023	PH		
+1324	CA24		Infective exacerbation bronchiectasis		2023	9999	14/12/2023	PH		
+1325	CA24		Infective exacerbation of bronchiectasis		2023	9999	13/10/2023	MF	14/12/2023	PH
+1326	CA24&XS25		Severe bronchiectasis		2023	9999	13/10/2023	PH		
+1327	CA25Z		Cystic Fibrosis		2023	9999	13/10/2023	PH		
+1328	CA27Z		Tracheobronchitis		2023	9999	13/10/2023	PH		
+1329	CA2Z		Chest Infection		2023	9999	13/10/2023	PH		
+1330	CA2Z		Chest sepsis		2023	9999	13/10/2023	MF		
+1331	CA2Z&XA07R2		Lower respiratory chest infection		2023	9999	13/10/2023	PH		
+1332	CA2Z&XS25		Severe chest Infection		2023	9999	13/10/2023	PH		
+1333	CA4001		E coli pneumonia		2023	9999	13/10/2023	PH		
+1334	CA4002		Haemophilus influenzae pneumonia		2023	9999	13/10/2023	PH		
+1335	CA4003		Klebsiella pneumonia		2023	9999	13/10/2023	PH		
+1336	CA4005		Pseudomonas pneumonia		2023	9999	13/10/2023	PH		
+1337	CA4006&XN6BM		Staphylococcus aureus pneumonia		2023	9999	13/10/2023	PH		
+1338	CA4007		Pneumococcal pneumonia		2023	9999	13/10/2023	PH		
+1339	CA4007		Streptococcus pneumonia		2023	9999	18/12/2023	PH		
+1340	CA400Y		Streptococcal pneumonia		2023	9999	13/10/2023	PH		
+1341	CA400Z		Bacterial pneumonia		2023	9999	13/10/2023	PH		
+1342	CA4012		Parainfluenza pneumonia		2023	9999	13/10/2023	PH		
+1343	CA401Z		Viral pneumonia		2023	9999	13/10/2023	PH		
+1344	CA4020		Pneumocystis jirovecii pneumonia		2023	9999	13/10/2023	PH		
+1345	CA4020		Pneumocystis pneumonia		2023	9999	13/10/2023	PH		
+1346	CA402Z		Fungal pneumonia		2023	9999	17/10/2023	PH		
+1347	CA40Z		Acute pneumonia		2023	9999	13/10/2023	PH		
+1348	CA40Z		Atypical pneumonia		2023	9999	13/10/2023	PH		
+1349	CA40Z		Bronchial pneumonia		2023	9999	13/10/2023	PH		
+1350	CA40Z		Bronchopneumonia		2023	9999	13/10/2023	PH		
+1351	CA40Z		Bronchopulmonary pneumonia		2023	9999	13/10/2023	PH		
+1352	CA40Z		Hypostatic pneumonia		2023	9999	13/10/2023	PH		
+1353	CA40Z		Multilobar pneumonia		2023	9999	13/10/2023	PH		
+1354	CA40Z		Pneumonia		2023	9999	13/10/2023	PH		
+1355	CA40Z		Recurrent pneumonia		2023	9999	13/10/2023	ET		
+1356	CA40Z&XA7L34		Basal pneumonia		2023	9999	13/10/2023	PH		
+1357	CA40Z&XA7L34		Lower lobe pneumonia		2023	9999	13/10/2023	PH		
+1358	CA40Z&XA7L34&XK8G		Left lower lobe pneumonia		2023	9999	13/10/2023	ET		
+1359	CA40Z&XB22		CAP		2023	9999	19/12/2023	PH		
+1360	CA40Z&XB22		Community acquired bronchopneumonia		2023	9999	13/10/2023	PH		
+1361	CA40Z&XB22		Community acquired pneumonia		2023	9999	13/10/2023	PH		
+1362	CA40Z&XB22&XK8G		Left community acquired pneumonia		2023	9999	20/12/2023	PH		
+1363	CA40Z&XB22&XK9J		Bilateral community acquired pneumonia		2023	9999	13/10/2023	MF		
+1364	CA40Z&XB22&XS25		Severe community acquired pneumonia		2023	9999	13/10/2023	PH		
+1365	CA40Z&XB25		HAP		2023	9999	09/11/2023	PH		
+1366	CA40Z&XB25		Healthcare acquired pneumonia		2023	9999	17/10/2023	PH		
+1367	CA40Z&XB25		Healthcare associated pneumonia		2023	9999	13/10/2023	PH		
+1368	CA40Z&XB25		Hospital acquired pneumonia		2023	9999	13/10/2023	PH		
+1369	CA40Z&XK8G		Left bronchopneumonia		2023	9999	13/10/2023	PH		
+1370	CA40Z&XK8G		Left pneumonia		2023	9999	05/12/2023	PH		
+1371	CA40Z&XK9J		Bilateral bronchopneumonia		2023	9999	13/10/2023	PH		
+1372	CA40Z&XK9J		Bilateral lobar pneumonia		2023	9999	13/10/2023	PH		
+1373	CA40Z&XK9J		Bilateral lower lobe pneumonia		2023	9999	13/10/2023	PH		
+1374	CA40Z&XK9J		Bilateral pneumonia		2023	9999	13/10/2023	PH		
+1375	CA40Z&XK9J&XS25		Severe bilateral pneumonia		2023	9999	13/10/2023	PH		
+1376	CA40Z&XK9K		Right bronchopneumonia		2023	9999	17/10/2023	PH		
+1377	CA40Z&XK9K		Right lower lobe pneumonia		2023	9999	13/10/2023	ET		
+1378	CA40Z&XK9K		Right pneumonia		2023	9999	13/10/2023	ET		
+1379	CA40Z&XK9K		Right sided pneumonia		2023	9999	13/10/2023	PH		
+1380	CA40Z&XS25		Severe bronchopneumonia		2023	9999	13/10/2023	PH		
+1381	CA40Z&XS25		Severe pneumonia		2023	9999	13/10/2023	PH		
+1382	CA40Z&XT5R		Acute bronchopneumonia		2023	9999	13/10/2023	PH		
+1383	CA40ZXA90M2		Lobar pneumonia		2023	9999	13/10/2023	PH		
+1384	CA41Z		Bronchiolitis		2023	9999	13/10/2023	PH		
+1385	CA42Z		Acute bronchitis		2023	9999	13/10/2023	PH		
+1386	CA42Z		Acute purulent bronchitis		2023	9999	19/12/2023	PH		
+1387	CA430		Cavitating pneumonia		2023	9999	17/10/2023	PH		
+1388	CA430		Necrotising pneumonia		2023	9999	13/10/2023	PH		
+1389	CA432		Lung abscess		2023	9999	13/10/2023	PH		
+1390	CA432		Pulmonary abscess		2023	9999	13/10/2023	PH		
+1391	CA44		Empyema		2023	9999	13/10/2023	PH		
+1392	CA44		Empyema lung		2023	9999	14/12/2023	PH		
+1393	CA44		Empyema of the lung		2023	9999	13/10/2023	PH	14/12/2023	PH
+1394	CA44		Pleural empyema		2023	9999	13/10/2023	PH		
+1395	CA44&XK9K		Right empyema		2023	9999	13/10/2023	PH		
+1396	CA45		Respiratory infection		2023	9999	05/12/2023	PH		
+1397	CA45		Respiratory tract infection		2023	9999	13/10/2023	PH		
+1398	CA4Z		Acute lower respiratory tract infection		2023	9999	13/10/2023	PH		
+1399	CA4Z		Infection lower respiratory tract		2023	9999	13/10/2023	PH		
+1400	CA4Z		Lower respiratory infection		2023	9999	13/10/2023	PH		
+1401	CA4Z		Lower respiratory tract infection		2023	9999	13/10/2023	PH		
+1402	CA4Z		LRTI		2023	9999	13/10/2023	PH		
+1403	CA4Z		LRTI (Lower Respiratory Tract Infection)		2023	9999	13/10/2023	PH		
+1404	CA4Z		Lung infection		2023	9999	13/10/2023	PH		
+1405	CA602		Asbestosis		2023	9999	13/10/2023	PH		
+1406	CA60Z		Pneumoconiosis		2023	9999	06/12/2023	MN		
+1407	CA70Z		Hypersensitivity pneumonitis		2023	9999	13/10/2023	PH		
+1408	CA70Z&XT8W		Chronic hypersensitivity pneumonitis		2023	9999	13/10/2023	PH		
+1409	CA710		Aspiration pneumonia		2023	9999	13/10/2023	PH		
+1410	CA710		Aspiration pneumonitis		2023	9999	13/10/2023	PH		
+1411	CA710		Aspirational pneumonia		2023	9999	13/10/2023	PH		
+1412	CA710		Recurrent aspiration pneumonia		2023	9999	13/10/2023	PH		
+1413	CA7Y		Viral pneumonitis		2023	9999	17/10/2023	PH		
+1414	CA7Z		Pneumonitis		2023	9999	13/10/2023	PH		
+1415	CB00		Acute respiratory distress syndrome		2023	9999	13/10/2023	PH		
+1416	CB00		Adult respiratory distress syndrome		2023	9999	13/10/2023	PH		
+1417	CB00		ARDS		2023	9999	13/10/2023	PH		
+1418	CB01		Cardiogenic pulmonary oedema		2023	9999	13/10/2023	PH		
+1419	CB01		Pulmonary oedema		2023	9999	13/10/2023	PH		
+1420	CB01&XS25		Severe pulmonary oedema		2023	9999	13/10/2023	PH		
+1421	CB01&XT5R		Acute pulmonary oedema		2023	9999	19/10/2023	PH		
+1422	CB030		Acute interstitial pneumonitis		2023	9999	21/11/2023	PH		
+1423	CB032		Cryptogenic organising pneumonitis		2023	9999	13/10/2023	PH		
+1424	CB034		Combined pulmonary fibrosis		2023	9999	13/10/2023	MF		
+1425	CB034		Cryptogenic fibrosing alveolitis		2023	9999	09/11/2023	PH		
+1426	CB034		Fibrosing alveolitis		2023	9999	13/10/2023	PH		
+1427	CB034		Fibrosis lung		2023	9999	14/12/2023	PH		
+1428	CB034		Fibrosis of lung		2023	9999	30/11/2023	PH	14/12/2023	PH
+1429	CB034		Interstitial fibrosis		2023	9999	13/10/2023	PH		
+1430	CB034		Interstitial lung fibrosis		2023	9999	13/10/2023	PH		
+1431	CB034		Interstitial pulmonary fibrosis		2023	9999	13/10/2023	MF		
+1432	CB034		Lung fibrosis		2023	9999	13/10/2023	PH		
+1433	CB034		Pulmonary fibrosis		2023	9999	13/10/2023	PH		
+1434	CB034&XB5F		Idiopathic fibrosing alveolitis		2023	9999	13/10/2023	PH		
+1435	CB034&XB5F		Idiopathic lung fibrosis		2023	9999	13/10/2023	PH		
+1436	CB034&XB5F		Idiopathic pulmonary fibrosis		2023	9999	13/10/2023	PH		
+1437	CB034&XS25		Advanced pulmonary fibrosis		2023	9999	13/10/2023	PH		
+1438	CB034&XS25		End stage pulmonary fibrosis		2023	9999	13/10/2023	PH		
+1439	CB034&XS25		Severe pulmonary fibrosis		2023	9999	13/10/2023	PH		
+1440	CB034&XS25&XB5F		End stage idiopathic pulmonary fibrosis		2023	9999	13/10/2023	PH		
+1441	CB03Y		Nonspecific interstitial pneumonia		2023	9999	13/10/2023	PH		
+1442	CB03Z		Interstitial pneumonia		2023	9999	13/10/2023	PH		
+1443	CB03Z		Interstitial pneumonitis		2023	9999	13/10/2023	PH		
+1444	CB03Z		Usual interstitial pneumonia		2023	9999	13/10/2023	MF		
+1445	CB041		Congenital chylothorax		2023	9999	13/10/2023	PH		
+1446	CB050		Diffuse alveolar damage		2023	9999	13/10/2023	PH		
+1447	CB0Y		Infective exacerbation interstitial lung disease		2023	9999	14/12/2023	PH		
+1448	CB0Y		Infective exacerbation of interstitial lung disease		2023	9999	13/10/2023	ET	14/12/2023	PH
+1449	CB0Z		Advanced interstitial lung disease		2023	9999	13/10/2023	PH		
+1450	CB0Z		End stage interstitial lung disease		2023	9999	13/10/2023	PH		
+1451	CB0Z		Interstitial lung disease		2023	9999	13/10/2023	PH		
+1452	CB0Z&XB5F		Idiopathic interstitial lung disease		2023	9999	13/10/2023	MF		
+1453	CB20		Pleural plaques		2023	9999	13/10/2023	PH		
+1454	CB210		Tension pneumothorax		2023	9999	13/10/2023	PH		
+1455	CB211		Spontaneous pneumothorax		2023	9999	13/10/2023	PH		
+1456	CB21Z		Pneumothorax		2023	9999	13/10/2023	PH		
+1457	CB21Z&XK9K		Right pneumothorax		2023	9999	13/10/2023	PH		
+1458	CB22Y		Mediastinitis		2023	9999	13/10/2023	PH		
+1459	CB24		Chylothorax		2023	9999	13/10/2023	PH		
+1460	CB25		Pleural fibrosis		2023	9999	17/10/2023	PH		
+1461	CB26		Haemothorax		2023	9999	13/10/2023	PH		
+1462	CB26&XK8G		Left haemothorax		2023	9999	13/10/2023	PH		
+1463	CB27		Pleural effusion		2023	9999	13/10/2023	PH		
+1464	CB27		Pleural effusions		2023	9999	13/10/2023	PH		
+1465	CB27&XK8G		Left pleural effusion		2023	9999	13/10/2023	PH		
+1466	CB27&XK9J		Bilateral pleural effusion		2023	9999	13/10/2023	PH		
+1467	CB27&XK9J		Bilateral pleural effusions		2023	9999	21/11/2023	PH		
+1468	CB2Y		Hydropneumothorax		2023	9999	13/10/2023	PH		
+1469	CB402		Lung collapse		2023	9999	13/10/2023	PH		
+1470	CB402&XK8G		Left lung collapse		2023	9999	21/11/2023	PH		
+1471	CB403		Pneumomediastinum		2023	9999	13/10/2023	PH		
+1472	CB40Y	1G40	Respiratory sepsis		2023	9999	13/10/2023	ET		
+1473	CB40Y		Airway obstruction		2023	9999	13/10/2023	PH		
+1474	CB40Y		Lung disease		2023	9999	13/10/2023	PH		
+1475	CB40Y		Pulmonary disease		2023	9999	13/10/2023	PH		
+1476	CB40Y&XS25		Chronic lung disease		2023	9999	05/12/2023	PH		
+1477	CB40Y&XT8W		Chronic pulmonary disease		2023	9999	13/10/2023	PH		
+1478	CB4101		Acute type 2 respiratory failure		2023	9999	09/11/2023	PH		
+1479	CB410Z		Acute respiratory failure		2023	9999	13/10/2023	PH		
+1480	CB4111		Chronic type 2 respiratory failure		2023	9999	13/10/2023	PH		
+1481	CB411Z		Chronic respiratory failure		2023	9999	13/10/2023	PH		
+1482	CB411Z&XS25		End stage respiratory failure		2023	9999	13/10/2023	PH		
+1483	CB4120		Type 1 respiratory failure		2023	9999	13/10/2023	PH		
+1484	CB4121		Decompensated type 2 respiratory failure		2023	9999	13/10/2023	ET		
+1485	CB4121		Hypercapnic respiratory failure		2023	9999	13/10/2023	ET		
+1486	CB4121		Type 2 respiratory failure		2023	9999	13/10/2023	PH		
+1487	CB4121&XS25		Severe type 2 respiratory failure		2023	9999	13/10/2023	PH		
+1488	CB412Z		Respiratory failure		2023	9999	13/10/2023	PH		
+1489	CB412Z&XS25		Severe respiratory failure		2023	9999	13/10/2023	PH		
+1490	DA042		Parotitis		2023	9999	13/10/2023	PH		
+1491	DA0962		Dental abscess		2023	9999	13/10/2023	PH		
+1492	DA200		Oesophageal stricture		2023	9999	13/10/2023	PH		
+1493	DA2030		Boerhaave syndrome		2023	9999	13/10/2023	PH		
+1494	DA2030		Boerhaave's syndrome		2023	9999	13/10/2023	PH		
+1495	DA2030		Oesophageal Rupture		2023	9999	13/10/2023	PH		
+1496	DA2030		Spontaneous oesophageal rupture		2023	9999	13/10/2023	PH		
+1497	DA203Z		Oesophageal perforation		2023	9999	13/10/2023	PH		
+1498	DA210		Achalasia		2023	9999	13/10/2023	PH		
+1499	DA210		Oesophageal achalasia		2023	9999	18/12/2023	PH		
+1500	DA21Y		Oropharyngeal dysmotility		2023	9999	13/10/2023	PH		
+1501	DA21Z		Oesophageal dysmotility		2023	9999	13/10/2023	PH		
+1502	DA22Z		Gastro-oesophageal reflux disease		2023	9999	13/10/2023	PH		
+1503	DA22Z		GORD		2023	9999	13/10/2023	PH		
+1504	DA23Z		Barrett oesophagus		2023	9999	13/10/2023	PH		
+1505	DA24Z		Oesophagitis		2023	9999	13/10/2023	PH		
+1506	DA24Z&XS25		Severe oesophagitis		2023	9999	13/10/2023	PH		
+1507	DA25Z		Oesophageal ulcer		2023	9999	13/10/2023	PH		
+1508	DA25Z		Oesophageal ulceration		2023	9999	09/11/2023	PH		
+1509	DA2600		Bleeding oesophageal varices		2023	9999	13/10/2023	PH		
+1510	DA2600		Haemorrhage oesophageal varices		2023	9999	13/10/2023	PH		
+1511	DA2600		Oesophageal variceal bleed		2023	9999	13/10/2023	PH		
+1512	DA2600		Oesophageal variceal haemorrhage		2023	9999	13/10/2023	PH		
+1513	DA2600		Ruptured oesophageal varices		2023	9999	13/10/2023	PH		
+1514	DA260Z		Oesophageal varices		2023	9999	13/10/2023	PH		
+1515	DA400		Gastric outlet obstruction		2023	9999	13/10/2023	PH		
+1516	DA402		Gastric volvulus		2023	9999	13/10/2023	PH		
+1517	DA4100		Gastroparesis		2023	9999	13/10/2023	PH		
+1518	DA4272		Acute haemorrhagic gastritis		2023	9999	13/10/2023	PH		
+1519	DA4272		Haemorrhagic gastritis		2023	9999	13/10/2023	PH		
+1520	DA42Y		Erosive gastritis		2023	9999	13/10/2023	ET		
+1521	DA42Z		Gastritis		2023	9999	13/10/2023	PH		
+1522	DA431		Gastric angiodysplasia		2023	9999	13/10/2023	PH		
+1523	DA433		Portal hypertensive gastropathy		2023	9999	13/10/2023	PH		
+1524	DA4Y		Gastric antral vascular ectasia		2023	9999	13/10/2023	MF		
+1525	DA51Z		Duodenitis		2023	9999	13/10/2023	PH		
+1526	DA600		Gastric erosion		2023	9999	13/10/2023	PH		
+1527	DA600		Gastric erosions		2023	9999	13/10/2023	PH		
+1528	DA60Y	ME243Y	Perforated gastric ulcer		2023	9999	13/10/2023	PH		
+1529	DA60Y	ME249Z	Haemorrhage gastric ulcer		2023	9999	13/10/2023	PH		
+1530	DA60Z		Gastric ulcer		2023	9999	13/10/2023	PH		
+1531	DA60Z		Gastric ulceration		2023	9999	13/10/2023	PH		
+1532	DA60Z		Gastric ulcers		2023	9999	21/11/2023	PH		
+1533	DA61	ME243Y	Perforated peptic ulcer		2023	9999	13/10/2023	PH		
+1534	DA61		Peptic ulcer		2023	9999	13/10/2023	PH		
+1535	DA61		Peptic ulcer disease		2023	9999	13/10/2023	PH		
+1536	DA61		Peptic ulceration		2023	9999	13/10/2023	PH		
+1537	DA630		Duodenal erosions		2023	9999	13/10/2023	PH		
+1538	DA63Y	ME243Y	Perforated duodenal ulcer		2023	9999	13/10/2023	PH		
+1539	DA63Y	ME249Z	Bleeding duodenal ulcer		2023	9999	15/10/2023	PH		
+1540	DA63Z		Duodenal ulcer		2023	9999	13/10/2023	PH		
+1541	DA63Z		Duodenal ulceration		2023	9999	13/10/2023	PH		
+1542	DA63Z		Duodenal ulcers		2023	9999	13/10/2023	PH		
+1543	DA911		Small bowel volvulus		2023	9999	13/10/2023	PH		
+1544	DA912		Adhesional small bowel obstruction		2023	9999	13/10/2023	MF		
+1545	DA91Z	ME2430	Small bowel obstruction and perforation		2023	9999	31/10/2023	PH		
+1546	DA91Z		Small bowel obstruction		2023	9999	13/10/2023	PH		
+1547	DA91Z		Small intestinal obstruction		2023	9999	21/11/2023	PH		
+1548	DA930		Ileus		2023	9999	13/10/2023	PH		
+1549	DA930		Paralytic ileus		2023	9999	13/10/2023	PH		
+1550	DA95		Coeliac disease		2023	9999	13/10/2023	PH		
+1551	DA9604		Short bowel syndrome		2023	9999	13/10/2023	PH		
+1552	DA9605		Intestinal failure		2023	9999	13/10/2023	PH		
+1553	DB1002		Acute appendicitis		2023	9999	13/10/2023	PH		
+1554	DB10Z		Appendicitis		2023	9999	13/10/2023	PH		
+1555	DB301&XA6J68		Caecal volvulus		2023	9999	13/10/2023	PH		
+1556	DB301&XA8YJ9		Recurrent sigmoid volvulus		2023	9999	24/10/2023	PH		
+1557	DB301&XA8YJ9		Sigmoid volvulus		2023	9999	13/10/2023	PH		
+1558	DB301&XA8YJ9		Volvulus of sigmoid colon		2023	9999	13/10/2023	PH	14/12/2023	PH
+1559	DB301&XA8YJ9		Volvulus sigmoid colon		2023	9999	14/12/2023	PH		
+1560	DB30Y		Colon obstruction		2023	9999	13/10/2023	PH		
+1561	DB30Y		Subacute bowel obstruction		2023	9999	27/11/2023	PH		
+1562	DB30Z	ME2431	Bowel obstruction and perforation		2023	9999	04/12/2023	PH		
+1563	DB30Z		Bowel obstruction		2023	9999	13/10/2023	PH		
+1564	DB30Z		Intestinal obstruction		2023	9999	13/10/2023	PH		
+1565	DB30Z		Intestinal pseudoobstruction		2023	9999	13/10/2023	MF		
+1566	DB30Z		Large bowel obstruction		2023	9999	13/10/2023	PH		
+1567	DB30Z&XT5R		Acute bowel obstruction		2023	9999	13/10/2023	PH		
+1568	DB320		Colonic pseudo-obstruction		2023	9999	13/10/2023	PH		
+1569	DB320		Pseudo-obstruction		2023	9999	13/10/2023	PH		
+1570	DB3220		Toxic megacolon		2023	9999	13/10/2023	PH		
+1571	DB322Z		Megacolon		2023	9999	13/10/2023	PH		
+1572	DB33Z		Proctitis		2023	9999	13/10/2023	PH		
+1573	DB340		Angiodysplasia		2023	9999	13/10/2023	PH		
+1574	DB340		Angiodysplasia colon		2023	9999	14/12/2023	PH		
+1575	DB340		Angiodysplasia of colon		2023	9999	13/10/2023	PH	14/12/2023	PH
+1576	DB3611		Ischiorectal abscess		2023	9999	13/10/2023	PH		
+1577	DB60Z		Haemorrhoids		2023	9999	13/10/2023	PH		
+1578	DB7000		Perianal abscess		2023	9999	13/10/2023	PH		
+1579	DB900		Hepatic abscess		2023	9999	13/10/2023	PH		
+1580	DB900		Liver abscess		2023	9999	13/10/2023	PH		
+1581	DB900		Liver abscesses		2023	9999	13/10/2023	PH		
+1582	DB91Z		Acute hepatic failure		2023	9999	17/10/2023	PH		
+1583	DB91Z		Acute liver failure		2023	9999	13/10/2023	PH		
+1584	DB91Z		Fulminant hepatic failure		2023	9999	13/10/2023	PH		
+1585	DB921		Decompensated non-alcoholic steatohepatitis		2023	9999	13/10/2023	PH		
+1586	DB921		NASH		2023	9999	13/10/2023	PH		
+1587	DB921		NASH cirrhosis		2023	9999	13/10/2023	PH		
+1588	DB921		Non-alcoholic steatohepatitis		2023	9999	13/10/2023	PH		
+1589	DB921		Non-alcoholic steatohepatitis cirrhosis		2023	9999	13/10/2023	PH		
+1590	DB921		Steatohepatitis		2023	9999	13/10/2023	PH		
+1591	DB92Y		Fatty change liver		2023	9999	13/10/2023	PH		
+1592	DB92Y		Fatty change of the liver		2023	9999	13/10/2023	PH	14/12/2023	PH
+1593	DB92Y		Fatty liver		2023	9999	13/10/2023	PH		
+1594	DB92Y		Fatty liver change		2023	9999	13/10/2023	PH		
+1595	DB92Y		Fatty liver disease		2023	9999	13/10/2023	PH		
+1596	DB92Y		Hepatic steatosis		2023	9999	13/10/2023	PH		
+1597	DB92Y		Liver steatosis		2023	9999	13/10/2023	PH		
+1598	DB92Y		Steatosis liver		2023	9999	13/10/2023	PH		
+1599	DB92Y		Steatosis of the liver		2023	9999	13/10/2023	PH	14/12/2023	PH
+1600	DB92Y&XS25		Severe fatty liver		2023	9999	13/10/2023	PH		
+1601	DB92Y&XS25		Severe hepatic steatosis		2023	9999	13/10/2023	PH		
+1602	DB92Z		Non-alcoholic fatty liver disease		2023	9999	13/10/2023	PH		
+1603	DB930		Liver fibrosis		2023	9999	21/11/2023	PH		
+1604	DB931		Cirrhosis		2023	9999	13/10/2023	PH		
+1605	DB931		Cirrhosis liver		2023	9999	13/10/2023	PH		
+1606	DB931		Cirrhosis of liver		2023	9999	13/10/2023	PH	14/12/2023	PH
+1607	DB931		Cirrhosis of the liver		2023	9999	13/10/2023	PH	14/12/2023	PH
+1608	DB931		Decompensated cirrhosis		2023	9999	13/10/2023	PH		
+1609	DB931		Decompensated cirrhosis liver		2023	9999	14/12/2023	PH		
+1610	DB931		Decompensated cirrhosis of liver		2023	9999	13/10/2023	PH	14/12/2023	PH
+1611	DB931		Decompensated liver cirrhosis		2023	9999	13/10/2023	PH		
+1612	DB931		Hepatic cirrhosis		2023	9999	13/10/2023	PH		
+1613	DB931		Liver cirrhosis		2023	9999	13/10/2023	PH		
+1614	DB931&XS25		Advanced liver cirrhosis		2023	9999	13/10/2023	PH		
+1615	DB931&XS25		End stage liver cirrhosis		2023	9999	20/12/2023	PH		
+1616	DB93Y		Cryptogenic cirrhosis		2023	9999	13/10/2023	PH		
+1617	DB93Y		Cryptogenic cirrhosis liver		2023	9999	14/12/2023	PH		
+1618	DB93Y		Cryptogenic cirrhosis of liver		2023	9999	13/10/2023	PH	14/12/2023	PH
+1619	DB93Y		Cryptogenic liver cirrhosis		2023	9999	13/10/2023	PH		
+1620	DB93Y		Micronodular cirrhosis		2023	9999	13/10/2023	PH		
+1621	DB93Y		Micronodular liver cirrhosis		2023	9999	13/10/2023	PH		
+1622	DB940		Alcoholic fatty liver		2023	9999	13/10/2023	PH		
+1623	DB940		Alcoholic fatty liver disease		2023	9999	13/10/2023	MF		
+1624	DB940		Alcohol-related fatty liver		2023	9999	09/11/2023	PH		
+1625	DB940		Alcohol-related fatty liver disease		2023	9999	13/10/2023	PH		
+1626	DB941Z		Alcoholic hepatitis		2023	9999	13/10/2023	PH		
+1627	DB943		Alcohol cirrhosis		2023	9999	13/10/2023	PH		
+1628	DB943		Alcohol liver cirrhosis		2023	9999	13/10/2023	PH		
+1629	DB943		Alcoholic cirrhosis		2023	9999	13/10/2023	PH		
+1630	DB943		Alcoholic cirrhosis liver		2023	9999	13/10/2023	PH		
+1631	DB943		Alcoholic cirrhosis of liver		2023	9999	13/10/2023	PH	14/12/2023	PH
+1632	DB943		Alcoholic cirrhosis of the liver		2023	9999	13/10/2023	PH	14/12/2023	PH
+1633	DB943		Alcoholic liver cirrhosis		2023	9999	13/10/2023	PH		
+1634	DB943		Alcohol-related cirrhosis		2023	9999	13/10/2023	PH		
+1635	DB943		Alcohol-related cirrhosis liver		2023	9999	13/10/2023	PH		
+1636	DB943		Alcohol-related liver cirrhosis		2023	9999	13/10/2023	PH		
+1637	DB943		Decompensated alcoholic liver cirrhosis		2023	9999	01/11/2023	PH		
+1638	DB943		Decompensated alcohol-related liver cirrhosis		2023	9999	13/10/2023	MF		
+1639	DB943&XT8W		Chronic alcoholic liver cirrhosis		2023	9999	13/10/2023	PH		
+1640	DB94Y		Decompensated alcohol liver disease		2023	9999	13/10/2023	PH		
+1641	DB94Y		Decompensated alcoholic liver disease		2023	9999	13/10/2023	PH		
+1642	DB94Y		Decompensated alcohol-related liver disease		2023	9999	13/10/2023	PH		
+1643	DB94Y&XT8W		Decompensated chronic alcoholic liver disease		2023	9999	04/12/2023	PH		
+1644	DB94Z		Alcohol associated liver disease		2023	9999	31/10/2023	PH		
+1645	DB94Z		Alcohol liver disease		2023	9999	13/10/2023	PH		
+1646	DB94Z		Alcoholic liver disease		2023	9999	13/10/2023	PH		
+1647	DB94Z		Alcoholic related liver disease		2023	9999	09/11/2023	PH		
+1648	DB94Z		Alcohol-related liver disease		2023	9999	13/10/2023	PH		
+1649	DB94Z&XS25		Advanced alcoholic liver disease		2023	9999	13/10/2023	PH		
+1650	DB94Z&XT8W		Alcohol-related chronic liver disease		2023	9999	05/12/2023	PH		
+1651	DB94Z&XT8W		Chronic alcoholic liver disease		2023	9999	13/10/2023	PH		
+1652	DB94Z&XT8W		Chronic alcohol-related liver disease		2023	9999	13/10/2023	PH		
+1653	DB95Z		Drug induced liver injury		2023	9999	13/10/2023	PH		
+1654	DB960		Autoimmune hepatitis		2023	9999	13/10/2023	PH		
+1655	DB961Z		Primary biliary cholangitis		2023	9999	19/10/2023	PH		
+1656	DB961Z		Primary biliary cirrhosis		2023	9999	13/10/2023	MF		
+1657	DB962Z		Primary sclerosing cholangitis		2023	9999	13/10/2023	PH		
+1658	DB97Z		Hepatitis		2023	9999	13/11/2023	ET		
+1659	DB983		Portal vein thrombosis		2023	9999	13/10/2023	PH		
+1660	DB987Z		Portal hypertension		2023	9999	13/10/2023	PH		
+1661	DB98B		Ischaemic hepatitis		2023	9999	13/10/2023	PH		
+1662	DB990		Chronic liver disease		2023	9999	13/10/2023	PH		
+1663	DB990		Decompensated chronic liver disease		2023	9999	13/10/2023	PH		
+1664	DB992		Hepatorenal failure		2023	9999	13/10/2023	PH		
+1665	DB992		Hepatorenal syndrome		2023	9999	13/10/2023	PH		
+1666	DB993		Portopulmonary hypertension		2023	9999	21/11/2023	PH		
+1667	DB994		Hepatopulmonary syndrome		2023	9999	13/10/2023	PH		
+1668	DB995		Hepatic encephalopathy		2023	9999	13/10/2023	PH		
+1669	DB997		Decompensated liver disease		2023	9999	13/10/2023	PH		
+1670	DB997		Decompensated liver failure		2023	9999	13/10/2023	PH		
+1671	DB997		End stage liver disease		2023	9999	13/10/2023	PH		
+1672	DB997		End stage liver failure		2023	9999	13/10/2023	PH		
+1673	DB997		Hepatic failure		2023	9999	13/10/2023	PH		
+1674	DB997		Liver failure		2023	9999	13/10/2023	PH		
+1675	DB998		Chronic liver failure		2023	9999	13/10/2023	PH		
+1676	DB9Z		Liver disease		2023	9999	13/10/2023	PH		
+1677	DC1002		Bile duct obstruction		2023	9999	21/11/2023	PH		
+1678	DC1002		Biliary obstruction		2023	9999	13/10/2023	PH		
+1679	DC1002		Cholestasis		2023	9999	18/12/2023	PH		
+1680	DC1002		Obstructive jaundice		2023	9999	13/10/2023	PH		
+1681	DC110&XA8KL9		Calculous cholecystitis		2023	9999	13/10/2023	PH		
+1682	DC113		Gall stones		2023	9999	13/10/2023	PH		
+1683	DC113		Gallbladder stones		2023	9999	13/10/2023	PH		
+1684	DC113		Gallstone		2023	9999	13/10/2023	PH		
+1685	DC113		Gallstone disease		2023	9999	05/12/2023	PH		
+1686	DC113		Gallstones		2023	9999	13/10/2023	PH		
+1687	DC116		Choledocholithiasis		2023	9999	13/10/2023	PH		
+1688	DC116&XA6R80		Common bile duct stone		2023	9999	13/10/2023	PH		
+1689	DC116&XA6R80		Common bile duct stones		2023	9999	19/10/2023	PH		
+1690	DC11Z		Cholelithiasis		2023	9999	13/10/2023	PH		
+1691	DC120Y		Empyema gallbladder		2023	9999	13/10/2023	PH		
+1692	DC120Y		Gallbladder empyema		2023	9999	12/12/2023	PH		
+1693	DC120Z		Acalculous cholecystitis		2023	9999	13/10/2023	PH		
+1694	DC120Z		Acute cholecystitis		2023	9999	13/10/2023	PH		
+1695	DC121		Chronic cholecystitis		2023	9999	21/11/2023	PH		
+1696	DC12Z		Cholecystitis		2023	9999	13/10/2023	PH		
+1697	DC13		Acute cholangitis		2023	9999	13/10/2023	PH		
+1698	DC13		Ascending cholangitis		2023	9999	13/10/2023	PH		
+1699	DC13		Biliary sepsis		2023	9999	13/10/2023	PH		
+1700	DC13		Cholangitis		2023	9999	13/10/2023	PH		
+1701	DC140		Haemobilia		2023	9999	13/10/2023	PH		
+1702	DC312		Gallstone pancreatitis		2023	9999	13/10/2023	PH		
+1703	DC31Y		Acute haemorrhagic pancreatitis		2023	9999	13/10/2023	PH		
+1704	DC31Y		Acute necrotising pancreatitis		2023	9999	13/10/2023	PH		
+1705	DC31Y		Haemorrhagic pancreatitis		2023	9999	13/10/2023	PH		
+1706	DC31Y		Necrotising pancreatitis		2023	9999	13/10/2023	PH		
+1707	DC31Z		Acute pancreatitis		2023	9999	13/10/2023	PH		
+1708	DC31Z		Pancreatitis		2023	9999	13/10/2023	PH		
+1709	DC31Z&XS25		Acute severe pancreatitis		2023	9999	13/10/2023	PH		
+1710	DC31Z&XS25		Severe acute pancreatitis		2023	9999	01/12/2023	PH		
+1711	DC31Z&XS25		Severe pancreatitis		2023	9999	13/10/2023	PH		
+1712	DC320		Calcific pancreatitis		2023	9999	13/10/2023	PH		
+1713	DC32Z		Chronic pancreatitis		2023	9999	13/10/2023	PH		
+1714	DC35Z		Pancreatic necrosis		2023	9999	13/10/2023	PH		
+1715	DC5000		Bacterial peritonitis		2023	9999	13/10/2023	PH		
+1716	DC5000		Spontaneous bacterial peritonitis		2023	9999	13/10/2023	PH		
+1717	DC501Y		Faecal peritonitis		2023	9999	13/10/2023	PH		
+1718	DC502		Pelvic abscess		2023	9999	13/10/2023	PH		
+1719	DC502		Subphrenic abscess		2023	9999	13/10/2023	PH		
+1720	DC50Z		Adhesion		2023	9999	13/10/2023	PH		
+1721	DC50Z		Peritonitis		2023	9999	13/10/2023	PH		
+1722	DC50Z&XT5R		Acute peritonitis		2023	9999	13/10/2023	PH		
+1723	DC511		Abdominal adhesions		2023	9999	13/10/2023	PH		
+1724	DC511		Adhesions		2023	9999	13/10/2023	PH		
+1725	DC511		Bowel adhesions		2023	9999	13/10/2023	PH		
+1726	DC512		Haemoperitoneum		2023	9999	13/10/2023	PH		
+1727	DC512&XA6S21		Retroperitoneal haematoma		2023	9999	13/10/2023	PH		
+1728	DC80Z&XA8YJ9		Sigmoid diverticulitis		2023	9999	05/12/2023	PH		
+1729	DD000		Diverticular abscess		2023	9999	13/10/2023	MF		
+1730	DD0000		Perforated diverticulitis		2023	9999	13/10/2023	PH		
+1731	DD00Z		Acute diverticulitis		2023	9999	13/10/2023	PH		
+1732	DD00Z		Diverticulitis		2023	9999	13/10/2023	PH		
+1733	DD01Z		Diverticulosis		2023	9999	13/10/2023	PH		
+1734	DD02Z		Diverticular perforation		2023	9999	13/10/2023	PH		
+1735	DD02Z		Perforated diverticular disease		2023	9999	13/10/2023	MF		
+1736	DD02Z		Perforated diverticulum		2023	9999	13/10/2023	PH		
+1737	DD1Z		Diverticular disease		2023	9999	13/10/2023	PH		
+1738	DD1Z&XA8YJ9		Sigmoid diverticular disease		2023	9999	13/10/2023	PH		
+1739	DD300		Mesenteric artery thrombosis		2023	9999	13/10/2023	PH		
+1740	DD300&XA3VR0		Superior mesenteric artery thrombosis		2023	9999	26/10/2023	PH		
+1741	DD300&XA3VR0		Superior mesenteric artery thrombus		2023	9999	19/12/2023	PH		
+1742	DD301		Acute mesenteric ischaemia		2023	9999	13/10/2023	PH		
+1743	DD30Z		Acute bowel ischaemia		2023	9999	13/10/2023	PH		
+1744	DD30Z		Acute intestinal ischaemia		2023	9999	13/10/2023	PH		
+1745	DD30Z		Acute ischaemic bowel		2023	9999	13/10/2023	PH		
+1746	DD30Z		Bowel infarction		2023	9999	13/10/2023	PH		
+1747	DD30Z		Intestinal infarction		2023	9999	13/10/2023	PH		
+1748	DD30Z&XA1B13		Large bowel infarction		2023	9999	06/12/2023	MN		
+1749	DD30Z&XA6452		Acute small bowel ischaemia		2023	9999	06/12/2023	PH		
+1750	DD30Z&XA6452		Small bowel infarction		2023	9999	13/10/2023	PH		
+1751	DD30Z&XA6452		Small intestine infarction		2023	9999	06/12/2023	MN		
+1752	DD3100		Ischaemic colitis		2023	9999	13/10/2023	PH		
+1753	DD310Z		Mesenteric ischaemia		2023	9999	13/10/2023	PH		
+1754	DD3Z		Bowel ischaemia		2023	9999	13/10/2023	PH		
+1755	DD3Z		Colon ischaemia		2023	9999	13/10/2023	PH		
+1756	DD3Z		Colonic ischaemia		2023	9999	18/12/2023	PH		
+1757	DD3Z		Intestinal ischaemia		2023	9999	13/10/2023	PH		
+1758	DD3Z		Ischaemic bowel		2023	9999	13/10/2023	PH		
+1759	DD3Z		Ischaemic bowel disease		2023	9999	13/10/2023	PH		
+1760	DD3Z		Ischaemic enteritis		2023	9999	13/10/2023	PH		
+1761	DD3Z		Ischaemic gut		2023	9999	13/10/2023	PH		
+1762	DD3Z&XA03U9		Large bowel ischaemia		2023	9999	09/11/2023	PH		
+1763	DD3Z&XA6452	DD30Z&XA6452	Small bowel ischaemia and infarction		2023	9999	04/12/2023	PH		
+1764	DD3Z&XA6452		Ischaemic small bowel		2023	9999	13/10/2023	ET		
+1765	DD3Z&XA6452		Small bowel ischaemia		2023	9999	13/10/2023	PH		
+1766	DD500	ME247	Incarcerated hiatus hernia		2023	9999	12/12/2023	PH		
+1767	DD500		Diaphragmatic hernia		2023	9999	13/10/2023	PH		
+1768	DD500		Hiatus hernia		2023	9999	13/10/2023	PH		
+1769	DD500		Large hiatus hernia		2023	9999	13/10/2023	PH		
+1770	DD502		Abdominal wall abscess		2023	9999	13/10/2023	PH		
+1771	DD51	ME242	Obstructed inguinal hernia		2023	9999	13/10/2023	PH		
+1772	DD51	ME247	Incarcerated inguinal hernia		2023	9999	13/10/2023	PH		
+1773	DD51	ME248	Strangulated inguinal hernia		2023	9999	15/10/2023	PH		
+1774	DD51		Inguinal hernia		2023	9999	13/10/2023	PH		
+1775	DD51&XK8G		Left inguinal hernia		2023	9999	13/10/2023	PH		
+1776	DD51&XK9K		Right inguinal hernia		2023	9999	09/11/2023	PH		
+1777	DD52	ME247	Incarcerated femoral hernia		2023	9999	13/10/2023	PH		
+1778	DD52		Femoral hernia		2023	9999	21/11/2023	PH		
+1779	DD53	ME242	Incarcerated umbilical hernia		2023	9999	20/12/2023	PH		
+1780	DD53	ME248	Strangulated umbilical hernia		2023	9999	15/10/2023	PH		
+1781	DD53		Umbilical hernia		2023	9999	13/10/2023	PH		
+1782	DD54	ME247	Incarcerated paraumbilical hernia		2023	9999	13/10/2023	PH		
+1783	DD54		Paraumbilical hernia		2023	9999	13/10/2023	PH		
+1784	DD56		Incisional hernia		2023	9999	13/10/2023	PH		
+1785	DD57		Parastomal hernia		2023	9999	13/10/2023	PH		
+1786	DD5Y	ME247	Incarcerated hernia		2023	9999	13/10/2023	PH		
+1787	DD5Y&XA3KX0		Abdominal wall hernia		2023	9999	13/10/2023	PH		
+1788	DD5Z		Abdominal hernia		2023	9999	13/10/2023	PH		
+1789	DD703		Crohn colitis		2023	9999	13/10/2023	PH		
+1790	DD70Z		Crohn disease		2023	9999	13/10/2023	PH		
+1791	DD710		Pancolitis		2023	9999	13/10/2023	PH		
+1792	DD71Z		Ulcerative colitis		2023	9999	13/10/2023	PH		
+1793	DD7Z		Inflammatory bowel disease		2023	9999	13/10/2023	PH		
+1794	DD910Z		IBS		2023	9999	13/10/2023	PH		
+1795	DD910Z		Irritable bowel syndrome		2023	9999	13/10/2023	PH		
+1796	EA90Z		Psoriasis		2023	9999	13/10/2023	PH		
+1797	EB10		Erythroderma		2023	9999	13/10/2023	PH		
+1798	EB21		Pyoderma gangrenosum		2023	9999	13/10/2023	PH		
+1799	EB400Z		Pemphigus vulgaris		2023	9999	21/11/2023	PH		
+1800	EB410		Bullous pemphigoid		2023	9999	13/10/2023	PH		
+1801	EB41Z		Pemphigoid		2023	9999	09/11/2023	PH		
+1802	EB9042		Calciphylaxis		2023	9999	13/10/2023	PH		
+1803	ED920		Hidradenitis suppurativa		2023	9999	13/10/2023	PH		
+1804	EG9Y&XA14W3		Sacral sore		2023	9999	06/12/2023	PH		
+1805	EH90Z	1H0Z	Infected pressure sore		2023	9999	07/12/2023	PH		
+1806	EH90Z		Pressure sore		2023	9999	13/10/2023	PH		
+1807	EH90Z		Pressure sores		2023	9999	13/10/2023	PH		
+1808	EH90Z		Pressure ulcer		2023	9999	26/10/2023	PH		
+1809	EH90Z		Pressure ulcers		2023	9999	24/10/2023	PH		
+1810	EH90Z		Sacral ulcer		2023	9999	30/11/2023	PH		
+1811	EH90Z&XA2UC8	1H0Z	Infected sacral pressure sore		2023	9999	13/10/2023	ET		
+1812	EH90Z&XA2UC8		Sacral pressure sore		2023	9999	13/10/2023	PH		
+1813	FA0Z		Osteoarthritis		2023	9999	13/10/2023	PH		
+1814	FA0Z&XS25		Severe osteoarthritis		2023	9999	13/10/2023	PH		
+1815	FA10Z		Septic arthritis		2023	9999	13/10/2023	PH		
+1816	FA200		Felty's syndrome		2023	9999	13/10/2023	PH		
+1817	FA200		Seropositive rheumatoid arthritis		2023	9999	13/10/2023	PH		
+1818	FA201		Seronegative arthritis		2023	9999	13/10/2023	PH		
+1819	FA201		Seronegative rheumatoid arthritis		2023	9999	13/10/2023	PH		
+1820	FA20Z		RA		2023	9999	13/10/2023	PH		
+1821	FA20Z		Rheumatoid arthritis		2023	9999	13/10/2023	PH		
+1822	FA20Z&XS25		Severe rheumatoid arthritis		2023	9999	13/10/2023	PH		
+1823	FA21Z		Psoriatic arthritis		2023	9999	13/10/2023	PH		
+1824	FA21Z		Psoriatic arthropathy		2023	9999	13/10/2023	PH		
+1825	FA22		Polymyalgia		2023	9999	06/12/2023	MN		
+1826	FA22		Polymyalgia rheumatica		2023	9999	13/10/2023	PH		
+1827	FA252Z		Gout		2023	9999	13/10/2023	PH		
+1828	FA2Z		Arthritis		2023	9999	13/10/2023	PH		
+1829	FA2Z		Inflammatory arthritis		2023	9999	13/10/2023	PH		
+1830	FA700	FA701	Kyphoscoliosis		2023	9999	13/10/2023	PH		
+1831	FA700		Kyphosis		2023	9999	13/10/2023	PH		
+1832	FA700		Severe kyphosis		2023	9999	13/10/2023	PH		
+1833	FA701		Scoliosis		2023	9999	13/10/2023	PH		
+1834	FA701&XS25		Severe scoliosis		2023	9999	13/10/2023	PH		
+1835	FA82		Spinal stenosis		2023	9999	13/10/2023	PH		
+1836	FA8Z		Cervical spondylosis		2023	9999	09/11/2023	PH		
+1837	FA8Z		Lumbar spondylosis		2023	9999	13/10/2023	PH		
+1838	FA920Z		Ankylosing spondylitis		2023	9999	13/10/2023	PH		
+1839	FA9Z		Discitis		2023	9999	13/10/2023	PH		
+1840	FB3220		Rhabdomyolysis		2023	9999	13/10/2023	PH		
+1841	FB32Y		Sarcopenia		2023	9999	13/10/2023	ET		
+1842	FB514Z		Retroperitoneal fibrosis		2023	9999	13/10/2023	PH		
+1843	FB80B&XA1673	FB831Z	Osteoporotic neck femur fracture		2023	9999	13/10/2023	PH		
+1844	FB830Z		Osteopenia		2023	9999	13/10/2023	PH		
+1845	FB831Z		Osteoporosis		2023	9999	13/10/2023	PH		
+1846	FB84Y		Chronic osteomyelitis		2023	9999	13/10/2023	PH		
+1847	FB84Z		Osteomyelitis		2023	9999	13/10/2023	PH		
+1848	FB84Z&XA14W3		Sacral osteomyelitis		2023	9999	09/11/2023	PH		
+1849	FB85Z		Paget disease		2023	9999	13/10/2023	PH		
+1850	GA01Y		Pyometra		2023	9999	13/10/2023	PH		
+1851	GA90		Benign prostate hyperplasia		2023	9999	13/10/2023	PH		
+1852	GA90		Benign prostate hypertrophy		2023	9999	13/10/2023	PH		
+1853	GA90		Benign prostatic hyperplasia		2023	9999	13/10/2023	PH		
+1854	GA90		Benign prostatic hypertrophy		2023	9999	13/10/2023	PH		
+1855	GA90		Enlarged prostate		2023	9999	13/10/2023	PH		
+1856	GA90		Prostatic enlargement		2023	9999	13/10/2023	PH		
+1857	GA90		Prostatic hyperplasia		2023	9999	13/10/2023	PH		
+1858	GA90		Prostatic hypertrophy		2023	9999	13/10/2023	PH		
+1859	GB072		Scrotal abscess		2023	9999	13/10/2023	PH		
+1860	GB40		Glomerulonephritis		2023	9999	13/10/2023	PH		
+1861	GB41		Nephrotic syndrome		2023	9999	13/10/2023	PH		
+1862	GB51		Acute pyelonephritis		2023	9999	13/10/2023	PH		
+1863	GB52		Tubular necrosis		2023	9999	13/10/2023	PH		
+1864	GB54		Pyelonephritis		2023	9999	13/10/2023	PH		
+1865	GB54		Tubulointerstitial nephritis		2023	9999	13/10/2023	PH		
+1866	GB55Z		Chronic pyelonephritis		2023	9999	13/10/2023	PH		
+1867	GB564		Hydronephrosis		2023	9999	13/10/2023	PH		
+1868	GB564&XK8G		Left hydronephrosis		2023	9999	13/10/2023	PH		
+1869	GB564&XK9J		Bilateral hydronephrosis		2023	9999	13/10/2023	PH		
+1870	GB56Y		Obstructive nephropathy		2023	9999	13/10/2023	PH		
+1871	GB56Z		Obstructive uropathy		2023	9999	13/10/2023	PH		
+1872	GB58		Pyonephrosis		2023	9999	13/10/2023	PH		
+1873	GB59		Perinephric abscess		2023	9999	28/11/2023	PH		
+1874	GB59		Renal abscess		2023	9999	13/10/2023	PH		
+1875	GB59&XK8G		Left perinephric abscess		2023	9999	06/12/2023	MN		
+1876	GB60Z	GC2Z	Kidney injury on kidney disease		2023	9999	13/10/2023	MF		
+1877	GB60Z		Acute kidney disease		2023	9999	13/10/2023	PH		
+1878	GB60Z		Acute kidney failure		2023	9999	13/10/2023	PH		
+1879	GB60Z		Acute kidney injury		2023	9999	13/10/2023	PH		
+1880	GB60Z		Acute kidney injury (non-traumatic)		2023	9999	13/10/2023	PH		
+1881	GB60Z		Acute renal failure		2023	9999	13/10/2023	PH		
+1882	GB60Z		Acute renal impairment		2023	9999	13/10/2023	PH		
+1883	GB60Z		AKI		2023	9999	13/10/2023	PH		
+1884	GB611		CKD 2		2023	9999	30/11/2023	PH		
+1885	GB612		CKD 3		2023	9999	13/10/2023	PH		
+1886	GB612		CKD 3a		2023	9999	13/10/2023	PH		
+1887	GB613		CKD 3b		2023	9999	13/10/2023	PH		
+1888	GB614		CKD 4		2023	9999	13/10/2023	PH		
+1889	GB615		CKD 5		2023	9999	13/10/2023	PH		
+1890	GB615		End stage kidney disease		2023	9999	13/10/2023	PH		
+1891	GB615		End stage kidney failure		2023	9999	31/10/2023	PH		
+1892	GB615		End stage renal disease		2023	9999	13/10/2023	PH		
+1893	GB615		End stage renal failure		2023	9999	13/10/2023	PH		
+1894	GB61Z	BA00Z	Cardiorenal failure		2023	9999	24/10/2023	ET		
+1895	GB61Z		Chronic kidney disease		2023	9999	13/10/2023	PH		
+1896	GB61Z		Chronic kidney failure		2023	9999	13/10/2023	PH		
+1897	GB61Z		Chronic kidney injury		2023	9999	31/10/2023	PH		
+1898	GB61Z		Chronic renal disease		2023	9999	13/10/2023	PH		
+1899	GB61Z		Chronic renal failure		2023	9999	13/10/2023	PH		
+1900	GB61Z		Chronic renal impairment		2023	9999	13/10/2023	PH		
+1901	GB61Z		CKD		2023	9999	13/10/2023	PH		
+1902	GB61Z		Diabetic kidney disease		2023	9999	13/10/2023	PH		
+1903	GB61Z		Diabetic nephropathy		2023	9999	13/10/2023	PH		
+1904	GB61Z&XS25		End stage chronic kidney disease		2023	9999	13/10/2023	PH		
+1905	GB61Z&XS25		Severe chronic kidney disease		2023	9999	13/10/2023	PH		
+1906	GB6Z		Kidney failure		2023	9999	13/10/2023	PH		
+1907	GB6Z		Renal failure		2023	9999	13/10/2023	PH		
+1908	GB6Z		Renal impairment		2023	9999	13/10/2023	PH		
+1909	GB6Z		Uraemia		2023	9999	06/12/2023	MN		
+1910	GB7000		Staghorn calculus		2023	9999	13/10/2023	PH		
+1911	GB700Z		Kidney stones		2023	9999	13/10/2023	PH		
+1912	GB700Z		Nephrolithiasis		2023	9999	13/10/2023	PH		
+1913	GB700Z		Renal calculi		2023	9999	13/10/2023	PH		
+1914	GB700Z		Renal calculus		2023	9999	15/10/2023	PH		
+1915	GB700Z		Renal stones		2023	9999	13/10/2023	PH		
+1916	GB701		Ureteric calculus		2023	9999	13/10/2023	PH		
+1917	GB701		Ureteric stone		2023	9999	13/10/2023	PH		
+1918	GB81		Adult polycystic kidney disease		2023	9999	13/10/2023	PH		
+1919	GB81		Autosomal dominant polycystic kidney disease		2023	9999	13/10/2023	PH		
+1920	GB8Y		Polycystic kidney		2023	9999	13/10/2023	PH		
+1921	GB8Y		Polycystic kidney disease		2023	9999	13/10/2023	PH		
+1922	GB8Y		Polycystic kidneys		2023	9999	13/10/2023	PH		
+1923	GB903		Ischaemic nephropathy		2023	9999	13/10/2023	PH		
+1924	GC001		Emphysematous cystitis		2023	9999	13/10/2023	PH		
+1925	GC00Z		Cystitis		2023	9999	13/10/2023	PH		
+1926	GC011		Colovesical fistula		2023	9999	13/10/2023	PH		
+1927	GC013		Bladder rupture		2023	9999	17/10/2023	PH		
+1928	GC03		Urethral stricture		2023	9999	13/10/2023	PH		
+1929	GC080		E coli urinary tract infection		2023	9999	13/10/2023	PH		
+1930	GC080		E coli urosepsis		2023	9999	13/10/2023	PH		
+1931	GC080		Urosepsis due to escherichia coli		2023	9999	12/12/2023	PH		
+1932	GC080		Urosepsis secondary to e coli		2023	9999	31/10/2023	PH		
+1933	GC080		Urosepsis with e coli		2023	9999	31/10/2023	PH		
+1934	GC081		Klebsiella urinary tract infection		2023	9999	13/10/2023	PH		
+1935	GC08Z		Active urinary tract infection		2023	9999	13/10/2023	PH		
+1936	GC08Z		Recurrent urinary tract infection		2023	9999	13/10/2023	MF		
+1937	GC08Z		Recurrent Urinary Tract Infections		2023	9999	13/10/2023	MF		
+1938	GC08Z		Urinary infection		2023	9999	13/10/2023	PH		
+1939	GC08Z		Urinary sepsis		2023	9999	13/10/2023	PH		
+1940	GC08Z		Urinary tract infection		2023	9999	13/10/2023	PH		
+1941	GC08Z		Urine infection		2023	9999	13/10/2023	PH		
+1942	GC08Z		Urosepsis		2023	9999	13/10/2023	PH		
+1943	GC08Z		UTI		2023	9999	13/10/2023	PH		
+1944	GC08Z&XA34X0		Lower urinary tract infection		2023	9999	13/10/2023	ET		
+1945	GC08Z&XD1ZP3		Catheter associated urinary tract infection		2023	9999	13/10/2023	PH		
+1946	GC2Z&XA6KU8		Kidney disease		2023	9999	29/11/2023	PH		
+1947	GC2Z&XA6KU8		Nephropathy		2023	9999	13/10/2023	PH		
+1948	GC2Z&XA6KU8		Renal disease		2023	9999	13/10/2023	PH		
+1949	KA213Z		Extreme prematurity		2023	9999	13/10/2023	PH		
+1950	KA214Z		Prematurity		2023	9999	13/10/2023	PH		
+1951	KB88Z		Necrotising enterocolitis		2023	9999	13/10/2023	PH		
+1952	LA02Z		Spina bifida		2023	9999	13/10/2023	PH		
+1953	LA050		Microcephaly		2023	9999	13/10/2023	PH		
+1954	LA8703		Ebstein anomaly		2023	9999	13/10/2023	PH		
+1955	LA884Z		Ventricular septal defect		2023	9999	13/10/2023	PH		
+1956	LA8A22		Bicuspid aortic valve		2023	9999	13/10/2023	PH		
+1957	LA8E0		Patent foramen ovale		2023	9999	13/10/2023	PH		
+1958	LA8EY		Atrial septal defect		2023	9999	13/10/2023	PH		
+1959	LA8Z&XA6H07		Congenital heart disease		2023	9999	13/10/2023	PH		
+1960	LA9000		Hereditary haemorrhagic telangiectasia		2023	9999	21/11/2023	PH		
+1961	LB11		Pharyngeal pouch		2023	9999	13/10/2023	PH		
+1962	LD2400		Achondroplasia		2023	9999	13/10/2023	PH		
+1963	LD24K0		Osteogenesis imperfecta		2023	9999	13/10/2023	PH		
+1964	LD270Y		ADULT syndrome		2023	9999	13/10/2023	PH		
+1965	LD2801		Marfan syndrome		2023	9999	13/10/2023	PH		
+1966	LD281		Ehlers-Danlos syndrome		2023	9999	13/10/2023	PH		
+1967	LD2B		Cockayne syndrome		2023	9999	13/10/2023	PH		
+1968	LD2D10		Neurofibromatosis type 1		2023	9999	13/10/2023	PH		
+1969	LD2D1Z		Neurofibromatosis		2023	9999	13/10/2023	PH		
+1970	LD2D2		Tuberous sclerosis		2023	9999	13/10/2023	PH		
+1971	LD2F15		Noonan's syndrome		2023	9999	13/10/2023	PH		
+1972	LD400		Down syndrome		2023	9999	13/10/2023	PH		
+1973	LD400		Trisomy 21		2023	9999	13/10/2023	PH		
+1974	LD402		Trisomy 18		2023	9999	13/10/2023	PH		
+1975	LD55		Fragile X syndrome		2023	9999	13/10/2023	PH		
+1976	LD903		Prader-Willi syndrome		2023	9999	21/11/2023	PH		
+1977	LD904		Rett syndrome		2023	9999	13/10/2023	PH		
+1978	MA150		Bacteraemia		2023	9999	13/10/2023	PH		
+1979	MA150		Escherichia coli septicaemia		2023	9999	13/10/2023	PH		
+1980	MA150		Gram negative septicaemia		2023	9999	13/10/2023	PH		
+1981	MA150		Group A streptococcal septicaemia		2023	9999	13/10/2023	PH		
+1982	MA150		Septicaemia		2023	9999	13/10/2023	PH		
+1983	MA150		Septicaemia of unknown aetiology		2023	9999	13/10/2023	PH	14/12/2023	PH
+1984	MA150		Septicaemia unknown aetiology		2023	9999	14/12/2023	PH		
+1985	MA150		Staphylococcal aureus septicaemia		2023	9999	17/10/2023	PH		
+1986	MA150		Staphylococcus aureus bacteraemia		2023	9999	13/10/2023	PH		
+1987	MA150		Staphylococcus aureus septicaemia		2023	9999	13/10/2023	PH		
+1988	MA150		Streptococcal septicaemia		2023	9999	13/10/2023	PH		
+1989	MA150		Streptococcus pyogenes septicaemia		2023	9999	13/10/2023	PH		
+1990	MA150&XN5PZ		Gram negative bacteraemia		2023	9999	13/10/2023	PH		
+1991	MA150&XN620		Klebsiella bacteraemia		2023	9999	13/10/2023	PH		
+1992	MA150&XN6LP		Group A streptococcal bacteraemia		2023	9999	13/10/2023	PH		
+1993	MA150&XN6LP		Group A streptococcus bacteraemia		2023	9999	13/10/2023	PH		
+1994	MA150&XN6P4		E coli bacteraemia		2023	9999	13/10/2023	PH		
+1995	MA150&XN6P4		E coli septicaemia		2023	9999	13/10/2023	PH		
+1996	MA150&XN741		Klebsiella pneumoniae bacteraemia		2023	9999	26/10/2023	PH		
+1997	MA150&XN9ZG		Staphylococcal bacteraemia		2023	9999	30/10/2023	PH		
+1998	MA150XN9ZG		Staphylococcal septicaemia		2023	9999	13/10/2023	PH		
+1999	MA151		Candidaemia		2023	9999	13/10/2023	PH		
+2000	MA180Z		Hyperglycaemia		2023	9999	13/10/2023	PH		
+2001	MB210		Cognitive decline		2023	9999	13/10/2023	PH		
+2002	MB21Z		Cognitive impairment		2023	9999	13/10/2023	PH		
+2003	MB21Z		Impaired cognition		2023	9999	13/10/2023	PH		
+2004	MB21Z&XS25		Severe cognitive impairment		2023	9999	13/10/2023	PH		
+2005	MB23Z		Self neglect		2023	9999	13/10/2023	PH		
+2006	MB23Z		Self-neglect		2023	9999	13/10/2023	PH		
+2007	MB243		Anxiety		2023	9999	13/10/2023	PH		
+2008	MB443		Bed bound		2023	9999	13/10/2023	PH		
+2009	MB443		Bedbound		2023	9999	13/10/2023	PH		
+2010	MB443		Immobility		2023	9999	13/10/2023	PH		
+2011	MB443		Reduced mobility		2023	9999	13/10/2023	PH		
+2012	MB44Z		Poor mobility		2023	9999	13/10/2023	PH		
+2013	MB47C		Falls		2023	9999	13/10/2023	PH		
+2014	MB47C		Recurrent falls		2023	9999	13/10/2023	PH		
+2015	MB50Z		Quadriplegia		2023	9999	13/10/2023	PH		
+2016	MB53Z		Hemiplegia		2023	9999	21/11/2023	PH		
+2017	MB53Z&XK8G		Left hemiplegia		2023	9999	06/12/2023	MN		
+2018	MB53Z&XK9K		Right hemiplegia		2023	9999	06/12/2023	MN		
+2019	MB56		Paraplegia		2023	9999	13/10/2023	PH		
+2020	MC810		Rapid ventricular response		2023	9999	17/10/2023	PH		
+2021	MC811		Bradycardia		2023	9999	13/10/2023	PH		
+2022	MC822		Asystolic cardiac arrest		2023	9999	21/11/2023	PH		
+2023	MC824		Cardiopulmonary arrest		2023	9999	13/10/2023	PH		
+2024	MC824		Cardiopulmonary failure		2023	9999	13/10/2023	PH		
+2025	MC824		Cardiorespiratory arrest		2023	9999	13/10/2023	PH		
+2026	MC824		Cardiorespiratory failure		2023	9999	13/10/2023	PH		
+2027	MC824&XT5R		Acute cardiorespiratory failure		2023	9999	13/10/2023	PH		
+2028	MC82Z		Cardiac arrest		2023	9999	13/10/2023	PH		
+2029	MC82Z		Cardiovascular event		2023	9999	13/10/2023	PH		
+2030	MC82Z		Sudden adult cardiac death		2023	9999	13/10/2023	PH		
+2031	MC82Z		Sudden cardiac death		2023	9999	13/10/2023	PH		
+2032	MC82Z		Sudden cardiac event		2023	9999	13/10/2023	PH		
+2033	MC82Z&XE2BE		Out of hospital cardiac arrest		2023	9999	13/10/2023	PH		
+2034	MC82Z&XE36S		In hospital cardiac arrest		2023	9999	13/10/2023	PH		
+2035	MC85		Gangrene		2023	9999	13/10/2023	PH		
+2036	MC85&XA45A6		Gangrene leg		2023	9999	13/10/2023	PH		
+2037	MC85&XA45A6&XK8G		Gangrene left leg		2023	9999	14/12/2023	PH		
+2038	MC85&XA45A6&XK8G		Gangrene of left leg		2023	9999	12/12/2023	PH	14/12/2023	PH
+2039	MC85&XA47V8		Gangrene foot		2023	9999	13/10/2023	PH		
+2040	MC85&XA47V8		Gangrene of foot		2023	9999	13/10/2023	PH	14/12/2023	PH
+2041	MC85&XA47V8		Gangrenous foot		2023	9999	13/10/2023	PH		
+2042	MC85&XA47V8&XK8G		Gangrene left foot		2023	9999	14/12/2023	PH		
+2043	MC85&XA47V8&XK8G		Gangrene of left foot		2023	9999	13/10/2023	PH	14/12/2023	PH
+2044	MC85&XA47V8&XK8G		Left foot gangrene		2023	9999	27/11/2023	PH		
+2045	MC85&XA47V8&XK9K		Gangrene of right foot		2023	9999	13/10/2023	PH	14/12/2023	PH
+2046	MC85&XA47V8&XK9K		Gangrene right foot		2023	9999	13/10/2023	PH		
+2047	MC85&XA4LC9		Gangrene of toe		2023	9999	13/10/2023	PH	14/12/2023	PH
+2048	MC85&XA4LC9		Gangrene toe		2023	9999	14/12/2023	PH		
+2049	MC85&XA4LC9		Gangrenous toe		2023	9999	13/10/2023	PH		
+2050	MC85&XA4LC9		Gangrenous toes		2023	9999	13/10/2023	PH		
+2051	MD111		Hypoxia		2023	9999	13/10/2023	PH		
+2052	MD11Y		Hypoventilation		2023	9999	13/10/2023	PH		
+2053	MD11Y		Hypoventilation syndrome		2023	9999	13/10/2023	PH		
+2054	MD20		Epistaxis		2023	9999	13/10/2023	PH		
+2055	MD22		Haemoptysis		2023	9999	13/10/2023	PH		
+2056	MD23		Intrathoracic haemorrhage		2023	9999	13/10/2023	PH		
+2057	MD23		Pulmonary haemorrhage		2023	9999	13/10/2023	PH		
+2058	MD33		Respiratory arrest		2023	9999	13/10/2023	PH		
+2059	MD82		Abdominal mass		2023	9999	13/10/2023	PH		
+2060	MD82		Pancreatic mass		2023	9999	13/10/2023	PH		
+2061	MD901		Vomiting		2023	9999	13/10/2023	PH		
+2062	MD93		Dysphagia		2023	9999	13/10/2023	PH		
+2063	MD93		Impaired swallow		2023	9999	13/10/2023	PH		
+2064	MD93		Neurogenic dysphagia		2023	9999	13/10/2023	PH		
+2065	MD93		Oropharyngeal dysphagia		2023	9999	13/10/2023	PH		
+2066	MD93		Pharyngeal dysphagia		2023	9999	13/10/2023	PH		
+2067	MD93		Poor swallow		2023	9999	13/10/2023	PH		
+2068	MD93		Poor swallowing		2023	9999	13/10/2023	PH		
+2069	MD93		Severe dysphagia		2023	9999	27/11/2023	PH		
+2070	MD93		Severe oropharyngeal dysphagia		2023	9999	13/10/2023	PH		
+2071	MD93		Swallowing difficulty		2023	9999	13/10/2023	PH		
+2072	MD93		Swallowing impairment		2023	9999	13/10/2023	PH		
+2073	MD93&XT8W		Chronic dysphagia		2023	9999	13/10/2023	PH		
+2074	ME04Z		Ascites		2023	9999	13/10/2023	PH		
+2075	ME050		Constipation		2023	9999	13/10/2023	PH		
+2076	ME050		Faecal impaction		2023	9999	13/10/2023	PH		
+2077	ME050&XS25		Severe constipation		2023	9999	13/10/2023	PH		
+2078	ME050&XT8W		Chronic constipation		2023	9999	13/10/2023	PH		
+2079	ME051		Diarrhoea		2023	9999	14/12/2023	PH		
+2080	ME0Y		Perforated viscus		2023	9999	13/10/2023	PH	14/12/2023	PH
+2081	ME101		Jaundice		2023	9999	21/11/2023	PH		
+2082	ME2430		Small bowel perforation		2023	9999	13/10/2023	MF		
+2083	ME2431		Bowel perforated		2023	9999	13/10/2023	PH		
+2084	ME2431		Bowel perforation		2023	9999	13/10/2023	PH		
+2085	ME2431		Caecal perforation		2023	9999	13/10/2023	PH		
+2086	ME2431		Colonic perforation		2023	9999	18/10/2023	ET		
+2087	ME2431		Intestinal perforation		2023	9999	13/10/2023	ET		
+2088	ME2431		Large bowel perforation		2023	9999	13/10/2023	PH		
+2089	ME2431		Perforated bowel		2023	9999	13/10/2023	PH		
+2090	ME2431		Perforation bowel		2023	9999	14/12/2023	PH		
+2091	ME2431		Perforation colon		2023	9999	14/12/2023	PH		
+2092	ME2431		Perforation large bowel		2023	9999	14/12/2023	PH		
+2093	ME2431		Perforation of bowel		2023	9999	13/10/2023	PH	14/12/2023	PH
+2094	ME2431		Perforation of large bowel		2023	9999	13/10/2023	PH	14/12/2023	PH
+2095	ME2431		Perforation of small bowel		2023	9999	15/10/2023	PH	14/12/2023	PH
+2096	ME2431		Perforation of the bowel		2023	9999	13/10/2023	ET	14/12/2023	PH
+2097	ME2431		Perforation of the colon		2023	9999	09/11/2023	PH	14/12/2023	PH
+2098	ME2431		Perforation of the large bowel		2023	9999	09/11/2023	PH	14/12/2023	PH
+2099	ME2431		Perforation small bowel		2023	9999	14/12/2023	PH		
+2100	ME2431		Sigmoid perforated		2023	9999	13/10/2023	PH		
+2101	ME2431		Sigmoid perforation		2023	9999	13/10/2023	MF		
+2102	ME2431&XA8YJ9		Perforation of sigmoid colon		2023	9999	13/10/2023	ET	14/12/2023	PH
+2103	ME2431&XA8YJ9		Perforation sigmoid colon		2023	9999	14/12/2023	PH		
+2104	ME2435&XA8KL9		Gallbladder perforation		2023	9999	13/10/2023	PH		
+2105	ME2435&XA8KL9		Perforated gallbladder		2023	9999	13/10/2023	PH		
+2106	ME2435&XA8KL9		Perforation gallbladder		2023	9999	19/12/2023	PH		
+2107	ME243Y		Gastric perforation		2023	9999	13/10/2023	PH		
+2108	ME243Z		Gastrointestinal perforation		2023	9999	13/10/2023	PH		
+2109	ME243Z		Perforated intestine		2023	9999	13/10/2023	PH		
+2110	ME243Z		Perforated intra-abdominal viscus		2023	9999	13/10/2023	PH		
+2111	ME243Z		Perforation abdominal viscus		2023	9999	14/12/2023	PH		
+2112	ME243Z		Perforation of abdominal viscus		2023	9999	13/10/2023	PH	14/12/2023	PH
+2113	ME2490		Acute gastrointestinal haemorrhage		2023	9999	13/10/2023	PH		
+2114	ME2490		Acute upper gastrointestinal bleed		2023	9999	01/12/2023	PH		
+2115	ME249Z		Gastrointestinal bleed		2023	9999	13/10/2023	PH		
+2116	ME249Z		Gastrointestinal bleeding		2023	9999	13/10/2023	PH		
+2117	ME249Z		Gastrointestinal haemorrhage		2023	9999	13/10/2023	PH		
+2118	ME249Z		Lower gastrointestinal bleed		2023	9999	13/10/2023	PH		
+2119	ME249Z		Lower gastrointestinal haemorrhage		2023	9999	13/10/2023	PH		
+2120	ME249Z		Upper gastrointestinal bleed		2023	9999	13/10/2023	PH		
+2121	ME249Z		Upper gastrointestinal bleeding		2023	9999	13/10/2023	PH		
+2122	ME249Z		Upper gastrointestinal haemorrhage		2023	9999	13/10/2023	PH		
+2123	ME249Z		Upper gastrointestinal tract haemorrhage		2023	9999	13/10/2023	PH		
+2124	ME249Z		Upper GI bleed		2023	9999	13/10/2023	PH		
+2125	ME249Z&XT5R		Acute upper gastrointestinal haemorrhage		2023	9999	05/12/2023	PH		
+2126	ME24A1		Rectal haemorrhage		2023	9999	13/10/2023	PH		
+2127	ME24A4		Melaena		2023	9999	06/12/2023	MN		
+2128	ME24A5		Haematemesis		2023	9999	13/10/2023	PH		
+2129	ME24Y		Gastric haemorrhage		2023	9999	13/10/2023	PH		
+2130	MF503		Urinary retention		2023	9999	13/10/2023	PH		
+2131	MF504Z		Haematuria		2023	9999	13/10/2023	PH		
+2132	MF540		Glomerulosclerosis		2023	9999	13/10/2023	PH		
+2133	MF540&XT8W		Chronic renal atrophy		2023	9999	13/10/2023	PH		
+2134	MF85		Goodpasture syndrome		2023	9999	13/10/2023	PH		
+2135	MF8Y		Focal segmental glomerulosclerosis		2023	9999	13/10/2023	PH		
+2136	MF8Y		IgA nephropathy		2023	9999	13/10/2023	PH		
+2137	MF8Y		Immunoglobulin A nephropathy		2023	9999	13/10/2023	PH		
+2138	MG20Z		Cachexia		2023	9999	13/10/2023	PH		
+2139	MG20Z		Deterioration		2023	9999	13/10/2023	PH		
+2140	MG20Z		Inanition		2023	9999	13/10/2023	PH		
+2141	MG22		Asthenia		2023	9999	13/10/2023	PH		
+2142	MG22		Debility		2023	9999	13/10/2023	PH		
+2143	MG22		Exhaustion		2023	9999	13/10/2023	PH		
+2144	MG22		Functional decline		2023	9999	13/10/2023	PH		
+2145	MG22		General debility		2023	9999	13/10/2023	PH		
+2146	MG27		Abdominal haemorrhage		2023	9999	13/10/2023	PH		
+2147	MG27		Exsanguination		2023	9999	13/10/2023	PH		
+2148	MG27		Haemorrhage		2023	9999	13/10/2023	PH		
+2149	MG27		Intra-abdominal haemorrhage		2023	9999	13/10/2023	PH		
+2150	MG27		Retroperitoneal haemorrhage		2023	9999	13/10/2023	PH		
+2151	MG2A		Advanced age		2023	9999	13/10/2023	PH		
+2152	MG2A		Age		2023	9999	13/10/2023	PH		
+2153	MG2A		Age Related Frailty		2023	9999	13/10/2023	PH		
+2154	MG2A		Biological frailty		2023	9999	13/10/2023	PH		
+2155	MG2A		Biological frailty of old age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2156	MG2A		Biological frailty old age		2023	9999	14/12/2023	PH		
+2157	MG2A		Clinical frailty		2023	9999	13/10/2023	MF		
+2158	MG2A		Clinical frailty of old age		2023	9999	29/11/2023	ET	14/12/2023	PH
+2159	MG2A		Clinical frailty old age		2023	9999	14/12/2023	PH		
+2160	MG2A		Debility of old age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2161	MG2A		Debility old age		2023	9999	14/12/2023	PH		
+2162	MG2A		Elderly		2023	9999	13/10/2023	PH		
+2163	MG2A		Extreme old age		2023	9999	13/10/2023	PH		
+2164	MG2A		Fragility grand old age		2023	9999	14/12/2023	PH		
+2165	MG2A		Fragility of grand old age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2166	MG2A		Fragility of old age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2167	MG2A		Fragility old age		2023	9999	14/12/2023	PH		
+2168	MG2A		Frail		2023	9999	13/10/2023	PH		
+2169	MG2A		Frail old age		2023	9999	18/12/2023	PH		
+2170	MG2A		Frailty		2023	9999	13/10/2023	PH		
+2171	MG2A		Frailty advanced age		2023	9999	14/12/2023	PH		
+2172	MG2A		Frailty age		2023	9999	13/10/2023	PH		
+2173	MG2A		Frailty elderly		2023	9999	14/12/2023	PH		
+2174	MG2A		Frailty grand old age		2023	9999	14/12/2023	PH		
+2175	MG2A		Frailty great age		2023	9999	14/12/2023	PH		
+2176	MG2A		Frailty great old age		2023	9999	14/12/2023	PH		
+2177	MG2A		Frailty in old age		2023	9999	13/10/2023	PH		
+2178	MG2A		Frailty of advanced age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2179	MG2A		Frailty of age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2180	MG2A		Frailty of grand old age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2181	MG2A		Frailty of great age		2023	9999	30/11/2023	PH	14/12/2023	PH
+2182	MG2A		Frailty of great old age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2183	MG2A		Frailty of old age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2184	MG2A		Frailty of older age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2185	MG2A		Frailty of the elderly		2023	9999	15/10/2023	PH	14/12/2023	PH
+2186	MG2A		Frailty old age		2023	9999	13/10/2023	PH		
+2187	MG2A		Frailty older age		2023	9999	14/12/2023	PH		
+2188	MG2A		Frailty syndrome		2023	9999	13/10/2023	PH		
+2189	MG2A		General frailty		2023	9999	13/10/2023	PH		
+2190	MG2A		General frailty of old age		2023	9999	30/11/2023	PH	14/12/2023	PH
+2191	MG2A		General frailty old age		2023	9999	14/12/2023	PH		
+2192	MG2A		Grand old age		2023	9999	13/10/2023	PH		
+2193	MG2A		Great age		2023	9999	13/10/2023	PH		
+2194	MG2A		Great old age		2023	9999	13/10/2023	PH		
+2195	MG2A		Old age		2023	9999	13/10/2023	PH		
+2196	MG2A		Old age - frailty		2023	9999	29/11/2023	ET		
+2197	MG2A		Old age frailty		2023	9999	13/10/2023	PH		
+2198	MG2A		Physiological frailty		2023	9999	13/10/2023	ET		
+2199	MG2A		Senescence		2023	9999	13/10/2023	PH		
+2200	MG2A		Senile corporal degenerative disease		2023	9999	13/10/2023	PH		
+2201	MG2A		Senile corporeal degeneration		2023	9999	13/10/2023	PH		
+2202	MG2A		Senility		2023	9999	13/10/2023	PH		
+2203	MG2A		Severely frail		2023	9999	30/11/2023	PH		
+2204	MG2A		The frailty of old age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2205	MG2A		The frailty old age		2023	9999	14/12/2023	PH		
+2206	MG2A&XS0T		Moderate frailty		2023	9999	13/10/2023	ET		
+2207	MG2A&XS25		Advanced frailty		2023	9999	13/10/2023	PH		
+2208	MG2A&XS25		Advanced frailty of old age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2209	MG2A&XS25		Advanced frailty old age		2023	9999	14/12/2023	PH		
+2210	MG2A&XS25		Extreme frailty		2023	9999	13/10/2023	PH		
+2211	MG2A&XS25		Extreme frailty of old age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2212	MG2A&XS25		Extreme frailty old age		2023	9999	14/12/2023	PH		
+2213	MG2A&XS25		Severe biological frailty		2023	9999	29/11/2023	PH		
+2214	MG2A&XS25		Severe biological frailty of old age		2023	9999	29/11/2023	PH	14/12/2023	PH
+2215	MG2A&XS25		Severe biological frailty old age		2023	9999	14/12/2023	PH		
+2216	MG2A&XS25		Severe frailty		2023	9999	13/10/2023	PH		
+2217	MG2A&XS25		Severe frailty advanced age		2023	9999	14/12/2023	PH		
+2218	MG2A&XS25		Severe frailty in old age		2023	9999	13/10/2023	ET		
+2219	MG2A&XS25		Severe frailty of advanced age		2023	9999	13/10/2023	ET	14/12/2023	PH
+2220	MG2A&XS25		Severe frailty of old age		2023	9999	13/10/2023	PH	14/12/2023	PH
+2221	MG2A&XS25		Severe frailty old age		2023	9999	14/12/2023	PH		
+2222	MG2A&XS25		Very severe frailty of old age		2023	9999	29/11/2023	PH	14/12/2023	PH
+2223	MG2A&XS25		Very severe frailty old age		2023	9999	14/12/2023	PH		
+2224	MG3001		Fibromyalgia		2023	9999	13/10/2023	PH		
+2225	MG400		Cardiogenic shock		2023	9999	13/10/2023	PH		
+2226	MG401		Haemorrhagic shock		2023	9999	13/10/2023	PH		
+2227	MG401		Hypovolaemic shock		2023	9999	13/10/2023	PH		
+2228	MG40Z		Circulatory failure		2023	9999	13/10/2023	PH		
+2229	MG434Z		Poor oral intake		2023	9999	13/10/2023	PH		
+2230	MG435		Weight loss		2023	9999	13/10/2023	PH		
+2231	MG437		Anorexia		2023	9999	13/10/2023	PH		
+2232	MG450		Cardiac syncope		2023	9999	13/10/2023	PH		
+2233	MG45Z		Syncope		2023	9999	13/10/2023	PH		
+2234	MG4A		Multi organ dysfunction		2023	9999	13/10/2023	PH		
+2235	MG4A		Multi organ dysfunction syndrome		2023	9999	13/10/2023	PH		
+2236	MG4A		Multi organ failure		2023	9999	13/10/2023	PH		
+2237	MG4A		Multi organ system failure		2023	9999	13/10/2023	PH		
+2238	MG4A		Multi organ systems failure		2023	9999	13/10/2023	PH		
+2239	MG4A		Multi system organ failure		2023	9999	13/10/2023	PH		
+2240	MG4A		Multiple organ failure		2023	9999	13/10/2023	PH		
+2241	MG4A		Multiple system organ failure		2023	9999	13/10/2023	ET		
+2242	MG4A		Multisystem organ failure		2023	9999	13/10/2023	PH		
+2243	MH11Z		Sudden infant death syndrome		2023	9999	06/12/2023	MN		
+2244	MH120		SADS		2023	9999	13/10/2023	PH		
+2245	MH120		Sudden adult death syndrome		2023	9999	13/10/2023	PH		
+2246	MH15		Sudden death in epilepsy		2023	9999	13/10/2023	PH		
+2247	MH15		Sudden unexpected death in epilepsy		2023	9999	13/10/2023	PH		
+2248	MH15		Sudden unexplained death in epilepsy		2023	9999	13/10/2023	PH		
+2249	MH15		SUDEP		2023	9999	13/10/2023	PH		
+2250	MH16		Sudden unexpected death in alcohol misuse		2023	9999	19/10/2023	PH		
+2251	NA028		Facial fractures		2023	9999	13/10/2023	PH		
+2252	NA076		Acute subdural haematoma		2023	9999	13/10/2023	PH		
+2253	NA076		Acute subdural haemorrhage		2023	9999	13/10/2023	PH		
+2254	NA076		Chronic subdural haematoma		2023	9999	13/10/2023	PH		
+2255	NA076		Chronic subdural haemorrhage		2023	9999	13/10/2023	PH		
+2256	NA076		Subdural haematoma		2023	9999	13/10/2023	PH		
+2257	NA076		Subdural haemorrhage		2023	9999	13/10/2023	PH		
+2258	NA076		Traumatic subdural haematoma		2023	9999	13/10/2023	PH		
+2259	NA076		Traumatic subdural haemorrhage		2023	9999	13/10/2023	PH		
+2260	NA076&XK9J		Acute bilateral subdural haematomas		2023	9999	13/10/2023	PH		
+2261	NA077		Traumatic subarachnoid haemorrhage		2023	9999	13/10/2023	PH		
+2262	NA07Y		Traumatic intracranial haemorrhage		2023	9999	13/10/2023	PH		
+2263	NA07Z		Traumatic brain injury		2023	9999	13/10/2023	PH		
+2264	NA0Z		Head injury		2023	9999	13/10/2023	PH		
+2265	NA823Z		Rib fracture		2023	9999	13/10/2023	PH		
+2266	NA824		Rib fractures		2023	9999	13/10/2023	PH		
+2267	NB5214		Fracture of pubic rami		2023	9999	13/10/2023	PH	14/12/2023	PH
+2268	NB5214		Fracture pubic rami		2023	9999	14/12/2023	PH		
+2269	NB5214		Pubic rami fracture		2023	9999	13/10/2023	PH		
+2270	NB9163		Duodenal perforation		2023	9999	13/10/2023	PH		
+2271	NB9163		Duodenum perforation		2023	9999	13/10/2023	PH		
+2272	NB9163		Perforation duodenum		2023	9999	14/12/2023	PH		
+2273	NB9163		Perforation of duodenum		2023	9999	21/11/2023	PH	14/12/2023	PH
+2274	NB9221		Bladder perforation		2023	9999	13/10/2023	PH		
+2275	NC123		Humerus fracture		2023	9999	13/10/2023	PH		
+2276	NC722Z		Fracture hip		2023	9999	13/10/2023	PH		
+2277	NC722Z		Fracture neck femur		2023	9999	14/12/2023	PH		
+2278	NC722Z		Fracture neck of femur		2023	9999	13/10/2023	PH	14/12/2023	PH
+2279	NC722Z		Fracture of neck of femur		2023	9999	13/10/2023	PH	14/12/2023	PH
+2280	NC722Z		Fractured neck femur		2023	9999	14/12/2023	PH		
+2281	NC722Z		Fractured neck femur (operated)		2023	9999	14/12/2023	PH		
+2282	NC722Z		Fractured neck of femur		2023	9999	13/10/2023	PH	14/12/2023	PH
+2283	NC722Z		Fractured neck of femur (operated)		2023	9999	13/10/2023	MF	14/12/2023	PH
+2284	NC722Z		Hip fracture		2023	9999	13/10/2023	PH		
+2285	NC722Z		Neck femur fracture		2023	9999	13/10/2023	PH		
+2286	NC722Z		Neck fracture femur		2023	9999	13/10/2023	PH		
+2287	NC722Z		Neck of femur fracture		2023	9999	13/10/2023	PH	14/12/2023	PH
+2288	NC722Z&XK8G		Fracture left neck femur		2023	9999	14/12/2023	PH		
+2289	NC722Z&XK8G		Fracture left neck of femur		2023	9999	09/11/2023	PH	14/12/2023	PH
+2290	NC722Z&XK8G		Fractured left neck femur		2023	9999	14/12/2023	PH		
+2291	NC722Z&XK8G		Fractured left neck of femur		2023	9999	13/10/2023	PH	14/12/2023	PH
+2292	NC722Z&XK8G		Fractured left of left femur		2023	9999	13/10/2023	PH	14/12/2023	PH
+2293	NC722Z&XK8G		Fractured neck left femur		2023	9999	14/12/2023	PH		
+2294	NC722Z&XK8G		Fractured neck of left femur		2023	9999	13/10/2023	PH	14/12/2023	PH
+2295	NC722Z&XK8G		Left neck femur fracture		2023	9999	14/12/2023	PH		
+2296	NC722Z&XK8G		Left neck of femur fracture		2023	9999	13/10/2023	PH	14/12/2023	PH
+2297	NC722Z&XK9K		Fracture right neck femur		2023	9999	14/12/2023	PH		
+2298	NC722Z&XK9K		Fracture right neck of femur		2023	9999	13/10/2023	PH	14/12/2023	PH
+2299	NC722Z&XK9K		Fractured neck of right femur		2023	9999	13/10/2023	PH	14/12/2023	PH
+2300	NC722Z&XK9K		Fractured neck right femur		2023	9999	14/12/2023	PH		
+2301	NC722Z&XK9K		Fractured right neck femur		2023	9999	14/12/2023	PH		
+2302	NC722Z&XK9K		Fractured right neck of femur		2023	9999	13/10/2023	PH	14/12/2023	PH
+2303	NC72Z		Femoral Fracture		2023	9999	13/10/2023	PH		
+2304	NC72Z&XK9K		Fracture of right femur		2023	9999	13/10/2023	PH	14/12/2023	PH
+2305	NC72Z&XK9K		Fracture right femur		2023	9999	14/12/2023	PH		
+2306	NE813		Anastomotic leak		2023	9999	13/10/2023	PH		
+2307	NF02		Hypothermia		2023	9999	13/10/2023	PH		
+2308	PA6Z		Accidental fall		2023	9999	13/10/2023	PH		
+2309	PA6Z		Fall		2023	9999	13/10/2023	PH		
+2310	PA6Z		Mechanical fall		2023	9999	13/10/2023	PH		
+2311	PB04		Aspiration gastric content		2023	9999	13/10/2023	PH		
+2312	PB04		Aspiration gastric contents		2023	9999	14/12/2023	PH		
+2313	PB04		Aspiration gastrointestinal contents		2023	9999	14/12/2023	PH		
+2314	PB04		Aspiration of gastric content		2023	9999	13/10/2023	PH	14/12/2023	PH
+2315	PB04		Aspiration of gastric contents		2023	9999	13/10/2023	PH	14/12/2023	PH
+2316	PB04		Aspiration of gastrointestinal contents		2023	9999	13/10/2023	PH	14/12/2023	PH
+2317	PB04		Aspiration of stomach contents		2023	9999	13/10/2023	PH	14/12/2023	PH
+2318	PB04		Aspiration stomach contents		2023	9999	14/12/2023	PH		
+2319	PB06		Aspiration food		2023	9999	14/12/2023	PH		
+2320	PB06		Aspiration of food		2023	9999	13/10/2023	PH	14/12/2023	PH
+2321	PB07		Aspiration		2023	9999	13/10/2023	PH		
+2322	QB5000		Pacemaker		2023	9999	13/10/2023	PH		
+2323	QB5000		Pacemaker in situ		2023	9999	13/10/2023	PH		
+2324	QB941		Haemodialysis		2023	9999	13/10/2023	PH		
+2325	QB94Z		Dialysis		2023	9999	13/10/2023	PH		
+2326	QB97		Chemotherapy		2023	9999	13/10/2023	ET		
+2327	QC46		History of smoking		2023	9999	13/10/2023	PH	14/12/2023	PH
+2328	QC46		History smoking		2023	9999	14/12/2023	PH		
+2329	QC4Y		History of tobacco use		2023	9999	13/10/2023	PH	14/12/2023	PH
+2330	QC4Y		History tobacco use		2023	9999	14/12/2023	PH		
+2331	QE11Z		Intravenous drug user		2023	9999	19/10/2023	PH		
+2332	QE13		Cigarette smoker		2023	9999	13/10/2023	PH		
+2333	QE13		Cigarette smoking		2023	9999	13/10/2023	PH		
+2334	QE13		Smoker		2023	9999	13/10/2023	PH		
+2335	QE13		Smoking		2023	9999	13/10/2023	PH		
+2336	QE13		Tobacco smoking		2023	9999	13/10/2023	PH		
+2337	QF20		Learning difficulty		2023	9999	13/10/2023	PH		
+2338	QF23		Impaired mobility		2023	9999	13/10/2023	PH		
+2339	RA010	CA40Z	Covid pneumonia		2023	9999	13/10/2023	PH		
+2340	RA010	CA40Z	Covid pneumonitis		2023	9999	13/10/2023	PH		
+2341	RA010	CA40Z	Covid-19 pneumonia		2023	9999	13/10/2023	PH		
+2342	RA010	CA40Z	Covid-19 pneumonitis		2023	9999	13/10/2023	PH		
+2343	RA010		Coronavirus (covid-19) infection		2023	9999	13/10/2023	PH		
+2344	RA010		Covid		2023	9999	13/10/2023	PH		
+2345	RA010		Covid infection		2023	9999	13/10/2023	PH		
+2346	RA010		Covid positive		2023	9999	13/10/2023	PH		
+2347	RA010		Covid-19		2023	9999	13/10/2023	PH		
+2348	RA010		Covid-19 disease		2023	9999	13/10/2023	PH		
+2349	RA010		Covid-19 infection		2023	9999	13/10/2023	PH		
+2350	RA010		Covid-19 positive		2023	9999	13/10/2023	PH		
+2351	RA010		Sars-Cov-2		2023	9999	13/10/2023	PH		
+2352	RA010&XB22	CA40Z	Community acquired covid-19 pneumonitis		2023	9999	13/10/2023	PH		
+2353	RA010&XB22		Community acquired covid-19		2023	9999	13/10/2023	PH		
+2354	RA010&XB22		Community acquired covid-19 infection		2023	9999	13/10/2023	PH		
+2355	RA010&XT5R		Acute covid-19 infection		2023	9999	19/12/2023	PH		
+2356	RA011		Coronavirus		2023	9999	13/10/2023	PH		
+2357	RA011		Coronavirus infection		2023	9999	20/12/2023	PH		
