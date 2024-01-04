@@ -1,6 +1,0 @@
-MainKey	YearStart	YearEnd	DateIn	UserIn	Rank	FilterIn	FilterOut	ActionVar	Likelihood	Prompt	DateOut	UserOut	Comments	NoApplyForDT	AddResultInDT
-010OrderingIssue	2023	9999	25/07/2023	Paul Harris	10	arr[hy]*?the?mi?as?\b	ARRHYTHMIA						Common misspelling (needs to come first to avoid an incorrect fix for '-emai-		
-020FirstFix	2023	9999	25/07/2023	Paul Harris	20	\b(.*)([^a])emia\b	$1$2AEMIA						Replace any -emia to -aemia (skipping those that are already -aemia)		
-020FirstFix	2023	9999	25/07/2023	Paul Harris	30	\b(.*)([^at])emic\b	$1$2AEMIC						"Replace any -emic to -aemic (skipping those that are already -aemic, and avoiding systemic)"		
-020FirstFix	2023	9999	25/07/2023	Paul Harris	40	\ba(cc)?quired\b	ACQUIRED						Common misspelling		
-020FirstFix	2023	9999	07/08/2023	Paul Harris	50	"\bacute[\s-](on|and)?[\s-]?chronic ([^,\n]*)"	"ACUTE $2, CHRONIC $2"						"Splits acute on chronic conditions to ""acute condition, chronic condition"". Uses a comma or new line to identify the end of 'condition', which is imperfect but good enough"		
